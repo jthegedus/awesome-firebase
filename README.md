@@ -68,7 +68,9 @@
 
 ### React
 
-- 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
+- 🔌 [react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
+- 🔌 [react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes Higher Order Component for use with React.
+- 🔌 [re-base](https://github.com/tylermcginnis/re-base) - A Relay inspired library for building React.js + Firebase applications.
 
 ### GraphQL
 
