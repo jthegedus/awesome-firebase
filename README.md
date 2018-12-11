@@ -57,3 +57,4 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. [Contributions of any kind welcome, just follow the guidelines](CONTRIBUTING.md)!
 
 ## License
+[MIT License](https://github.com/jthegedus/awesome-firebase/blob/master/LICENSE.md) © [James Hegedus](http://github.com/jthegedus/)
