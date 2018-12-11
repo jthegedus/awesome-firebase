@@ -30,18 +30,77 @@
 </p>
 
 <!-- toc -->
+<h3 align="center">Table of Contents</h3>
 <p align="center">
     <em>
-    <a href="#one">one</a>
-    · <a href="#two">two</a>
-    · <a href="#three">three</a>
-    · <a href="#contributors">contributors</a>
+    <a href="#web">Web</a>
+    · <a href="#mobile">Mobile</a>
+    · <a href="#server">Server</a>
+    · <a href="#server">Server</a>
+    · <a href="#use-cases">Use Cases</a>
+    · <a href="#other">Other</a>
+    · <a href="#follow">Follow</a>
+    · <a href="#contributors">Contributors</a>
+    </em>
+</p>
+
+<h3 align="center">Legend <a href="https://github.com/kentcdodds/all-contributors#emoji-key">(subset of all-contributors emoji key)</a></h3>
+<p align="center">
+    <em>
+    📝 blog posts
+    · 💡 examples
+    · ✅ tutorials
+    · 📖 docs
+    · 🔌 libraries
+    · 🔧 tools
+    · 📢 talks
+    · 📹 videos
     </em>
 </p>
 
 <!-- MARKDOWN ONLY CONTENT BELOW HERE -->
 
-<!-- sections & content -->
+<!-- START content -->
+
+## Web
+
+### Angular
+
+### React
+
+- 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
+
+### GraphQL
+
+- 📝 [GraphQL Server on Cloud Functions for Firebase]() - host a graphql-express server on Cloud Functions
+- 🔌 [Apollo Link Firebase](https://github.com/Canner/apollo-link-firebase) - provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, link provides Apollo Client querying into the local DB.
+
+## Mobile
+
+### Android
+
+### iOS
+
+## Server
+
+## Use Cases
+
+## Other
+
+- 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer)
+
+## Follow
+
+### Official
+
+- 📹 [Firebase YouTube](https://www.youtube.com/user/Firebase)
+- 📝 [Firebase Blog](https://firebase.googleblog.com/)
+- 🐦 [@firebase](https://twitter.com/firebase)
+- 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase)
+
+### Community
+
+<!-- END content -->
 
 ## Contributors
 
