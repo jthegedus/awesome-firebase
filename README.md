@@ -1,7 +1,7 @@
 <h1 align="center">Awesome Firebase</h1>
 
 <!-- subtitle -->
-<p align="center">List of Firebase talks, tools, examples &amp; articles</p>
+<p align="center">A list of Firebase docs, talks, tools, examples &amp; articles.</p>
 
 <!-- image -->
 
@@ -21,10 +21,10 @@
   <img
       alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
-  <a href="#contribs">
+  <a href="#contributors">
     <img alt="all contributors" src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat" />
   </a>
-  <a href="#contribs">
+  <a href="#contributors">
     <img alt="prs welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" />
   </a>
 </p>
@@ -38,6 +38,10 @@
     · <a href="#contributors">contributors</a>
     </em>
 </p>
+
+<!-- MARKDOWN ONLY CONTENT BELOW HERE -->
+
+<!-- sections & content -->
 
 ## Contributors
 
