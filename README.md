@@ -72,7 +72,7 @@
 
 ### GraphQL
 
-- 📝 [GraphQL Server on Cloud Functions for Firebase](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - host an expressjs server with graphql middleware on Cloud Functions
+- 📝 [GraphQL Server on Cloud Functions for Firebase](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - host an expressjs server with graphql middleware on Cloud Functions.
 - 🔌 [Apollo Link Firebase](https://github.com/Canner/apollo-link-firebase) - provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
 
 ## Mobile
@@ -87,7 +87,8 @@
 
 ## Other
 
-- 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer)
+- 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - explore and manage your Firebase projects.
+- 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
 
 ## Follow
 
