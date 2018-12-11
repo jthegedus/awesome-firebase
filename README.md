@@ -44,7 +44,7 @@
     </em>
 </p>
 
-<h3 align="center">Legend <a href="https://github.com/kentcdodds/all-contributors#emoji-key">(subset of all-contributors emoji key)</a></h3>
+<h3 align="center">Legend</h3>
 <p align="center">
     <em>
     📝 blog posts
