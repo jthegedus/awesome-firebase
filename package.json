@@ -1,0 +1,22 @@
+{
+  "name": "awesome-firebase",
+  "version": "1.0.0",
+  "repository": "https://github.com/jthegedus/awesome-firebase.git",
+  "author": "jthegedus <james@jthegedus.com>",
+  "license": "MIT",
+  "scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "devDependencies": {
+    "all-contributors-cli": "^5.4.1",
+    "husky": "^1.2.0",
+    "prettier": "^1.15.3",
+    "pretty-quick": "^1.8.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  }
+}
