@@ -42,13 +42,23 @@ An item can still be VALID if:
 
 ## Languages
 
-### Adding an item to the main README
+We should aim to support all languages that the Firebase docs support. At the time of writing this is:
 
-If you are adding an item that is not english, please translate the item name and description to english, but include the [ISO 639-1 Code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) between the emoji and item name.
+- KO: 한국어
+- ZH-CN: 简体中文
+- JA: 日本語
+- PT-BR: Português Brasileiro
+- ES-419: Español (América Latina)
+- EN: English
+- ID: Bahasa Indonesia
+
+### Adding an item to the English README
+
+If you are adding an item that is not english, please translate the item name and description to english, but include the [language code](https://www.w3schools.com/tags/ref_language_codes.asp) between the emoji and item name.
 
 ### Non-English versions
 
 If you wish to see this list in another language, please create a PR with translations for items where you can.
 
-- Create a README suffixed with your [ISO 639-1 Code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2). Eg: `README_FR.md` for French.
-- Add your language code to the list at the top of the main readme (README.md)
+- Create a README suffixed with your [language code](https://www.w3schools.com/tags/ref_language_codes.asp) in a folder with your language code. Eg: `ko/README_KO.md` for Korean.
+- Add your [language code](https://www.w3schools.com/tags/ref_language_codes.asp) to the list at the top of the english readme (README.md). The langs supported by Firebase are already there but commented out.
