@@ -70,12 +70,12 @@
 
 - 🔌 [react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
 - 🔌 [react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes Higher Order Component for use with React.
-- 🔌 [re-base](https://github.com/tylermcginnis/re-base) - A Relay inspired library for building React.js + Firebase applications.
+- 🔌 [re-base](https://github.com/tylermcginnis/re-base) - Relay inspired library for building React.js + Firebase applications.
 
 ### GraphQL
 
-- 📝 [GraphQL Server on Cloud Functions for Firebase](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - host an expressjs server with graphql middleware on Cloud Functions.
-- 🔌 [Apollo Link Firebase](https://github.com/Canner/apollo-link-firebase) - provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
+- 📝 [GraphQL Server on Cloud Functions for Firebase](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Host an expressjs server with graphql middleware on Cloud Functions.
+- 🔌 [Apollo Link Firebase](https://github.com/Canner/apollo-link-firebase) - Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
 
 ## Mobile
 
@@ -89,7 +89,7 @@
 
 ## Other
 
-- 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - explore and manage your Firebase projects.
+- 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 - 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
 
 ## Follow
