@@ -1,7 +1,7 @@
 <h1 align="center">Awesome Firebase</h1>
 
 <!-- subtitle -->
-<p align="center">A list of Firebase docs, talks, tools, examples &amp; articles.</p>
+<p align="center">The most up to date list of Firebase docs, talks, tools, examples &amp; articles the internet has to offer.</p>
 
 <!-- image -->
 
@@ -9,14 +9,6 @@
 
 <!-- badges -->
 <p align="center">
-  <a href="https://github.com/prettier/prettier">
-    <img
-        alt="styled with Prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat" />
-  </a>
-  <a href="https://circleci.com/gh/jthegedus/awesome-firebase">
-    <img
-      alt="build status" src="https://img.shields.io/circleci/project/github/jthegedus/awesome-firebase/master.svg" />
-  </a>
   <a href="https://github.com/sindresorhus/awesome">
   <img
       alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
