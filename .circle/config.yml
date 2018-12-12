@@ -1,0 +1,13 @@
+version: 2.1
+jobs:
+  test:
+    docker:
+      - image: circleci/ruby:latest
+    steps:
+      - checkout
+      - run:
+          name: install awesome bot
+          command: gem install awesome_bot
+      - run:
+          name: check readme links
+          command: awesome_bot README.md
