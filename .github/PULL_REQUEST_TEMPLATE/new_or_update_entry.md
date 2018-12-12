@@ -15,7 +15,12 @@ assignees: ""
   ```
   - :legend emoji: [item name](https link) - Description beginning with capital, ending in period.
   ```
-  the item name should be case sensitive following the source where possible.
+  the item name should be case sensitive following the source where possible, unless it is a library/framework, where you should use the package name (minus any weird conventions enforced by the tooling, say, [npm scoped packages](https://docs.npmjs.com/misc/scope)).
+  ```
+  @jthegedus/cool-lib
+  # becomes
+  cool-lib
+  ```
 
 **contributions**
 
