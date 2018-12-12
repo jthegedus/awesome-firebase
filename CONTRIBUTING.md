@@ -2,7 +2,7 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
-## contribute on your own machine
+## Contribute on your own Machine
 
 Currently this project uses Node.js to support prettier & all-contributors. I intend to migrate these to CI entirely, but until then you can follow these steps:
 
