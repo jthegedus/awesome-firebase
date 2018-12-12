@@ -5,7 +5,7 @@
 
 <!-- image -->
 
-![firebase products](images/firebase-develop.gif)
+[<img src="images/firebase-develop.gif" align="center" />](https://firebase.google.com/docs/)
 
 <!-- badges -->
 <p align="center">
