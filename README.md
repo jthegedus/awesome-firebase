@@ -120,4 +120,4 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 
 ## License
 
-[MIT License](https://github.com/jthegedus/awesome-firebase/blob/master/LICENSE) © [James Hegedus](http://github.com/jthegedus/)
+[MIT License](https://github.com/jthegedus/awesome-firebase/blob/master/LICENSE) © [James Hegedus](https://github.com/jthegedus/)
