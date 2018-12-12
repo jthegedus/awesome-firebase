@@ -30,6 +30,7 @@
     · <a href="#server">Server</a>
     · <a href="#server">Server</a>
     · <a href="#use-cases">Use Cases</a>
+    · <a href="#built-with-firebase">Built with Firebase</a>
     · <a href="#other">Other</a>
     · <a href="#follow">Follow</a>
     · <a href="#contributors">Contributors</a>
@@ -83,6 +84,8 @@
 
 - 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 - 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
+
+## Built with Firebase
 
 ## Follow
 
