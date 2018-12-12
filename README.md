@@ -1,7 +1,7 @@
 <h1 align="center">Awesome Firebase</h1>
 
 <!-- subtitle -->
-<p align="center">The most **up to date** list of Firebase docs, talks, tools, examples &amp; articles the internet has to offer.</p>
+<p align="center">The most <b>up to date</b> list of Firebase docs, talks, tools, examples &amp; articles the internet has to offer.</p>
 
 <!-- image -->
 
