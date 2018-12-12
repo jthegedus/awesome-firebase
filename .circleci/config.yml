@@ -10,4 +10,4 @@ jobs:
           command: gem install awesome_bot
       - run:
           name: check readme links
-          command: awesome_bot README.md
+          command: awesome_bot README.md --allow-redirects
