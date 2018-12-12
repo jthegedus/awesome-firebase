@@ -1,22 +1,54 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
-## Adding something to an awesome list
+## contribute on your own machine
 
-If you have something awesome to contribute to an awesome list, this is how you do it.
+Currently this project uses Node.js to support prettier & all-contributors. I intend to migrate these to CI entirely, but until then you can follow these steps:
 
-You'll need a [GitHub account](https://github.com/join)!
+```shell
+# clone/fork
+# install
+yarn
 
-1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
-2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
-3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
-5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+### or
+npm install
+```
 
-## Updating your Pull Request
+## Adding an new Item
 
-Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-\* list guidelines.
+- Try to fit your item into an existing section. Create an Issue to start as discussion about any new sections.
+- Add a new item to the bottom of the list in a section.
+- If a duplicate item exists, discuss why the new item should replace it.
+- Check your spelling & grammar.
+- The item must follow this format:
+  ```
+  - :legend emoji: [item name](https link) - Description beginning with capital, ending in period.
+  ```
 
-[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+### Valid Sources
+
+Roughly speaking, a source is considered valid if - it could be used by a development team or beginner today on a new Firebase project and not lead them astray.
+
+An item is NOT valid if:
+
+- it is an archived GitHub (or other) repository
+- it is an outed project that is no longer actively maintained AND it's the type of project that requires maintenance. Eg: [minimist](https://github.com/substack/minimist) is an unmaintained project but it would still qualify as it doesn't particularly require maintenance.
+
+An item can still be VALID if:
+
+- it is a heavily used project/article (npm downloads being one metric)
+- it is a heavily referenced project/article
+
+## Languages
+
+### Adding an item to the main README
+
+If you are adding an item that is not english, please translate the item name and description to english, but include the [ISO 639-1 Code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) between the emoji and item name.
+
+### Non-English versions
+
+If you wish to see this list in another language, please create a PR with translations for items where you can.
+
+- Create a README prefixed with your [ISO 639-1 Code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2). Eg: `FR_README.md` for French.
+- Add your language code to the list at the top of the main readme (README.md)
