@@ -13,9 +13,9 @@
     <img
         alt="styled with Prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat" />
   </a>
-  <a href="https://travis-ci.org/jthegedus/awesome-firebase">    
+  <a href="https://circleci.com/gh/jthegedus/awesome_bot">
     <img
-      alt="build status" src="https://travis-ci.org/jthegedus/awesome-firebase.svg?branch=master" />
+      alt="build status" src="https://img.shields.io/circleci/project/github/jthegedus/awesome-firebase/master.svg" />
   </a>
   <a href="https://github.com/sindresorhus/awesome">
   <img
