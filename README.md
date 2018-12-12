@@ -28,7 +28,6 @@
     <a href="#web">Web</a>
     · <a href="#mobile">Mobile</a>
     · <a href="#server">Server</a>
-    · <a href="#server">Server</a>
     · <a href="#use-cases">Use Cases</a>
     · <a href="#built-with-firebase">Built with Firebase</a>
     · <a href="#other">Other</a>
