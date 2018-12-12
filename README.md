@@ -13,7 +13,7 @@
     <img
         alt="styled with Prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat" />
   </a>
-  <a href="https://circleci.com/gh/jthegedus/awesome_bot">
+  <a href="https://circleci.com/gh/jthegedus/awesome-firebase">
     <img
       alt="build status" src="https://img.shields.io/circleci/project/github/jthegedus/awesome-firebase/master.svg" />
   </a>
