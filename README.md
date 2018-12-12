@@ -7,6 +7,16 @@
 
 [<img src="images/firebase-develop.gif" align="center" />](https://firebase.google.com/docs/)
 
+<!-- other language links -->
+<p align="right">
+    <!-- <sup><a href="README_ES.md">es</a></sup>
+    <sup><a href="README_ID.md">id</a></sup>
+    <sup><a href="README_JA.md">ja</a></sup>
+    <sup><a href="README_KO.md">ko</a></sup>
+    <sup><a href="README_PT.md">pt</a></sup>
+    <sup><a href="README_ZH.md">zh</a></sup> -->
+</p>
+
 <!-- badges -->
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
