@@ -50,5 +50,5 @@ If you are adding an item that is not english, please translate the item name an
 
 If you wish to see this list in another language, please create a PR with translations for items where you can.
 
-- Create a README prefixed with your [ISO 639-1 Code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2). Eg: `FR_README.md` for French.
+- Create a README suffixed with your [ISO 639-1 Code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2). Eg: `README_FR.md` for French.
 - Add your language code to the list at the top of the main readme (README.md)
