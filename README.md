@@ -30,7 +30,7 @@
 </p>
 
 <!-- toc -->
-<h3 align="center">Table of Contents</h3>
+<h3 align="center">Contents</h3>
 <p align="center">
     <em>
     <a href="#web">Web</a>
