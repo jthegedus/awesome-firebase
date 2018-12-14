@@ -70,14 +70,14 @@
 
 ### React
 
-- 🔌 [react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
-- 🔌 [react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes Higher Order Component for use with React.
-- 🔌 [re-base](https://github.com/tylermcginnis/re-base) - Relay inspired library for building React.js + Firebase applications.
+- 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
+- 🔌 [React Redux Firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes Higher Order Component for use with React.
+- 🔌 [Re-base](https://github.com/tylermcginnis/re-base) - Relay inspired library for building React.js + Firebase applications.
 
 ### GraphQL
 
 - 📝 [GraphQL Server on Cloud Functions for Firebase](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Host an expressjs server with graphql middleware on Cloud Functions.
-- 🔌 [apollo-link-firebase](https://github.com/Canner/apollo-link-firebase) - Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
+- 🔌 [Apollo Link Firebase](https://github.com/Canner/apollo-link-firebase) - Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
 
 ## Mobile
 
