@@ -5,7 +5,9 @@
 
 <!-- image -->
 
-[<img src="images/firebase-develop.gif" align="center" />](https://firebase.google.com/docs/)
+<a href="https://firebase.google.com/docs/" target="_blank" rel="noopener noreferrer">
+    <img src="images/firebase-develop.gif" align="center" />
+</a>
 
 <!-- other language links -->
 <p align="right">
@@ -19,7 +21,7 @@
 
 <!-- badges -->
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome">
+  <a href="https://github.com/sindresorhus/awesome" target="_blank" rel="noopener noreferrer">
   <img
       alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
