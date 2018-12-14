@@ -82,6 +82,7 @@
 - 💡 [FirePad](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase.
 - 🔌 [PolymerFire](https://github.com/FirebaseExtended/polymerfire) - Polymer Web Components for Firebase.
 - 🔌 [VueFire](https://github.com/vuejs/vuefire) - Firebase bindings for Vue.js.
+- 🔌 [GatsbyJS Firebase Data Source](https://www.gatsbyjs.org/packages/gatsby-source-firebase/#gatsby-firebase-source) - Query your Firebase data right into your statically generated pages with Gatsby.
 
 ### Angular
 
@@ -89,9 +90,10 @@
 
 ### React
 
-- 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
+- 🔌 [Firebase UI for React](https://github.com/firebase/firebaseui-web-react) - React Wrapper for firebaseUI Web.
 - 🔌 [React Redux Firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes Higher Order Component for use with React.
 - 🔌 [Re-base](https://github.com/tylermcginnis/re-base) - Relay inspired library for building React.js + Firebase applications.
+- ✅ [The Road to React with Firebase](https://github.com/the-road-to-react-with-firebase/the-road-to-react-with-firebase) - Book teaching how to build business applications with React and Firebase.
 
 ### GraphQL
 
@@ -113,20 +115,25 @@
 
 - 🔌 [GeoFire for Objective-C](https://github.com/firebase/geofire-objc) - Realtime location queries with Firebase.
 - 🔌 [Firebase UI](https://github.com/firebase/firebaseui-ios) - iOS UI bindings for Firebase.
-- 💡 [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
 - 💡 [MLKit - ARCore](https://github.com/FirebaseExtended/MLKit-ARCore) - Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB.
 
 ## Server
+
+<!-- todo -->
+<!-- cloud function samples etc -->
 
 ## Use Cases
 
 ## Other
 
-- 🔌 [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
 - 🔧 [Firebase Tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools.
+- 🔧 [Flamelink](https://flamelink.io/) - CMS for Firebase. Supports Firestore, RealtimeDatabase & Storage.
+- 🔌 [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
 - 💡 [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) - Use Firebase tools to incorporate common features into your games!
-- 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 - 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
+- 📢 [Firebase @ Google Cloud Next '18](https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL) - All Firebase talks @ Google Cloud Next 2018.
+- 📢 [Firebase @ Google IO '18](https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd) - All Firebase talks @ Google IO 2018.
+- 📢 [#AskFirebase YouTube Playlist](https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA) - Official #AskFirebase playlist on YouTube.
 
 ## Built with Firebase
 
@@ -140,6 +147,8 @@
 - 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase)
 
 ### Community
+
+- 📹 [Angular Firebase YouTube](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/featured)
 
 <!-- END content -->
 
