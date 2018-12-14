@@ -68,7 +68,17 @@
 
 ## Web
 
+- 🔌 [Ember Fire](https://github.com/firebase/emberFire) - Official Ember data adapter for Firebase.
+- 🔌 [Firebase Dart](https://github.com/FirebaseExtended/firebase-dart) - Dart wrapper for Firebase.
+- 🔌 [GeoFire for JavaScript](https://github.com/firebase/geofire-js) - Realtime location queries with Firebase.
+- 🔌 [Firebase UI](https://github.com/firebase/firebaseui-web) - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
+- 💡 [FirePad](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase.
+- 🔌 [PolymerFire](https://github.com/FirebaseExtended/polymerfire) - Polymer Web Components for Firebase.
+- 🔌 [VueFire](https://github.com/vuejs/vuefire) - Firebase bindings for Vue.js.
+
 ### Angular
+
+- 🔌 [Angular Fire 2](https://github.com/angular/angularfire2) - Official library for Firebase and Angular.
 
 ### React
 
@@ -83,9 +93,21 @@
 
 ## Mobile
 
+- 🔌 [NativeScript plugin Firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) - NativeScript plugin for Firebase.
+- 🔌 [React Native Firebase](https://github.com/invertase/react-native-firebase) - Well tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
+- 🔌 [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - Use Firebase services in your cross-platform [Flutter](https://flutter.io/) application.
+
 ### Android
 
+- 🔌 [GeoFire for Java](https://github.com/firebase/geofire-java) - Realtime location queries with Firebase.
+- 🔌 [Firebase UI](https://github.com/firebase/firebaseui-android) - Optimized UI components for Firebase.
+
 ### iOS
+
+- 🔌 [GeoFire for Objective-C](https://github.com/firebase/geofire-objc) - Realtime location queries with Firebase.
+- 🔌 [Firebase UI](https://github.com/firebase/firebaseui-ios) - iOS UI bindings for Firebase.
+- 💡 [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
+- 💡 [MLKit - ARCore](https://github.com/FirebaseExtended/MLKit-ARCore) - Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB.
 
 ## Server
 
@@ -93,6 +115,9 @@
 
 ## Other
 
+- 🔌 [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
+- 🔧 [Firebase Tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools.
+- 💡 [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) - Use Firebase tools to incorporate common features into your games!
 - 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 - 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
 
