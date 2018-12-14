@@ -66,6 +66,13 @@
 
 <!-- START content -->
 
+## Featured (new releases)
+
+- 📢 [Firebase Summit 2018](https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R) - All Firebase Summit 2018 talks.
+- 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
+- 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
+- 💡 [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
+
 ## Web
 
 - 🔌 [Ember Fire](https://github.com/firebase/emberFire) - Official Ember data adapter for Firebase.
