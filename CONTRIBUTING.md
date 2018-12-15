@@ -17,7 +17,7 @@ npm install
 
 ## Adding an new Item
 
-- Try to fit your item into an existing section. Create an Issue to start as discussion about any new sections.
+- Try to fit your item into an existing sections. [Open a suggestion](https://github.com/jthegedus/awesome-firebase/issues/new?assignees=&labels=&template=suggestion.md&title=) to start as discussion about any new sections.
 - Add a new item to the bottom of the list in a section.
 - If a duplicate item exists, discuss why the new item should replace it.
 - Check your spelling & grammar.
