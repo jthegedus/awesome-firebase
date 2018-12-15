@@ -157,4 +157,4 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 
 ## License
 
-[CC0 License](https://github.com/jthegedus/awesome-firebase/blob/master/LICENSE) © [James Hegedus](https://github.com/jthegedus/)
+[CC0 License](https://github.com/jthegedus/awesome-firebase/blob/master/LICENSE)
