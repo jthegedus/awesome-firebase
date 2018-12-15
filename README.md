@@ -103,7 +103,7 @@
 - 🔌 [Firebase UI](https://github.com/firebase/firebaseui-ios) - iOS UI bindings for Firebase.
 - 💡 [MLKit - ARCore](https://github.com/FirebaseExtended/MLKit-ARCore) - Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB.
 
-## Server-side (DB, Cloud Functions, BigQuery etc)
+## Server-side (Cloud Functions, BigQuery etc)
 
 - 💡 [Functions Samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
 - 💡 [Express Server on Cloud Functions for Firebase](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express) - Host an Express server on Cloud Functions.
