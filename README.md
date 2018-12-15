@@ -62,8 +62,6 @@
     </em>
 </p>
 
-<!-- MARKDOWN ONLY CONTENT BELOW HERE -->
-
 <!-- START content -->
 
 ## Featured (new releases)
@@ -72,27 +70,27 @@
 - 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 - 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
 - 💡 [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
+- 🔌 [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - Use Firebase services in your cross-platform [Flutter](https://flutter.io/) application.
 
 ## Web
 
+- 🔌 [Firebase UI](https://github.com/firebase/firebaseui-web) - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
+- 🔌 [Firebase UI for React](https://github.com/firebase/firebaseui-web-react) - React Wrapper for firebaseUI Web.
+- 🔌 [GeoFire for JavaScript](https://github.com/firebase/geofire-js) - Realtime location queries with Firebase.
+- 💡 [FirePad](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase.
 - 🔌 [Ember Fire](https://github.com/firebase/emberFire) - Official Ember data adapter for Firebase.
 - 🔌 [Firebase Dart](https://github.com/FirebaseExtended/firebase-dart) - Dart wrapper for Firebase.
-- 🔌 [GeoFire for JavaScript](https://github.com/firebase/geofire-js) - Realtime location queries with Firebase.
-- 🔌 [Firebase UI](https://github.com/firebase/firebaseui-web) - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
-- 💡 [FirePad](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase.
 - 🔌 [PolymerFire](https://github.com/FirebaseExtended/polymerfire) - Polymer Web Components for Firebase.
 - 🔌 [VueFire](https://github.com/vuejs/vuefire) - Firebase bindings for Vue.js.
-- 🔌 [GatsbyJS Firebase Data Source](https://www.gatsbyjs.org/packages/gatsby-source-firebase/#gatsby-firebase-source) - Query your Firebase data right into your statically generated pages with Gatsby.
 - 🔌 [Angular Fire 2](https://github.com/angular/angularfire2) - Official library for Firebase and Angular.
-- 🔌 [Firebase UI for React](https://github.com/firebase/firebaseui-web-react) - React Wrapper for firebaseUI Web.
-- 🔌 [React Redux Firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes Higher Order Component for use with React.
 - 🔌 [Re-base](https://github.com/tylermcginnis/re-base) - Relay inspired library for building React.js + Firebase applications.
+- 🔌 [React Redux Firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes Higher Order Component for use with React.
+- 🔌 [GatsbyJS Firebase Data Source](https://www.gatsbyjs.org/packages/gatsby-source-firebase/#gatsby-firebase-source) - Query your Firebase data right into your statically generated pages with Gatsby.
 
 ## Mobile
 
 - 🔌 [NativeScript plugin Firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) - NativeScript plugin for Firebase.
 - 🔌 [React Native Firebase](https://github.com/invertase/react-native-firebase) - Well tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
-- 🔌 [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - Use Firebase services in your cross-platform [Flutter](https://flutter.io/) application.
 
 ### Android
 
@@ -105,7 +103,7 @@
 - 🔌 [Firebase UI](https://github.com/firebase/firebaseui-ios) - iOS UI bindings for Firebase.
 - 💡 [MLKit - ARCore](https://github.com/FirebaseExtended/MLKit-ARCore) - Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB.
 
-## Server
+## Server-side (DB, Cloud Functions, BigQuery etc)
 
 - 💡 [Functions Samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
 - 💡 [Express Server on Cloud Functions for Firebase](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express) - Host an Express server on Cloud Functions.
@@ -124,6 +122,7 @@
 - 📢 [#AskFirebase YouTube Playlist](https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA) - Official #AskFirebase playlist on YouTube.
 - 🔌 [Apollo Link Firebase](https://github.com/Canner/apollo-link-firebase) - Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
 - 🔌 [BuckleScript Bindings for Firebase](https://github.com/avohq/bs-firebase) - ❗️🆕 BuckleScript bindings for Firebase for use in ReasonML projects.
+- 📝 [StackBlitz to Firebase Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - Static deployments from StackBlitz (online code editor) to Firebase Hosting.
 
 ## Built with Firebase
 
@@ -138,7 +137,7 @@
 
 ### Community
 
-- 📹 [Angular Firebase YouTube](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/featured)
+Who else should we be following!?
 
 <!-- END content -->
 
