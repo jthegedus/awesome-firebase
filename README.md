@@ -123,7 +123,7 @@
 - 💡 [Express Server on Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express) - Host an Express server on Cloud Functions.
 - 📝 [GraphQL Server on Cloud Functions](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Host an Express server with GraphQL middleware on Cloud Functions.
 - 💡 [Compiled Code with Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code) - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
-- 📝 [BigQuery & Google Analytics](https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1) - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery?.
+- 📝 [BigQuery & Google Analytics](https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1) - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery.
 
 ## Other
 
@@ -131,7 +131,7 @@
 - 🔧 [Flamelink](https://flamelink.io/) - CMS for Firebase. Supports Firestore, RealtimeDatabase & Storage.
 - 🔧 [Canner CMS](https://github.com/Canner/canner) - CMS for developers supporting data sources such as Firebase/Firestore, GraphQL and Restful APIs.
 - 🔌 [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
-- 💡 [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) - Use Firebase tools to incorporate common features into your games!
+- 💡 [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) - Use Firebase tools to incorporate common features into your games.
 - 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
 - 📹 [Firebase @ Google Cloud Next '18](https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL) - All Firebase talks @ Google Cloud Next 2018.
 - 📹 [Firebase @ Google IO '18](https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd) - All Firebase talks @ Google IO 2018.
