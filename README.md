@@ -140,20 +140,17 @@
 - 🔌 [QtFirebase](https://github.com/Larpon/QtFirebase) -
   An effort to bring Google's Firebase C++ API to Qt + QML.
 
+<!-- END content -->
+
 ## Follow
 
 ### Official
 
-- 📹 [Firebase YouTube](https://www.youtube.com/user/Firebase)
-- 📝 [Firebase Blog](https://firebase.googleblog.com/)
-- 🐦 [@firebase](https://twitter.com/firebase)
-- 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase)
+📹 [Firebase YouTube](https://www.youtube.com/user/Firebase) 📝 [Firebase Blog](https://firebase.googleblog.com/) 🐦 [@firebase](https://twitter.com/firebase) 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase)
 
 ### Community
 
 Who else should we be following!?
-
-<!-- END content -->
 
 ## Contributors
 
