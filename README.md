@@ -58,7 +58,6 @@
     · 🔌 libraries
     · 🔧 tools
     · 📢 talks
-    · 📹 videos
     </em>
 </p>
 
@@ -93,6 +92,7 @@
 - 🔌 [GatsbyJS Firebase Data Source](https://www.gatsbyjs.org/packages/gatsby-source-firebase/#gatsby-firebase-source) - Query your Firebase data right into your statically generated pages with Gatsby.
 - 🔌 [Apollo Link Firebase](https://github.com/Canner/apollo-link-firebase) - Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
 - 🔌 [BuckleScript Bindings for Firebase](https://github.com/avohq/bs-firebase) - BuckleScript bindings for Firebase for use in ReasonML projects.
+- 💡 [Angular Firebase PWA](https://github.com/codediodeio/angular-firestarter) - is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
 
 ## Mobile
 
@@ -101,6 +101,9 @@
 - 🔌 [React Native Firebase](https://github.com/invertase/react-native-firebase) - Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
 - 🔌 [React Native Firebase Cloud Messaging](https://github.com/evollu/react-native-fcm) -
   React Native module for Firebase Cloud Messaging and local notification.
+- 💡 [Expo Native Firebase](https://github.com/EvanBacon/expo-native-firebase) - Native Firebase Expo App (iOS, Android) Demo for Firestore, Notifications, Analytics, Storage, Messaging, Database.
+- 💡 [Flutter Calendar App](https://github.com/mattgraham1/FlutterCalendar) -
+  New Flutter application implementing a simple mobile calendar app for storing basic events into Firebase cloud database.
 
 ### Android
 
@@ -120,6 +123,7 @@
 - 💡 [Express Server on Cloud Functions for Firebase](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express) - Host an Express server on Cloud Functions.
 - 📝 [GraphQL Server on Cloud Functions for Firebase](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Host an Express server with GraphQL middleware on Cloud Functions.
 - 💡 [Compiled Code with Cloud Functions for Firebase](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code) - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
+- 📝 [BigQuery & Google Analytics for Firebase](https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1) - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery?.
 
 ## Other
 
@@ -133,8 +137,8 @@
 - 📢 [Firebase @ Google IO '18](https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd) - All Firebase talks @ Google IO 2018.
 - 📢 [#AskFirebase YouTube Playlist](https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA) - Official #AskFirebase playlist on YouTube.
 - 📝 [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - Static deployments from StackBlitz (online code editor) to Firebase Hosting.
-
-## Built with Firebase
+- 🔌 [QtFirebase](https://github.com/Larpon/QtFirebase) -
+  An effort to bring Google's Firebase C++ API to Qt + QML.
 
 ## Follow
 
