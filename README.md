@@ -83,22 +83,10 @@
 - 🔌 [PolymerFire](https://github.com/FirebaseExtended/polymerfire) - Polymer Web Components for Firebase.
 - 🔌 [VueFire](https://github.com/vuejs/vuefire) - Firebase bindings for Vue.js.
 - 🔌 [GatsbyJS Firebase Data Source](https://www.gatsbyjs.org/packages/gatsby-source-firebase/#gatsby-firebase-source) - Query your Firebase data right into your statically generated pages with Gatsby.
-
-### Angular
-
 - 🔌 [Angular Fire 2](https://github.com/angular/angularfire2) - Official library for Firebase and Angular.
-
-### React
-
 - 🔌 [Firebase UI for React](https://github.com/firebase/firebaseui-web-react) - React Wrapper for firebaseUI Web.
 - 🔌 [React Redux Firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes Higher Order Component for use with React.
 - 🔌 [Re-base](https://github.com/tylermcginnis/re-base) - Relay inspired library for building React.js + Firebase applications.
-- ✅ [The Road to React with Firebase](https://github.com/the-road-to-react-with-firebase/the-road-to-react-with-firebase) - Book teaching how to build business applications with React and Firebase.
-
-### GraphQL
-
-- 📝 [GraphQL Server on Cloud Functions for Firebase](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Host an expressjs server with graphql middleware on Cloud Functions.
-- 🔌 [Apollo Link Firebase](https://github.com/Canner/apollo-link-firebase) - Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
 
 ## Mobile
 
@@ -119,10 +107,10 @@
 
 ## Server
 
-<!-- todo -->
-<!-- cloud function samples etc -->
-
-## Use Cases
+- 💡 [Functions Samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
+- 💡 [Express Server on Cloud Functions for Firebase](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express) - Host an Express server on Cloud Functions.
+- 📝 [GraphQL Server on Cloud Functions for Firebase](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Host an Express server with GraphQL middleware on Cloud Functions.
+- 💡 [Compiled Code with Cloud Functions for Firebase](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code) - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
 
 ## Other
 
@@ -134,6 +122,8 @@
 - 📢 [Firebase @ Google Cloud Next '18](https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL) - All Firebase talks @ Google Cloud Next 2018.
 - 📢 [Firebase @ Google IO '18](https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd) - All Firebase talks @ Google IO 2018.
 - 📢 [#AskFirebase YouTube Playlist](https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA) - Official #AskFirebase playlist on YouTube.
+- 🔌 [Apollo Link Firebase](https://github.com/Canner/apollo-link-firebase) - Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
+- 🔌 [BuckleScript Bindings for Firebase](https://github.com/avohq/bs-firebase) - ❗️🆕 BuckleScript bindings for Firebase for use in ReasonML projects.
 
 ## Built with Firebase
 
