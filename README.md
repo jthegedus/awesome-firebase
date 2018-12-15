@@ -71,7 +71,7 @@
 - 💡 [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
 - 🔌 [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - Use Firebase services in your cross-platform [Flutter](https://flutter.io/) application.
 
-## Official Firebase Docs
+## Official Firebase Docs & Quickstarts
 
 - 📖 [Firebase Documentation](https://firebase.google.com/docs/) - Official Firebase Documentation.
 - 💡 [Firebase Quickstarts](https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=) - Official Firebase Quickstarts.
