@@ -52,13 +52,18 @@ We should aim to support all languages that the Firebase docs support. At the ti
 - EN: English
 - ID: Bahasa Indonesia
 
-### Adding an item to the English README
+If you wish to see this list in another language, please create a PR with translations for items where you can. There is already some boilerplate for the aforementioned languages in the README lines 12-20.
 
-If you are adding an item that is not english, please translate the item name and description to english, but include the [language code](https://www.w3schools.com/tags/ref_language_codes.asp) between the emoji and item name.
+For languages not in the above list.
 
-### Non-English versions
+- Create a README suffixed with your [language code](https://www.w3schools.com/tags/ref_language_codes.asp). Eg: `README_KO.md` for Korean.
+- Add your [language code](https://www.w3schools.com/tags/ref_language_codes.asp) to the list at the top of the root english (README.md lines 12-20).
 
-If you wish to see this list in another language, please create a PR with translations for items where you can.
+### Adding a non-English item to the English README
 
-- Create a README suffixed with your [language code](https://www.w3schools.com/tags/ref_language_codes.asp) in a folder with your language code. Eg: `ko/README_KO.md` for Korean.
-- Add your [language code](https://www.w3schools.com/tags/ref_language_codes.asp) to the list at the top of the english readme (README.md). The langs supported by Firebase are already there but commented out.
+If you are adding an item that is not english, please translate the item name and description to english, but include the [language code](https://www.w3schools.com/tags/ref_language_codes.asp) between the emoji and item name so readers know the language of the resource before heading there.
+
+```markdown
+- 🔌 ko [item name](https link) - Description beginning with capital, ending in period.
+- 🔌 ja [item name](https link) - Description beginning with capital, ending in period.
+```
