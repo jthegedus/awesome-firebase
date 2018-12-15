@@ -1,8 +1,8 @@
 ---
 name: Corrections, Additions, Updates or Removals
 about: PRs of all kinds are welcome to Awesome Firebase
-title: ""
-labels: ":tada: enhancement"
+title: "[lang] "
+labels: ""
 assignees: ""
 ---
 
@@ -29,3 +29,8 @@ assignees: ""
 **Additional context**
 
 <!-- Add any other context about the PR here. -->
+
+**PR checklist**
+
+- [ ] I have indicated the language this contribution is for
+- [ ] I have tagged the appropriate maintainer for this language
