@@ -120,10 +120,10 @@
 
 - 📖 [Firebase Admin Documentation](https://firebase.google.com/docs/admin/setup) - Official Firebase Admin SDK Server Setup.
 - 💡 [Functions Samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
-- 💡 [Express Server on Cloud Functions for Firebase](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express) - Host an Express server on Cloud Functions.
-- 📝 [GraphQL Server on Cloud Functions for Firebase](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Host an Express server with GraphQL middleware on Cloud Functions.
-- 💡 [Compiled Code with Cloud Functions for Firebase](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code) - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
-- 📝 [BigQuery & Google Analytics for Firebase](https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1) - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery?.
+- 💡 [Express Server on Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express) - Host an Express server on Cloud Functions.
+- 📝 [GraphQL Server on Cloud Functions](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Host an Express server with GraphQL middleware on Cloud Functions.
+- 💡 [Compiled Code with Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code) - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
+- 📝 [BigQuery & Google Analytics](https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1) - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery?.
 
 ## Other
 
@@ -136,7 +136,7 @@
 - 📢 [Firebase @ Google Cloud Next '18](https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL) - All Firebase talks @ Google Cloud Next 2018.
 - 📢 [Firebase @ Google IO '18](https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd) - All Firebase talks @ Google IO 2018.
 - 📢 [#AskFirebase YouTube Playlist](https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA) - Official #AskFirebase playlist on YouTube.
-- 📝 [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - Static deployments from StackBlitz (online code editor) to Firebase Hosting.
+- 📝 [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - StackBlitz (online code editor) to Firebase Hosting static deployments.
 - 🔌 [QtFirebase](https://github.com/Larpon/QtFirebase) -
   An effort to bring Google's Firebase C++ API to Qt + QML.
 
