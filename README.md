@@ -6,7 +6,9 @@
 <!-- image -->
 
 <a href="https://firebase.google.com/docs/" target="_blank" rel="noopener noreferrer">
-    <img src="images/awesome-firebase.gif" align="center" />
+    <div align="center">
+        <img src="images/awesome-firebase.gif"  height="240px" />
+    </div>
 </a>
 
 <!-- other language links -->
