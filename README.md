@@ -7,7 +7,7 @@
 
 <a href="https://firebase.google.com/docs/" target="_blank" rel="noopener noreferrer">
     <div align="center">
-        <img src="images/firebase-services.gif" height="250px" />
+        <img src="images/firebase-services.gif" />
     </div>
 </a>
 
