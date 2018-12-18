@@ -23,10 +23,10 @@
 
 <!-- badges -->
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome" target="_blank" rel="noopener noreferrer">
+  <!-- <a href="https://github.com/sindresorhus/awesome" target="_blank" rel="noopener noreferrer">
   <img
       alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-  </a>
+  </a> -->
   <a href="#contributors">
     <img alt="all contributors" src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat" />
   </a>
