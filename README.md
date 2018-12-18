@@ -36,7 +36,7 @@
 </p>
 
 <!-- toc -->
-<h3 align="center">Contents</h3>
+<h2 align="center">Contents</h2>
 <p align="center">
     <em>
     <a href="#web">Web</a>
