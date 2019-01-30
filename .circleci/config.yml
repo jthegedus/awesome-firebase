@@ -1,6 +1,7 @@
 version: 2.1
+
 jobs:
-  build:
+  "awesome-bot":
     docker:
       - image: circleci/ruby:latest
     steps:
@@ -11,3 +12,21 @@ jobs:
       - run:
           name: check readme links
           command: awesome_bot README.md --allow-redirect --allow-dupe
+  "awesome-lint":
+    docker:
+      - image: circleci/node:latest
+    steps:
+      - checkout
+      - run:
+          name: install awesome lint
+          command: yarn install
+      - run:
+          name: lint readme
+          command: yarn test
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - "awesome-lint"
+      - "awesome-bot"
