@@ -1,3 +1,9 @@
+<div style="float:right;">
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+</div>
+
 <h1 align="center">Awesome Firebase</h1>
 
 <!-- subtitle -->
