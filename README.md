@@ -36,22 +36,19 @@
 </p>
 
 <!-- toc -->
-<h2 align="center">Contents</h2>
-<p align="center">
-    <em>
-    <a href="#web">Web</a>
-    · <a href="#mobile">Mobile</a>
-    · <a href="#server">Server</a>
-    · <a href="#use-cases">Use Cases</a>
-    · <a href="#built-with-firebase">Built with Firebase</a>
-    · <a href="#other">Other</a>
-    · <a href="#follow">Follow</a>
-    · <a href="#contributing">Contributing</a>
-    </em>
-</p>
 
-<h3 align="center">Legend</h3>
-<p align="center">
+## Contents
+
+- [Featured (new releases)](#featured-new-releases)
+- [Official Firebase Docs & Quickstarts](#official-firebase-docs--quickstarts)
+- [Web](#web)
+- [Mobile](#mobile)
+- [Server-side (Cloud Functions, BigQuery etc)](#server-side-cloud-functions-bigquery-etc)
+- [Other](#other)
+- [Follow](#follow)
+
+<p>
+  <b>Legend</b>:
     <em>
     📝 blog posts
     · 💡 examples
