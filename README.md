@@ -55,7 +55,6 @@
     <em>
     📝 blog posts
     · 💡 examples
-    · ✅ tutorials
     · 📖 docs
     · 🔌 libraries
     · 🔧 tools
