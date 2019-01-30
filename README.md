@@ -3,7 +3,7 @@
 
 <!-- title -->
 
-# [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](#contributing) Awesome Firebase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Firebase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- subtitle -->
 
