@@ -19,10 +19,10 @@ jobs:
       - checkout
       - run:
           name: install awesome lint
-          command: npm install awesome-lint
+          command: yarn install
       - run:
           name: lint readme
-          command: npm run test
+          command: yarn test
 
 workflows:
   version: 2
