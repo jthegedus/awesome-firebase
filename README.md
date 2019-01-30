@@ -46,7 +46,7 @@
     · <a href="#built-with-firebase">Built with Firebase</a>
     · <a href="#other">Other</a>
     · <a href="#follow">Follow</a>
-    · <a href="#contributors">Contributors</a>
+    · <a href="#contributing">Contributing</a>
     </em>
 </p>
 
@@ -156,11 +156,11 @@ Who else should we be following!?
 
 ## Contributing
 
-[Contributions of any kind welcome, just follow the guidelines](CONTRIBUTING.md)!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
 
-Thanks goes to these [contributors](https://github.com/jthegedus/awesome-firebase/graphs/contributors)
+[Thanks goes to these contributors](https://github.com/jthegedus/awesome-firebase/graphs/contributors)!
 
 ## License
 
