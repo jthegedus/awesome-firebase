@@ -154,19 +154,13 @@
 
 Who else should we be following!?
 
-## Contributors
+## Contributing
 
-Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+[Contributions of any kind welcome, just follow the guidelines](CONTRIBUTING.md)!
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-| [<img src="https://avatars2.githubusercontent.com/u/20798510?v=4" width="100px;"/><br /><sub><b>James Hegedus</b></sub>](https://medium.com/@jthegedus)<br />[📖](https://github.com/jthegedus/awesome-firebase/commits?author=jthegedus "Documentation") [📝](#blog-jthegedus "Blogposts") |
-| :---: |
+### Contributors
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-<!-- prettier-ignore-end -->
-
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. [Contributions of any kind welcome, just follow the guidelines](CONTRIBUTING.md)!
+Thanks goes to these [contributors](https://github.com/jthegedus/awesome-firebase/graphs/contributors)
 
 ## License
 

@@ -10,7 +10,6 @@
     "test": "awesome-lint"
   },
   "devDependencies": {
-    "all-contributors-cli": "^5.4.1",
     "awesome-lint": "^0.8.0",
     "husky": "^1.2.0",
     "prettier": "^1.15.3",
