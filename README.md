@@ -66,7 +66,7 @@
 
 ## Featured (new releases)
 
-- 📹 [Firebase Summit 2018](https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R) - All Firebase Summit 2018 talks.
+- 🔧 [Firepit](https://github.com/abehaskins/firepit) - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
 - 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 - 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
 - 💡 [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
@@ -135,12 +135,12 @@
 - 🔌 [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
 - 💡 [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) - Use Firebase tools to incorporate common features into your games.
 - 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
+- 📹 [Firebase Summit 2018](https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R) - All Firebase Summit 2018 talks.
 - 📹 [Firebase @ Google Cloud Next '18](https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL) - All Firebase talks @ Google Cloud Next 2018.
 - 📹 [Firebase @ Google IO '18](https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd) - All Firebase talks @ Google IO 2018.
 - 📹 [#AskFirebase YouTube Playlist](https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA) - Official #AskFirebase playlist on YouTube.
 - 📝 [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - StackBlitz (online code editor) to Firebase Hosting static deployments.
-- 🔌 [QtFirebase](https://github.com/Larpon/QtFirebase) -
-  An effort to bring Google's Firebase C++ API to Qt + QML.
+- 🔌 [QtFirebase](https://github.com/Larpon/QtFirebase) - An effort to bring Google's Firebase C++ API to Qt + QML.
 
 <!-- END content -->
 
