@@ -3,16 +3,11 @@
 
 <!-- title -->
 
-# Awesome Firebase
+# [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](#contributing) Awesome Firebase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- subtitle -->
 
 The most **up to date** list of Firebase docs, talks, tools, examples &amp; articles the internet has to offer.
-
-<!-- badges -->
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](#contributing)
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 </div>
 
