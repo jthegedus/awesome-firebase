@@ -57,10 +57,10 @@ The most **up to date** list of Firebase docs, talks, tools, examples &amp; arti
 
 ## Featured (new releases)
 
+- 🔌 [Integrify](https://github.com/anishkny/integrify) - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 - 🔧 [Firepit](https://github.com/abehaskins/firepit) - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
 - 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 - 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
-- 💡 [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
 - 🔌 [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - Use Firebase services in your cross-platform [Flutter](https://flutter.io/) application.
 
 ## Official Firebase Docs & Quickstarts
@@ -108,6 +108,7 @@ The most **up to date** list of Firebase docs, talks, tools, examples &amp; arti
 - 🔌 [GeoFire for Objective-C](https://github.com/firebase/geofire-objc) - Realtime location queries with Firebase.
 - 🔌 [Firebase UI](https://github.com/firebase/firebaseui-ios) - iOS UI bindings for Firebase.
 - 💡 [MLKit - ARCore](https://github.com/FirebaseExtended/MLKit-ARCore) - Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB.
+- 💡 [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
 
 ## Server-side (Cloud Functions, BigQuery etc)
 
@@ -117,7 +118,6 @@ The most **up to date** list of Firebase docs, talks, tools, examples &amp; arti
 - 📝 [GraphQL Server on Cloud Functions](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Host an Express server with GraphQL middleware on Cloud Functions.
 - 💡 [Compiled Code with Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code) - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
 - 📝 [BigQuery & Google Analytics](https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1) - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery.
-- 🔌 [Integrify](https://github.com/anishkny/integrify) - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 
 ## Other
 
