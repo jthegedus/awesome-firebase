@@ -5,8 +5,6 @@
   "author": "jthegedus <james@jthegedus.com>",
   "license": "MIT",
   "scripts": {
-    "contributors:add": "all-contributors add",
-    "contributors:generate": "all-contributors generate",
     "test": "awesome-lint"
   },
   "devDependencies": {
