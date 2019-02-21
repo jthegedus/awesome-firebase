@@ -61,7 +61,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 - 🔧 [Firepit](https://github.com/abehaskins/firepit) - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
 - 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 - 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
-- 🔌 [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - Use Firebase services in your cross-platform [Flutter](https://flutter.io/) application.
+- 🔌 [Firestore Rule Generator](https://github.com/FirebaseExtended/protobuf-rules-gen) - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
 
 ## Official Firebase Docs & Quickstarts
 
@@ -91,6 +91,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 
 - 📖 [Firebase Flutter Documentation](https://firebase.google.com/docs/flutter/setup) - Official Firebase Flutter Setup.
 - 🔌 [NativeScript plugin Firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) - NativeScript plugin for Firebase.
+- 🔌 [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - Use Firebase services in your cross-platform [Flutter](https://flutter.io/) application.
 - 🔌 [React Native Firebase](https://github.com/invertase/react-native-firebase) - Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
 - 🔌 [React Native Firebase Cloud Messaging](https://github.com/evollu/react-native-fcm) -
   React Native module for Firebase Cloud Messaging and local notification.
