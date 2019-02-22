@@ -7,11 +7,7 @@
 
 <!-- subtitle -->
 
-> The most **up to date** list of [Firebase](https://firebase.google.com/) docs, talks, tools, examples &amp; articles the internet has to offer.
-
-[Firebase](https://firebase.google.com/) is an application developmnet platform built on the [Google Cloud Platform](https://cloud.google.com/products/) providing services and cross-platform SDKs to accelerate app development and delivery!
-
-</div>
+The most **up to date** list of [Firebase](https://firebase.google.com/) docs, talks, tools, examples &amp; articles the internet has to offer.
 
 <!-- image -->
 
@@ -30,6 +26,10 @@
     <sup><a href="README_PT.md">pt</a></sup>
     <sup><a href="README_ZH.md">zh</a></sup> -->
 </p>
+
+[Firebase](https://firebase.google.com/) is an application developmnet platform built on the [Google Cloud Platform](https://cloud.google.com/products/) providing services and cross-platform SDKs to accelerate app development and delivery!
+
+</div>
 
 <!-- toc -->
 
