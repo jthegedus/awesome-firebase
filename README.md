@@ -12,9 +12,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 <!-- image -->
 
 <a href="https://firebase.google.com/docs/" target="_blank" rel="noopener noreferrer">
-    <div align="center">
-        <img src="images/firebase-services.gif" />
-    </div>
+  <img src="images/firebase-services.gif" />
 </a>
 
 <!-- other language links -->
