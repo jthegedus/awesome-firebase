@@ -25,7 +25,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
     <sup><a href="README_ZH.md">zh</a></sup> -->
 </p>
 
-[Firebase](https://firebase.google.com/) is an application developmnet platform built on the [Google Cloud Platform](https://cloud.google.com/products/) providing services and cross-platform SDKs to accelerate app development and delivery!
+[Firebase](https://firebase.google.com/) is an app dev platform built on the [Google Cloud Platform](https://cloud.google.com/products/) providing services and cross-platform SDKs!
 
 </div>
 
