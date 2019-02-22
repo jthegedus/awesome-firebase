@@ -125,7 +125,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 
 - 🔧 [Firebase Tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools.
 - 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
-- 🔧 [VSFire](https://github.com/toba/vsfire) - Visual Studio Code extension for Firestore security rules & indexes with syntax highlighting & code completions.
+- 🔧 [VSFire](https://github.com/toba/vsfire) - VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.
 
 ## Other
 
