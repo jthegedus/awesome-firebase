@@ -61,7 +61,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 - 🔧 [Firepit](https://github.com/abehaskins/firepit) - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
 - 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 - 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
-- 🔧 [Firestore Rule Generator](https://github.com/FirebaseExtended/protobuf-rules-gen) - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
+- 🔧 [Firestore Rules Generator](https://github.com/FirebaseExtended/protobuf-rules-gen) - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
 
 ## Official Firebase Docs & Quickstarts
 
@@ -134,6 +134,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 - 📹 [#AskFirebase YouTube Playlist](https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA) - Official #AskFirebase playlist on YouTube.
 - 📝 [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - StackBlitz (online code editor) to Firebase Hosting static deployments.
 - 🔌 [QtFirebase](https://github.com/Larpon/QtFirebase) - An effort to bring Google's Firebase C++ API to Qt + QML.
+- 🔧 [VSFire](https://github.com/toba/vsfire) - Visual Studio Code extension for Firestore security rules & indexes syntax highlighting & code completions.
 
 <!-- END content -->
 
