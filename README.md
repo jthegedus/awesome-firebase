@@ -38,7 +38,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 - [Web](#web)
 - [Mobile](#mobile)
 - [Server-side (Cloud Functions, BigQuery etc)](#server-side-cloud-functions-bigquery-etc)
-- [CLI](#cli)
+- [CLI & Editor](#cli--editor)
 - [Other](#other)
 - [Follow](#follow)
 
@@ -122,7 +122,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 - 📝 [BigQuery & Google Analytics](https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1) - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery.
 - 📹 [Official Cloud Function #Firecasts](https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM) - YouTube video series about understanding how Cloud Functions work.
 
-## CLI
+## CLI & Editor
 
 - 🔧 [Firebase Tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools.
 - 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
