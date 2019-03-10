@@ -105,6 +105,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 
 - 🔌 [GeoFire for Java](https://github.com/firebase/geofire-java) - Realtime location queries with Firebase.
 - 🔌 [Firebase UI](https://github.com/firebase/firebaseui-android) - Optimized UI components for Firebase.
+- 🔌 [FireXtensions](https://github.com/rosariopfernandes/firextensions/) - Unofficial Kotlin Extensions for the Firebase Android SDK.
 
 ### iOS
 
