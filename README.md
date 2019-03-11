@@ -133,6 +133,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 
 ## Other
 
+- 🔌 [FireDrill](https://github.com/scottlepp/fire-drill) - Find, Edit, Add, Remove, Import, Export, and Report on your Firebase data.
 - 💡 [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) - Use Firebase tools to incorporate common features into your games.
 - 🔌 [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
 - 🔌 [QtFirebase](https://github.com/Larpon/QtFirebase) - An effort to bring Google's Firebase C++ API to Qt + QML.
