@@ -58,12 +58,11 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 
 ## Featured (new releases)
 
-- 🔧 [Fuego](https://github.com/sgarciac/fuego) - Firestore client CLI supporting document add/update/query with filtering and pagination.
+- 📖 [Hosting Version History](https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions) - Automatic deletion of older versions of your site deployments.
 - 🔌 [Integrify](https://github.com/anishkny/integrify) - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 - 🔧 [Firepit](https://github.com/abehaskins/firepit) - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
 - 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 - 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
-- 🔧 [Firestore Rules Generator](https://github.com/FirebaseExtended/protobuf-rules-gen) - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
 
 ## Official Firebase Docs & Quickstarts
 
@@ -130,6 +129,8 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 - 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
 - 🔧 [VSFire](https://github.com/toba/vsfire) - VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.
 - 🔧 [Firebase Firestore Snippets](https://github.com/peterhdd/firebase-firestore-snippets/) - Contains the snippet for both firebase and firestore in VS Code editor.
+- 🔧 [Fuego](https://github.com/sgarciac/fuego) - Firestore client CLI supporting document add/update/query with filtering and pagination.
+- 🔧 [Firestore Rules Generator](https://github.com/FirebaseExtended/protobuf-rules-gen) - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
 
 ## Other
 
