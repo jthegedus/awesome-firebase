@@ -7,7 +7,7 @@
 
 <!-- subtitle -->
 
-The most **up to date** list of [Firebase](https://firebase.google.com/) docs, talks, tools, examples &amp; articles the internet has to offer.
+The most **up to date** list of [Firebase][firebase] docs, talks, tools, examples &amp; articles the internet has to offer.
 
 <!-- image -->
 
@@ -25,7 +25,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
     <sup><a href="README_ZH.md">zh</a></sup> -->
 </p>
 
-[Firebase](https://firebase.google.com/) is an app dev platform built on the [Google Cloud Platform](https://cloud.google.com/products/) providing services and cross-platform SDKs!
+[Firebase][firebase] is an app dev platform built on the [Google Cloud Platform][gcp-products] providing services and cross-platform SDKs!
 
 </div>
 
@@ -58,16 +58,16 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 
 ## Featured (new releases)
 
-- 📖 [Hosting Version History](https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions) - Automatic deletion of older versions of your site deployments.
-- 🔌 [Integrify](https://github.com/anishkny/integrify) - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
-- 🔧 [Firepit](https://github.com/abehaskins/firepit) - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
-- 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
-- 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
+- 📖 [Hosting Version History][new-1] - Automatic deletion of older versions of your site deployments.
+- 🔌 [Integrify][new-2] - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
+- 🔧 [Firepit][new-3] - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
+- 🔧 [VSCode Firebase Explorer][new-4] - Explore and manage your Firebase projects.
+- 🔌 [React Firebase Hooks][new-5] - React Hooks for Firebase services.
 
 ## Official Firebase Docs & Quickstarts
 
-- 📖 [Firebase Documentation](https://firebase.google.com/docs/) - Official Firebase Documentation.
-- 💡 [Firebase Quickstarts](https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=) - Official Firebase Quickstarts.
+- 📖 [Firebase Documentation][docs-1] - Official Firebase Documentation.
+- 💡 [Firebase Quickstarts][docs-2] - Official Firebase Quickstarts.
 
 ## Web
 
@@ -174,9 +174,23 @@ Who else should we be following!?
 
 <!-- Links -->
 
+[firebase]: https://firebase.google.com
+[gcp-products]: https://cloud.google.com/products
+
 <!-- Contents -->
 <!-- Featured (new releases) -->
+
+[new-1]: https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions
+[new-2]: https://github.com/anishkny/integrify
+[new-3]: https://github.com/abehaskins/firepit
+[new-4]: https://github.com/jsayol/vscode-firebase-explorer
+[new-5]: https://github.com/CSFrequency/react-firebase-hooks
+
 <!-- Official Firebase Docs & Quickstarts -->
+
+[docs-1]: https://firebase.google.com/docs
+[docs-2]: https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=
+
 <!-- Web -->
 
 [web-1]: https://github.com/firebase/firebaseui-web
