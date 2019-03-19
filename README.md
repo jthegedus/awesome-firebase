@@ -134,17 +134,17 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 
 ## Other
 
-- 🔌 [FireDrill](https://github.com/scottlepp/fire-drill) - Find, Edit, Add, Remove, Import, Export, and Report on your Firebase data.
-- 💡 [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) - Use Firebase tools to incorporate common features into your games.
-- 🔌 [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
-- 🔌 [QtFirebase](https://github.com/Larpon/QtFirebase) - An effort to bring Google's Firebase C++ API to Qt + QML.
-- 📝 [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - StackBlitz (online code editor) to Firebase Hosting static deployments.
-- 🔧 [Flamelink](https://flamelink.io/) - CMS for Firebase. Supports Firestore, RealtimeDatabase & Storage.
-- 🔧 [Canner CMS](https://github.com/Canner/canner) - CMS for developers supporting data sources such as Firebase/Firestore, GraphQL and Restful APIs.
-- 📹 [Firebase Summit 2018](https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R) - All Firebase Summit 2018 talks.
-- 📹 [Firebase @ Google Cloud Next '18](https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL) - All Firebase talks @ Google Cloud Next 2018.
-- 📹 [Firebase @ Google IO '18](https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd) - All Firebase talks @ Google IO 2018.
-- 📹 [#AskFirebase YouTube Playlist](https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA) - Official #AskFirebase playlist on YouTube.
+- 🔌 [FireDrill][other-1] - Find, Edit, Add, Remove, Import, Export, and Report on your Firebase data.
+- 💡 [Unity Solutions][other-2] - Use Firebase tools to incorporate common features into your games.
+- 🔌 [Firebase AIR Native Extension][other-3] - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
+- 🔌 [QtFirebase][other-4] - An effort to bring Google's Firebase C++ API to Qt + QML.
+- 📝 [StackBlitz to Firebase Hosting Deployments][other-5] - StackBlitz (online code editor) to Firebase Hosting static deployments.
+- 🔧 [Flamelink][other-6] - CMS for Firebase. Supports Firestore, RealtimeDatabase & Storage.
+- 🔧 [Canner CMS][other-7] - CMS for developers supporting data sources such as Firebase/Firestore, GraphQL and Restful APIs.
+- 📹 [Firebase Summit 2018][other-8] - All Firebase Summit 2018 talks.
+- 📹 [Firebase @ Google Cloud Next '18][other-9] - All Firebase talks @ Google Cloud Next 2018.
+- 📹 [Firebase @ Google IO '18][other-10] - All Firebase talks @ Google IO 2018.
+- 📹 [#AskFirebase YouTube Playlist][other-11] - Official #AskFirebase playlist on YouTube.
 
 <!-- END content -->
 
@@ -152,11 +152,11 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 
 ### Official
 
-📹 [Firebase YouTube](https://www.youtube.com/user/Firebase) 📝 [Firebase Blog](https://firebase.googleblog.com/) 🐦 [@firebase](https://twitter.com/firebase) 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase)
+📹 [Firebase YouTube][official-1] 📝 [Firebase Blog][official-2] 🐦 [@firebase][official-3] 🐦 [@bestoffirebase][official-4]
 
 ### Community
 
-📹 [Fireship - AngularFirebase](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+📹 [Fireship - AngularFirebase][community-1]
 
 Who else should we be following!?
 
@@ -173,6 +173,35 @@ Who else should we be following!?
 [CC0 License][license]
 
 <!-- Links -->
+
+<!-- Contents -->
+<!-- Featured (new releases) -->
+<!-- Official Firebase Docs & Quickstarts -->
+<!-- Web -->
+<!-- Mobile -->
+<!-- Server-side (Cloud Functions, BigQuery etc) -->
+<!-- CLI & Editor -->
+<!-- Other -->
+
+[other-1]: https://github.com/scottlepp/fire-drill
+[other-2]: https://github.com/FirebaseExtended/unity-solutions
+[other-3]: https://github.com/myflashlab/Firebase-ANE
+[other-4]: https://github.com/Larpon/QtFirebase
+[other-5]: https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879
+[other-6]: https://flamelink.io/
+[other-7]: https://github.com/Canner/canner
+[other-8]: https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R
+[other-9]: https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL
+[other-10]: https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd
+[other-11]: https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA
+
+<!-- Follow -->
+
+[official-1]: https://www.youtube.com/user/Firebase
+[official-2]: https://firebase.googleblog.com/
+[official-3]: https://twitter.com/firebase
+[official-4]: https://twitter.com/bestoffirebase
+[community-1]: https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
 
 <!-- Contributors -->
 
