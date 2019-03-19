@@ -125,12 +125,12 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 
 ## CLI & Editor
 
-- 🔧 [Firebase Tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools.
-- 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
-- 🔧 [VSFire](https://github.com/toba/vsfire) - VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.
-- 🔧 [Firebase Firestore Snippets](https://github.com/peterhdd/firebase-firestore-snippets/) - Contains the snippet for both firebase and firestore in VS Code editor.
-- 🔧 [Fuego](https://github.com/sgarciac/fuego) - Firestore client CLI supporting document add/update/query with filtering and pagination.
-- 🔧 [Firestore Rules Generator](https://github.com/FirebaseExtended/protobuf-rules-gen) - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
+- 🔧 [Firebase Tools][cli-editor-1] - The Firebase Command Line Tools.
+- 🔧 [Firebase CI][cli-editor-2] - Simplified Firebase interaction for continuous integration.
+- 🔧 [VSFire][cli-editor-3] - VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.
+- 🔧 [Firebase Firestore Snippets][cli-editor-4] - Contains the snippet for both firebase and firestore in VS Code editor.
+- 🔧 [Fuego][cli-editor-5] - Firestore client CLI supporting document add/update/query with filtering and pagination.
+- 🔧 [Firestore Rules Generator][cli-editor-6] - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
 
 ## Other
 
@@ -181,6 +181,14 @@ Who else should we be following!?
 <!-- Mobile -->
 <!-- Server-side (Cloud Functions, BigQuery etc) -->
 <!-- CLI & Editor -->
+
+[cli-editor-1]: https://github.com/firebase/firebase-tools
+[cli-editor-2]: https://github.com/prescottprue/firebase-ci
+[cli-editor-3]: https://github.com/toba/vsfire
+[cli-editor-4]: https://github.com/peterhdd/firebase-firestore-snippets
+[cli-editor-5]: https://github.com/sgarciac/fuego
+[cli-editor-6]: https://github.com/FirebaseExtended/protobuf-rules-gen
+
 <!-- Other -->
 
 [other-1]: https://github.com/scottlepp/fire-drill
