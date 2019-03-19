@@ -115,13 +115,13 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 
 ## Server-side (Cloud Functions, BigQuery etc)
 
-- 📖 [Firebase Admin Documentation](https://firebase.google.com/docs/admin/setup) - Official Firebase Admin SDK Server Setup.
-- 💡 [Functions Samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
-- 💡 [Express Server on Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express) - Host an Express server on Cloud Functions.
-- 📝 [GraphQL Server on Cloud Functions](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Host an Express server with GraphQL middleware on Cloud Functions.
-- 💡 [Compiled Code with Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code) - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
-- 📝 [BigQuery & Google Analytics](https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1) - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery.
-- 📹 [Official Cloud Function #Firecasts](https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM) - YouTube video series about understanding how Cloud Functions work.
+- 📖 [Firebase Admin Documentation][server-1] - Official Firebase Admin SDK Server Setup.
+- 💡 [Functions Samples][server-2] - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
+- 💡 [Express Server on Cloud Functions][server-3] - Host an Express server on Cloud Functions.
+- 📝 [GraphQL Server on Cloud Functions][server-4] - Host an Express server with GraphQL middleware on Cloud Functions.
+- 💡 [Compiled Code with Cloud Functions][server-5] - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
+- 📝 [BigQuery & Google Analytics][server-6] - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery.
+- 📹 [Official Cloud Function #Firecasts][server-7] - YouTube video series about understanding how Cloud Functions work.
 
 ## CLI & Editor
 
@@ -180,6 +180,15 @@ Who else should we be following!?
 <!-- Web -->
 <!-- Mobile -->
 <!-- Server-side (Cloud Functions, BigQuery etc) -->
+
+[server-1]: https://firebase.google.com/docs/admin/setup
+[server-2]: https://github.com/firebase/functions-samples
+[server-3]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express
+[server-4]: https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0
+[server-5]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code
+[server-6]: https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
+[server-7]: https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
+
 <!-- CLI & Editor -->
 
 [cli-editor-1]: https://github.com/firebase/firebase-tools
