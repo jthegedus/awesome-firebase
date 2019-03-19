@@ -90,28 +90,28 @@ The most **up to date** list of [Firebase](https://firebase.google.com/) docs, t
 
 ## Mobile
 
-- 📖 [Firebase Flutter Documentation](https://firebase.google.com/docs/flutter/setup) - Official Firebase Flutter Setup.
-- 🔌 [NativeScript plugin Firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) - NativeScript plugin for Firebase.
-- 🔌 [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - Use Firebase services in your cross-platform [Flutter](https://flutter.io/) application.
-- 🔌 [React Native Firebase](https://github.com/invertase/react-native-firebase) - Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
-- 🔌 [React Native Firebase Cloud Messaging](https://github.com/evollu/react-native-fcm) -
+- 📖 [Firebase Flutter Documentation][mobile-1] - Official Firebase Flutter Setup.
+- 🔌 [NativeScript plugin Firebase][mobile-2] - NativeScript plugin for Firebase.
+- 🔌 [FlutterFire][mobile-3] - Use Firebase services in your cross-platform [Flutter][mobile-3-flutter] application.
+- 🔌 [React Native Firebase][mobile-4] - Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
+- 🔌 [React Native Firebase Cloud Messaging][mobile-5] -
   React Native module for Firebase Cloud Messaging and local notification.
-- 💡 [Expo Native Firebase](https://github.com/EvanBacon/expo-native-firebase) - Native Firebase Expo App (iOS, Android) Demo for Firestore, Notifications, Analytics, Storage, Messaging, Database.
-- 💡 [Flutter Calendar App](https://github.com/mattgraham1/FlutterCalendar) -
+- 💡 [Expo Native Firebase][mobile-6] - Native Firebase Expo App (iOS, Android) Demo for Firestore, Notifications, Analytics, Storage, Messaging, Database.
+- 💡 [Flutter Calendar App][mobile-7] -
   New Flutter application implementing a simple mobile calendar app for storing basic events into Firebase cloud database.
 
 ### Android
 
-- 🔌 [GeoFire for Java](https://github.com/firebase/geofire-java) - Realtime location queries with Firebase.
-- 🔌 [Firebase UI](https://github.com/firebase/firebaseui-android) - Optimized UI components for Firebase.
-- 🔌 [FireXtensions](https://github.com/rosariopfernandes/firextensions/) - Unofficial Kotlin Extensions for the Firebase Android SDK.
+- 🔌 [GeoFire for Java][android-1] - Realtime location queries with Firebase.
+- 🔌 [Firebase UI][android-2] - Optimized UI components for Firebase.
+- 🔌 [FireXtensions][android-3] - Unofficial Kotlin Extensions for the Firebase Android SDK.
 
 ### iOS
 
-- 🔌 [GeoFire for Objective-C](https://github.com/firebase/geofire-objc) - Realtime location queries with Firebase.
-- 🔌 [Firebase UI](https://github.com/firebase/firebaseui-ios) - iOS UI bindings for Firebase.
-- 💡 [MLKit - ARCore](https://github.com/FirebaseExtended/MLKit-ARCore) - Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB.
-- 💡 [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
+- 🔌 [GeoFire for Objective-C][ios-1] - Realtime location queries with Firebase.
+- 🔌 [Firebase UI][ios-2] - iOS UI bindings for Firebase.
+- 💡 [MLKit - ARCore][ios-3] - Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB.
+- 💡 [MLKit - ARKit][ios-4] - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
 
 ## Server-side (Cloud Functions, BigQuery etc)
 
@@ -179,6 +179,23 @@ Who else should we be following!?
 <!-- Official Firebase Docs & Quickstarts -->
 <!-- Web -->
 <!-- Mobile -->
+
+[mobile-1]: https://firebase.google.com/docs/flutter/setup
+[mobile-2]: https://github.com/EddyVerbruggen/nativescript-plugin-firebase
+[mobile-3]: https://github.com/flutter/plugins/blob/master/FlutterFire.md
+[mobile-3-flutter]: https://flutter.io/
+[mobile-4]: https://github.com/invertase/react-native-firebase
+[mobile-5]: https://github.com/evollu/react-native-fcm
+[mobile-6]: https://github.com/EvanBacon/expo-native-firebase
+[mobile-7]: https://github.com/mattgraham1/FlutterCalendar
+[android-1]: https://github.com/firebase/geofire-java
+[android-2]: https://github.com/firebase/firebaseui-android
+[android-3]: https://github.com/rosariopfernandes/firextensions
+[ios-1]: https://github.com/firebase/geofire-objc
+[ios-2]: https://github.com/firebase/firebaseui-ios
+[ios-3]: https://github.com/FirebaseExtended/MLKit-ARCore
+[ios-4]: https://github.com/FirebaseExtended/MLKit-ARKit
+
 <!-- Server-side (Cloud Functions, BigQuery etc) -->
 
 [server-1]: https://firebase.google.com/docs/admin/setup
