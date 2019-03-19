@@ -166,8 +166,18 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/jthegedus/awesome-firebase/graphs/contributors)!
+[Thanks goes to these contributors][contributors]!
 
 ## License
 
-[CC0 License](https://github.com/jthegedus/awesome-firebase/blob/master/LICENSE)
+[CC0 License][license]
+
+<!-- Links -->
+
+<!-- Contributors -->
+
+[contributors]: https://github.com/jthegedus/awesome-firebase/graphs/contributors
+
+<!-- License -->
+
+[license]: https://github.com/jthegedus/awesome-firebase/blob/master/LICENSE
