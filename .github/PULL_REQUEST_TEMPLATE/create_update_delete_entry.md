@@ -12,9 +12,14 @@ assignees: ""
 - [ ] is the source valid ([would not lead a beginner astray](../../CONTRIBUTING.md#valid-sources))?
 - [ ] have you included the appropriate [legend emoji](../../README.md#legend)?
 - [ ] the item has the following format:
+
   ```
-  - :legend emoji: [item name](https link) - Description beginning with capital, ending in period.
+  - :legend emoji: [item name][markdown ref link] - Description beginning with capital, ending in period.
+  ...
+  [markdown ref link]: https-link
   ```
+
+- [ ] 100% definitely using a [reference-style link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 **contributions**
 
