@@ -219,9 +219,15 @@ Who else should we be following!?
 [mobile-5]: https://github.com/evollu/react-native-fcm
 [mobile-6]: https://github.com/EvanBacon/expo-native-firebase
 [mobile-7]: https://github.com/mattgraham1/FlutterCalendar
+
+<!-- Mobile: Android -->
+
 [android-1]: https://github.com/firebase/geofire-java
 [android-2]: https://github.com/firebase/firebaseui-android
 [android-3]: https://github.com/rosariopfernandes/firextensions
+
+<!-- Movile: iOS -->
+
 [ios-1]: https://github.com/firebase/geofire-objc
 [ios-2]: https://github.com/firebase/firebaseui-ios
 [ios-3]: https://github.com/FirebaseExtended/MLKit-ARCore
