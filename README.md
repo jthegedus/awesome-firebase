@@ -177,7 +177,6 @@ Who else should we be following!?
 [firebase]: https://firebase.google.com
 [gcp-products]: https://cloud.google.com/products
 
-<!-- Contents -->
 <!-- Featured (new releases) -->
 
 [new-1]: https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions
