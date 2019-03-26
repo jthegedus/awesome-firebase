@@ -58,7 +58,7 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 
 ## Featured (new releases)
 
-- 📖 [Hosting Version History][new-1] - Automatic deletion of older versions of your site deployments.
+- 🔌 [Firestorter][firestorter] - Use Firestore in React with zero effort, using MobX (also for react-native).
 - 🔌 [Integrify][new-2] - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 - 🔧 [Firepit][new-3] - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
 - 🔧 [VSCode Firebase Explorer][new-4] - Explore and manage your Firebase projects.
@@ -87,6 +87,7 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 - 🔌 [BuckleScript Bindings for Firebase][web-14] - BuckleScript bindings for Firebase for use in ReasonML projects.
 - 💡 [Angular Firebase PWA][web-15] - Is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
 - 🔌 [FireSQL][web-16] - Query Firestore using SQL syntax. Issues the minimum amount of queries necessary in order to get the data that you request.
+- 📖 [Hosting Version History][hosting-version-hist] - Automatic deletion of older versions of your site deployments.
 
 ## Mobile
 
@@ -179,7 +180,6 @@ Who else should we be following!?
 
 <!-- Featured (new releases) -->
 
-[new-1]: https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions
 [new-2]: https://github.com/anishkny/integrify
 [new-3]: https://github.com/abehaskins/firepit
 [new-4]: https://github.com/jsayol/vscode-firebase-explorer
@@ -208,6 +208,8 @@ Who else should we be following!?
 [web-14]: https://github.com/avohq/bs-firebase
 [web-15]: https://github.com/codediodeio/angular-firestarter
 [web-16]: https://github.com/jsayol/FireSQL
+[firestorter]: https://github.com/IjzerenHein/firestorter
+[hosting-version-hist]: https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions
 
 <!-- Mobile -->
 
