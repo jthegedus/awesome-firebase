@@ -87,7 +87,7 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 - 🔌 [BuckleScript Bindings for Firebase][web-14] - BuckleScript bindings for Firebase for use in ReasonML projects.
 - 💡 [Angular Firebase PWA][web-15] - Is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
 - 🔌 [FireSQL][web-16] - Query Firestore using SQL syntax. Issues the minimum amount of queries necessary in order to get the data that you request.
-- 🔌 [Firestorter][web-17] - Use Firestore in React with zero effort, using MobX 🤘 (also for react-native) 
+- 🔌 [Firestorter][web-17] - Use Firestore in React with zero effort, using MobX (also for react-native).
 
 ## Mobile
 
