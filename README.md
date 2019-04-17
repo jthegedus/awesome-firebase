@@ -181,7 +181,7 @@ Who else should we be following!?
 
 <!-- Featured (new releases) -->
 
-[cloud-run-rewrites]: https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run
+[cloud-run-rewrites]: https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
 [new-2]: https://github.com/anishkny/integrify
 [new-4]: https://github.com/jsayol/vscode-firebase-explorer
 [new-5]: https://github.com/CSFrequency/react-firebase-hooks
