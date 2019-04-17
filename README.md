@@ -58,9 +58,9 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 
 ## Featured (new releases)
 
+- 📝 [Firebase Hosting for Cloud Run Services][cloud-run-rewrites] - Dynamic content with Hosting Rewrites & Cloud Run Services.
 - 🔌 [Firestorter][firestorter] - Use Firestore in React with zero effort, using MobX (also for react-native).
 - 🔌 [Integrify][new-2] - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
-- 🔧 [Firepit][new-3] - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
 - 🔧 [VSCode Firebase Explorer][new-4] - Explore and manage your Firebase projects.
 - 🔌 [React Firebase Hooks][new-5] - React Hooks for Firebase services.
 
@@ -129,9 +129,10 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 - 🔧 [Firebase Tools][cli-editor-1] - The Firebase Command Line Tools.
 - 🔧 [Firebase CI][cli-editor-2] - Simplified Firebase interaction for continuous integration.
 - 🔧 [VSFire][cli-editor-3] - VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.
-- 🔧 [Firebase Firestore Snippets][cli-editor-4] - Contains the snippet for both firebase and firestore in VS Code editor.
+- 🔧 [Firebase Firestore Snippets][cli-editor-4] - Contains the snippet for both Firebase and Firestore in VS Code editor.
 - 🔧 [Fuego][cli-editor-5] - Firestore client CLI supporting document add/update/query with filtering and pagination.
 - 🔧 [Firestore Rules Generator][cli-editor-6] - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
+- 🔧 [Firepit][firepit] - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
 
 ## Other
 
@@ -180,8 +181,8 @@ Who else should we be following!?
 
 <!-- Featured (new releases) -->
 
+[cloud-run-rewrites]: https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
 [new-2]: https://github.com/anishkny/integrify
-[new-3]: https://github.com/abehaskins/firepit
 [new-4]: https://github.com/jsayol/vscode-firebase-explorer
 [new-5]: https://github.com/CSFrequency/react-firebase-hooks
 
@@ -253,6 +254,7 @@ Who else should we be following!?
 [cli-editor-4]: https://github.com/peterhdd/firebase-firestore-snippets
 [cli-editor-5]: https://github.com/sgarciac/fuego
 [cli-editor-6]: https://github.com/FirebaseExtended/protobuf-rules-gen
+[firepit]: https://github.com/abehaskins/firepit
 
 <!-- Other -->
 
