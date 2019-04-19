@@ -58,8 +58,8 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 
 ## Featured (new releases)
 
+- 📝 [Scheduled (Cron) Cloud Functions for Firebase][cron-cloud-functions] - Firebase-native Cron triggers for Firebase Cloud Functions.
 - 📝 [Firebase Hosting for Cloud Run Services][cloud-run-rewrites] - Dynamic content with Hosting Rewrites & Cloud Run Services.
-- 🔌 [Firestorter][firestorter] - Use Firestore in React with zero effort, using MobX (also for react-native).
 - 🔌 [Integrify][new-2] - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 - 🔧 [VSCode Firebase Explorer][new-4] - Explore and manage your Firebase projects.
 - 🔌 [React Firebase Hooks][new-5] - React Hooks for Firebase services.
@@ -88,6 +88,7 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 - 💡 [Angular Firebase PWA][web-15] - Is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
 - 🔌 [FireSQL][web-16] - Query Firestore using SQL syntax. Issues the minimum amount of queries necessary in order to get the data that you request.
 - 📖 [Hosting Version History][hosting-version-hist] - Automatic deletion of older versions of your site deployments.
+- 🔌 [Firestorter][firestorter] - Use Firestore in React with zero effort, using MobX (also for react-native).
 
 ## Mobile
 
@@ -181,6 +182,7 @@ Who else should we be following!?
 
 <!-- Featured (new releases) -->
 
+[cron-cloud-functions]: https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html
 [cloud-run-rewrites]: https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
 [new-2]: https://github.com/anishkny/integrify
 [new-4]: https://github.com/jsayol/vscode-firebase-explorer
