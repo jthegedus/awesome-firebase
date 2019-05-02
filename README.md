@@ -15,16 +15,8 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
   <img src="images/firebase-services.gif" />
 </a>
 
-<!-- other language links -->
-<p align="right">
-    <sup><a href="README_RU.md">ru</a></sup>
-    <!-- <sup><a href="README_ES.md">es</a></sup>
-    <sup><a href="README_ID.md">id</a></sup>
-    <sup><a href="README_JA.md">ja</a></sup>
-    <sup><a href="README_KO.md">ko</a></sup>
-    <sup><a href="README_PT.md">pt</a></sup>
-    <sup><a href="README_ZH.md">zh</a></sup> -->
-</p>
+<!-- translations -->
+Translations: [🇷🇺 ru](README_RU.md) <!-- · [🇪🇸 es](README_ES.md) · [🇮🇩 id](README_ID.md) · [🇯🇵 ja](README_JA.md) · [🇰🇷 ko](README_KO.md) · [🇵🇹 pt](README_PT.md) · [🇨🇳 zh](README_ZH.md) -->
 
 [Firebase][firebase] is an app dev platform built on the [Google Cloud Platform][gcp-products] providing services and cross-platform SDKs!
 
@@ -43,17 +35,7 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 - [Other](#other)
 - [Follow](#follow)
 
-<p>
-  <b>Legend</b>:
-    <em>
-    📝 blog posts
-    · 💡 examples
-    · 📖 docs
-    · 🔌 libraries
-    · 🔧 tools
-    · 📹 talks/video
-    </em>
-</p>
+**Legend**: 📝 blog posts · 💡 examples · 📖 docs · 🔌 libraries · 🔧 tools · 📹 talks/video 
 
 <!-- START content -->
 
