@@ -58,8 +58,8 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 
 ## Featured (new releases)
 
+- 🔧 [Fireward][fireward] - Easy to use language for Firestore rules, similar to Firebase Bolt.
 - 📝 [Scheduled (Cron) Cloud Functions for Firebase][cron-cloud-functions] - Firebase-native Cron triggers for Firebase Cloud Functions.
-- 📝 [Firebase Hosting for Cloud Run Services][cloud-run-rewrites] - Dynamic content with Hosting Rewrites & Cloud Run Services.
 - 🔌 [Integrify][new-2] - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 - 🔧 [VSCode Firebase Explorer][new-4] - Explore and manage your Firebase projects.
 - 🔌 [React Firebase Hooks][new-5] - React Hooks for Firebase services.
@@ -124,6 +124,7 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 - 💡 [Compiled Code with Cloud Functions][server-5] - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
 - 📝 [BigQuery & Google Analytics][server-6] - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery.
 - 📹 [Official Cloud Function #Firecasts][server-7] - YouTube video series about understanding how Cloud Functions work.
+- 📝 [Firebase Hosting for Cloud Run Services][cloud-run-rewrites] - Dynamic content with Hosting Rewrites & Cloud Run Services.
 
 ## CLI & Editor
 
@@ -257,6 +258,7 @@ Who else should we be following!?
 [cli-editor-5]: https://github.com/sgarciac/fuego
 [cli-editor-6]: https://github.com/FirebaseExtended/protobuf-rules-gen
 [firepit]: https://github.com/abehaskins/firepit
+[fireward]: https://github.com/bijoutrouvaille/fireward
 
 <!-- Other -->
 
