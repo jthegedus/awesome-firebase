@@ -17,5 +17,8 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
+  },
+  "dependencies": {
+    "yarn": "^1.15.2"
   }
 }
