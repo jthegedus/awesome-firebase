@@ -161,8 +161,8 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 
 ### Community
 
-- 📹 [Fireship - AngularFirebase][community-1]
-- 📹 ru [@firebase_ru - Telegram friendly chat][community-2]
+- 📹 [Fireship - AngularFirebase][angular-firebase]
+- 📹 ru [@firebase_ru - Telegram friendly chat][ru-telegram-chat]
 
 Who else should we be following!?
 
@@ -282,8 +282,8 @@ Who else should we be following!?
 [official-2]: https://firebase.googleblog.com/
 [official-3]: https://twitter.com/firebase
 [official-4]: https://twitter.com/bestoffirebase
-[community-1]: https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
-[community-2]: https://t.me/firebase_ru
+[angular-firebase]: https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
+[ru-telegram-chat]: https://t.me/firebase_ru
 
 <!-- Contributors -->
 
