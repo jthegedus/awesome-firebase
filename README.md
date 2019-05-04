@@ -16,6 +16,7 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 </a>
 
 <!-- translations -->
+
 Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [🇪🇸 es](README_ES.md) · [🇮🇩 id](README_ID.md) · [🇯🇵 ja](README_JA.md) · [🇰🇷 ko](README_KO.md) · [🇵🇹 pt](README_PT.md) · [🇨🇳 zh](README_ZH.md) -->
 
 [Firebase][firebase] is an app dev platform built on the [Google Cloud Platform][gcp-products] providing services and cross-platform SDKs!
@@ -35,7 +36,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 - [Other](#other)
 - [Follow](#follow)
 
-**Legend**: 📝 blog posts · 💡 examples · 📖 docs · 🔌 libraries · 🔧 tools · 📹 talks/video 
+**Legend**: 📝 blog posts · 💡 examples · 📖 docs · 🔌 libraries · 🔧 tools · 📹 talks/video
 
 <!-- START content -->
 
@@ -51,6 +52,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 
 - 📖 [Firebase Documentation][docs-1] - Official Firebase Documentation.
 - 💡 [Firebase Quickstarts][docs-2] - Official Firebase Quickstarts.
+- 💡 [Google Codelabs | Firebase][docs-3] - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
 
 ## Web
 
@@ -177,6 +179,7 @@ Who else should we be following!?
 
 [docs-1]: https://firebase.google.com/docs
 [docs-2]: https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=
+[docs-3]: https://codelabs.developers.google.com/?cat=Firebase
 
 <!-- Web -->
 
