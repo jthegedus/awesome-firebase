@@ -52,7 +52,7 @@
 
 - 📖 [Firebase Documentation][docs-1] - Официальная документация по Firebase.
 - 💡 [Firebase Quickstarts][docs-2] - Официальные примеры для быстрого старта с Firebase.
-- 💡 [Google Codelabs | Firebase][docs-3] - Codelabs для разработчиков Google предоставляют практическое руководство по написанию кода.
+- 💡 [Google Codelabs | Firebase][google-codelabs] - Codelabs для разработчиков Google предоставляют практическое руководство по написанию кода.
 
 ## Веб
 
@@ -179,7 +179,7 @@
 
 [docs-1]: https://firebase.google.com/docs
 [docs-2]: https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=
-[docs-3]: https://codelabs.developers.google.com/?cat=Firebase
+[google-codelabs]: https://codelabs.developers.google.com/?cat=Firebase
 
 <!-- Web -->
 
