@@ -52,7 +52,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 
 - 📖 [Firebase Documentation][docs-1] - Official Firebase Documentation.
 - 💡 [Firebase Quickstarts][docs-2] - Official Firebase Quickstarts.
-- 💡 [Google Codelabs | Firebase][docs-3] - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
+- 💡 [Google Codelabs | Firebase][google-codelabs] - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
 
 ## Web
 
@@ -179,7 +179,7 @@ Who else should we be following!?
 
 [docs-1]: https://firebase.google.com/docs
 [docs-2]: https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=
-[docs-3]: https://codelabs.developers.google.com/?cat=Firebase
+[google-codelabs]: https://codelabs.developers.google.com/?cat=Firebase
 
 <!-- Web -->
 
