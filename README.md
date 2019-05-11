@@ -44,9 +44,9 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 
 - 🔧 [Fireward][fireward] - Easy to use language for Firestore rules, similar to Firebase Bolt.
 - 📝 [Scheduled (Cron) Cloud Functions for Firebase][cron-cloud-functions] - Firebase-native Cron triggers for Firebase Cloud Functions.
-- 🔌 [Integrify][new-2] - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
-- 🔧 [VSCode Firebase Explorer][new-4] - Explore and manage your Firebase projects.
-- 🔌 [React Firebase Hooks][new-5] - React Hooks for Firebase services.
+- 🔌 [Integrify][integrify] - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
+- 🔧 [VSCode Firebase Explorer][vscode-firebase-explorer] - Explore and manage your Firebase projects.
+- 🔌 [React Firebase Hooks][react-firebase-hooks] - React Hooks for Firebase services.
 
 ## Official Firebase Docs & Quickstarts
 
@@ -171,9 +171,9 @@ Who else should we be following!?
 
 [cron-cloud-functions]: https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html
 [cloud-run-rewrites]: https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
-[new-2]: https://github.com/anishkny/integrify
-[new-4]: https://github.com/jsayol/vscode-firebase-explorer
-[new-5]: https://github.com/CSFrequency/react-firebase-hooks
+[integrify]: https://github.com/anishkny/integrify
+[vscode-firebase-explorer]: https://github.com/jsayol/vscode-firebase-explorer
+[react-firebase-hooks]: https://github.com/CSFrequency/react-firebase-hooks
 
 <!-- Official Firebase Docs & Quickstarts -->
 
