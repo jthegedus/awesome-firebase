@@ -50,13 +50,13 @@
 
 ## Официальная документация и быстрый старт
 
-- 📖 [Firebase Documentation][docs-1] - Официальная документация по Firebase.
-- 💡 [Firebase Quickstarts][docs-2] - Официальные примеры для быстрого старта с Firebase.
+- 📖 [Firebase Documentation][fb-docs] - Официальная документация по Firebase.
+- 💡 [Firebase Quickstarts][fb-quickstarts] - Официальные примеры для быстрого старта с Firebase.
 - 💡 [Google Codelabs | Firebase][google-codelabs] - Codelabs для разработчиков Google предоставляют практическое руководство по написанию кода.
 
 ## Веб
 
-- 🔌 [Firebase UI][web-1] - FirebaseUI - это библиотека JavaScript с открытым исходным кодом для Web, которая предоставляет простые связи пользовательского интерфейса поверх SDK Firebase для сокрытия стандартного кода и применения лучших практик.
+- 🔌 [Firebase UI][firebase-ui] - FirebaseUI - это библиотека JavaScript с открытым исходным кодом для Web, которая предоставляет простые связи пользовательского интерфейса поверх SDK Firebase для сокрытия стандартного кода и применения лучших практик.
 - 🔌 [Firebase UI for React][web-2] - React обертка для firebaseUI Web.
 - 🔌 [GeoFire for JavaScript][web-3] - Запросы местоположения в реальном времени с Firebase.
 - 💡 [FirePad][web-4] - Многопользовательский текстовый редактор на Firebase.
@@ -177,13 +177,13 @@
 
 <!-- Official Firebase Docs & Quickstarts -->
 
-[docs-1]: https://firebase.google.com/docs
-[docs-2]: https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=
+[fb-docs]: https://firebase.google.com/docs
+[fb-quickstarts]: https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=
 [google-codelabs]: https://codelabs.developers.google.com/?cat=Firebase
 
 <!-- Web -->
 
-[web-1]: https://github.com/firebase/firebaseui-web
+[firebase-ui]: https://github.com/firebase/firebaseui-web
 [web-2]: https://github.com/firebase/firebaseui-web-react
 [web-3]: https://github.com/firebase/geofire-js
 [web-4]: https://github.com/FirebaseExtended/firepad
