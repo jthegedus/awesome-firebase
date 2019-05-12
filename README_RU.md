@@ -77,14 +77,14 @@
 
 ## Для мобильных устройств
 
-- 📖 [Firebase Flutter Documentation][mobile-1] - Официальная документация Firebase Flutter.
-- 🔌 [NativeScript plugin Firebase][mobile-2] - NativeScript плагин для Firebase.
-- 🔌 [FlutterFire][mobile-3] - Используйте Firebase сервисы в своем кросс-платформенном [Flutter][mobile-3-flutter] приложении.
-- 🔌 [React Native Firebase][mobile-4] - Проверенная многофункциональная модульная реализация Firebase для React Native. Поддерживает платформы iOS и Android.
-- 🔌 [React Native Firebase Cloud Messaging][mobile-5] -
+- 📖 [Firebase Flutter Documentation][fb-flutter] - Официальная документация Firebase Flutter.
+- 🔌 [NativeScript plugin Firebase][fb-nativescript] - NativeScript плагин для Firebase.
+- 🔌 [FlutterFire][fb-flutter-fire] - Используйте Firebase сервисы в своем кросс-платформенном [Flutter][flutter] приложении.
+- 🔌 [React Native Firebase][rn-fb] - Проверенная многофункциональная модульная реализация Firebase для React Native. Поддерживает платформы iOS и Android.
+- 🔌 [React Native Firebase Cloud Messaging][rn-fb-fcm] -
   Модуль React Native для Firebase Cloud Messaging и локальных уведомлений.
-- 💡 [Expo Native Firebase][mobile-6] - Native Firebase Expo приложение (iOS, Android) демо для Firestore, Notifications, Analytics, Storage, Messaging, Database.
-- 💡 [Flutter Calendar App][mobile-7] -
+- 💡 [Expo Native Firebase][expo-fb] - Native Firebase Expo приложение (iOS, Android) демо для Firestore, Notifications, Analytics, Storage, Messaging, Database.
+- 💡 [Flutter Calendar App][flutter-cal] -
   Новое приложение Flutter, реализующее простое мобильное приложение календаря для хранения основных событий в облачной базе данных Firebase.
 
 ### Android
@@ -204,14 +204,14 @@
 
 <!-- Mobile -->
 
-[mobile-1]: https://firebase.google.com/docs/flutter/setup
-[mobile-2]: https://github.com/EddyVerbruggen/nativescript-plugin-firebase
-[mobile-3]: https://github.com/flutter/plugins/blob/master/FlutterFire.md
-[mobile-3-flutter]: https://flutter.io/
-[mobile-4]: https://github.com/invertase/react-native-firebase
-[mobile-5]: https://github.com/evollu/react-native-fcm
-[mobile-6]: https://github.com/EvanBacon/expo-native-firebase
-[mobile-7]: https://github.com/mattgraham1/FlutterCalendar
+[fb-flutter]: https://firebase.google.com/docs/flutter/setup
+[fb-nativescript]: https://github.com/EddyVerbruggen/nativescript-plugin-firebase
+[fb-flutter-fire]: https://github.com/flutter/plugins/blob/master/FlutterFire.md
+[flutter]: https://flutter.io/
+[rn-fb]: https://github.com/invertase/react-native-firebase
+[rn-fb-fcm]: https://github.com/evollu/react-native-fcm
+[expo-fb]: https://github.com/EvanBacon/expo-native-firebase
+[flutter-cal]: https://github.com/mattgraham1/FlutterCalendar
 
 <!-- Mobile: Android -->
 
