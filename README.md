@@ -7,7 +7,7 @@
 
 <!-- subtitle -->
 
-The most **up to date** list of [Firebase][firebase] docs, talks, tools, examples &amp; articles the internet has to offer.
+The most **up to date** list of [Firebase][firebase] docs, talks, tools, examples & articles the internet has to offer.
 
 <!-- image -->
 

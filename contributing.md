@@ -2,20 +2,9 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
-## Contribute on your own Machine
-
-Currently this project uses Node.js to support prettier & all-contributors. I intend to migrate these to CI entirely, but until then you can follow these steps:
-
-```shell
-# clone/fork
-# install
-yarn
-
-### or
-npm install
-```
-
 ## Adding an new Item
+
+Either use the GitHub online editor tool or clone to your local machine. Always create a new branch and PR!
 
 - Try to fit your item into an existing sections. [Open a suggestion](https://github.com/jthegedus/awesome-firebase/issues/new?assignees=&labels=&template=suggestion.md&title=) to start as discussion about any new sections.
 - Add a new item to the bottom of the list in a section.
