@@ -3,7 +3,7 @@ version: 2.1
 jobs:
   'awesome-bot':
     docker:
-      - image: circleci/ruby:lts
+      - image: circleci/ruby:latest
     steps:
       - checkout
       - run: gem install awesome_bot
