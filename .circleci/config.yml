@@ -1,32 +1,24 @@
 version: 2.1
 
 jobs:
-  "awesome-bot":
+  'awesome-bot':
     docker:
-      - image: circleci/ruby:latest
+      - image: circleci/ruby:lts
     steps:
       - checkout
-      - run:
-          name: install awesome bot
-          command: gem install awesome_bot
-      - run:
-          name: check readme links
-          command: awesome_bot README.md --allow-redirect --allow-dupe
-  "awesome-lint":
+      - run: gem install awesome_bot
+      - run: awesome_bot README.md --allow-redirect --allow-dupe
+  'awesome-lint':
     docker:
-      - image: circleci/node:latest
+      - image: circleci/node:lts
     steps:
       - checkout
-      - run:
-          name: install awesome lint
-          command: yarn install
-      - run:
-          name: lint readme
-          command: yarn test
+      - run: yarn add awesome-lint
+      - run: yarn awesome-lint
 
 workflows:
   version: 2
   build:
     jobs:
-      - "awesome-lint"
-      - "awesome-bot"
+      - 'awesome-lint'
+      - 'awesome-bot'
