@@ -141,7 +141,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 
 ### Official
 
-📹 [Firebase YouTube][official-1] 📝 [Firebase Blog][official-2] 🐦 [@firebase][official-3] 🐦 [@bestoffirebase][official-4]
+📹 [Firebase YouTube][fb-yt] 📝 [Firebase Blog][fb-blog] 🐦 [@firebase][fb-twitter] 🐦 [@bestoffirebase][bof-twitter]
 
 ### Community
 
@@ -263,10 +263,10 @@ Who else should we be following!?
 
 <!-- Follow -->
 
-[official-1]: https://www.youtube.com/user/Firebase
-[official-2]: https://firebase.googleblog.com/
-[official-3]: https://twitter.com/firebase
-[official-4]: https://twitter.com/bestoffirebase
+[fb-yt]: https://www.youtube.com/user/Firebase
+[fb-blog]: https://firebase.googleblog.com/
+[fb-twitter]: https://twitter.com/firebase
+[bof-twitter]: https://twitter.com/bestoffirebase
 [angular-firebase]: https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
 [ru-telegram-chat]: https://t.me/firebase_ru
 
