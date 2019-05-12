@@ -113,12 +113,12 @@
 
 ## Интерфейс комадной строки и редактор
 
-- 🔧 [Firebase Tools][cli-editor-1] - Инструменты командной строки Firebase.
-- 🔧 [Firebase CI][cli-editor-2] - Упрощенное взаимодействие с Firebase для непрерывной интеграции.
-- 🔧 [VSFire][cli-editor-3] - Расширение VSCode для подсветки синтаксиса и дополнений кода для правил безопасности и индексов Firestore.
-- 🔧 [Firebase Firestore Snippets][cli-editor-4] - Содержит фрагменты для Firebase и Firestore в редакторе VSCode.
-- 🔧 [Fuego][cli-editor-5] - Клиентский интерфейс командной строки Firestore с возможностью добавить/обновить/выбрать записи с фильтрацией и разбиением на страницы.
-- 🔧 [Firestore Rules Generator][cli-editor-6] - Официальный (но экспериментальный) генератор правил Firebase для Cloud Firestore основанный на формате Google's Protocol Buffer.
+- 🔧 [Firebase Tools][fb-tools] - Инструменты командной строки Firebase.
+- 🔧 [Firebase CI][fb-ci] - Упрощенное взаимодействие с Firebase для непрерывной интеграции.
+- 🔧 [VSFire][vsfire] - Расширение VSCode для подсветки синтаксиса и дополнений кода для правил безопасности и индексов Firestore.
+- 🔧 [Firebase Firestore Snippets][fb-firestore-snippets] - Содержит фрагменты для Firebase и Firestore в редакторе VSCode.
+- 🔧 [Fuego][fuego] - Клиентский интерфейс командной строки Firestore с возможностью добавить/обновить/выбрать записи с фильтрацией и разбиением на страницы.
+- 🔧 [Firestore Rules Generator][firestore-rules-gen] - Официальный (но экспериментальный) генератор правил Firebase для Cloud Firestore основанный на формате Google's Protocol Buffer.
 - 🔧 [Firepit][firepit] - Firepit - это автономная, портативная версия Firebase CLI, которая не имеет зависимостей (включая Node.js).
 
 ## Прочее
@@ -238,12 +238,12 @@
 
 <!-- CLI & Editor -->
 
-[cli-editor-1]: https://github.com/firebase/firebase-tools
-[cli-editor-2]: https://github.com/prescottprue/firebase-ci
-[cli-editor-3]: https://github.com/toba/vsfire
-[cli-editor-4]: https://github.com/peterhdd/firebase-firestore-snippets
-[cli-editor-5]: https://github.com/sgarciac/fuego
-[cli-editor-6]: https://github.com/FirebaseExtended/protobuf-rules-gen
+[fb-tools]: https://github.com/firebase/firebase-tools
+[fb-ci]: https://github.com/prescottprue/firebase-ci
+[vsfire]: https://github.com/toba/vsfire
+[fb-firestore-snippets]: https://github.com/peterhdd/firebase-firestore-snippets
+[fuego]: https://github.com/sgarciac/fuego
+[firestore-rules-gen]: https://github.com/FirebaseExtended/protobuf-rules-gen
 [firepit]: https://github.com/abehaskins/firepit
 [fireward]: https://github.com/bijoutrouvaille/fireward
 
