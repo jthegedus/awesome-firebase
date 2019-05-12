@@ -42,7 +42,7 @@
 
 ## Избранное (новые выпуски)
 
-- 🔧 [Fireward][fireward] - Простой в использовании язык для правил Firestore, похожий на Firebase Bolt.
+- 📹 [Firebase @ Google IO '19][fb-io-19] - Все доклады Firebase @ Google IO 2019.
 - 📝 [Scheduled (Cron) Cloud Functions for Firebase][cron-cloud-functions] - Firebase-native триггеры Cron для облачных функций Firebase.
 - 🔌 [Integrify][integrify] - Обеспечение ссылочной целостности и целостности данных в Firestore с помощью предварительно настроенных триггеров Cloud Functions.
 - 🔧 [VSCode Firebase Explorer][vscode-firebase-explorer] - Исследуйте и управляйте своими проектами Firebase.
@@ -120,6 +120,7 @@
 - 🔧 [Fuego][fuego] - Клиентский интерфейс командной строки Firestore с возможностью добавить/обновить/выбрать записи с фильтрацией и разбиением на страницы.
 - 🔧 [Firestore Rules Generator][firestore-rules-gen] - Официальный (но экспериментальный) генератор правил Firebase для Cloud Firestore основанный на формате Google's Protocol Buffer.
 - 🔧 [Firepit][firepit] - Firepit - это автономная, портативная версия Firebase CLI, которая не имеет зависимостей (включая Node.js).
+- 🔧 [Fireward][fireward] - Простой в использовании язык для правил Firestore, похожий на Firebase Bolt.
 
 ## Прочее
 
@@ -259,6 +260,7 @@
 [fb-summit-18]: https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R
 [fb-next-18]: https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL
 [fb-io-18]: https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd
+[fb-io-19]: https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO
 [fb-ask-fb]: https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA
 
 <!-- Follow -->
