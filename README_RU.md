@@ -89,16 +89,16 @@
 
 ### Android
 
-- 🔌 [GeoFire for Java][android-1] - Запросы местоположения в реальном времени с Firebase.
-- 🔌 [Firebase UI][android-2] - Оптимизированные UI компоненты для Firebase.
-- 🔌 [FireXtensions][android-3] - Неофициальные Kotlin расширения для Firebase Android SDK.
+- 🔌 [GeoFire for Java][geofire-java] - Запросы местоположения в реальном времени с Firebase.
+- 🔌 [Firebase UI][fb-ui-android] - Оптимизированные UI компоненты для Firebase.
+- 🔌 [FireXtensions][android-firextensions] - Неофициальные Kotlin расширения для Firebase Android SDK.
 
 ### iOS
 
-- 🔌 [GeoFire for Objective-C][ios-1] - Запросы местоположения в реальном времени с Firebase.
-- 🔌 [Firebase UI][ios-2] - iOS UI связи для Firebase.
-- 💡 [MLKit - ARCore][ios-3] - Пример обнаружения объектов и обозначение их с помощью 3D-меток в дополненной реальности. Использует Firebase ML Kit, ARCore и Firebase RTDB.
-- 💡 [MLKit - ARKit][ios-4] - Пример обнаружения объектов с помощью Firebase ML Kit и обозначение их 3D-метками в дополненной реальности.
+- 🔌 [GeoFire for Objective-C][geofire-objc] - Запросы местоположения в реальном времени с Firebase.
+- 🔌 [Firebase UI][fb-ui-ios] - iOS UI связи для Firebase.
+- 💡 [MLKit - ARCore][mlkit-arcore] - Пример обнаружения объектов и обозначение их с помощью 3D-меток в дополненной реальности. Использует Firebase ML Kit, ARCore и Firebase RTDB.
+- 💡 [MLKit - ARKit][mlkit-arkit] - Пример обнаружения объектов с помощью Firebase ML Kit и обозначение их 3D-метками в дополненной реальности.
 
 ## Серверная часть (Cloud Functions, BigQuery и т.д.)
 
@@ -215,16 +215,16 @@
 
 <!-- Mobile: Android -->
 
-[android-1]: https://github.com/firebase/geofire-java
-[android-2]: https://github.com/firebase/firebaseui-android
-[android-3]: https://github.com/rosariopfernandes/firextensions
+[geofire-java]: https://github.com/firebase/geofire-java
+[fb-ui-android]: https://github.com/firebase/firebaseui-android
+[android-firextensions]: https://github.com/rosariopfernandes/firextensions
 
 <!-- Movile: iOS -->
 
-[ios-1]: https://github.com/firebase/geofire-objc
-[ios-2]: https://github.com/firebase/firebaseui-ios
-[ios-3]: https://github.com/FirebaseExtended/MLKit-ARCore
-[ios-4]: https://github.com/FirebaseExtended/MLKit-ARKit
+[geofire-objc]: https://github.com/firebase/geofire-objc
+[fb-ui-ios]: https://github.com/firebase/firebaseui-ios
+[mlkit-arcore]: https://github.com/FirebaseExtended/MLKit-ARCore
+[mlkit-arkit]: https://github.com/FirebaseExtended/MLKit-ARKit
 
 <!-- Server-side (Cloud Functions, BigQuery etc) -->
 
