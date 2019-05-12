@@ -57,21 +57,21 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 ## Web
 
 - 🔌 [Firebase UI][firebase-ui] - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
-- 🔌 [Firebase UI for React][web-2] - React Wrapper for firebaseUI Web.
-- 🔌 [GeoFire for JavaScript][web-3] - Realtime location queries with Firebase.
-- 💡 [FirePad][web-4] - Collaborative Text Editor Powered by Firebase.
-- 🔌 [Ember Fire][web-5] - Official Ember data adapter for Firebase.
-- 🔌 [Firebase Dart][web-6] - Dart wrapper for Firebase.
-- 🔌 [PolymerFire][web-7] - Polymer Web Components for Firebase.
-- 🔌 [VueFire][web-8] - Firebase bindings for Vue.js.
-- 🔌 [Angular Fire 2][web-9] - Official library for Firebase and Angular.
-- 🔌 [Re-base][web-10] - Relay inspired library for building React.js + Firebase applications.
-- 🔌 [React Redux Firebase][web-11] - Redux bindings for Firebase. Includes Higher Order Component for use with React.
-- 🔌 [GatsbyJS Firebase Data Source][web-12] - Query your Firebase data right into your statically generated pages with Gatsby.
-- 🔌 [Apollo Link Firebase][web-13] - Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
-- 🔌 [BuckleScript Bindings for Firebase][web-14] - BuckleScript bindings for Firebase for use in ReasonML projects.
-- 💡 [Angular Firebase PWA][web-15] - Is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
-- 🔌 [FireSQL][web-16] - Query Firestore using SQL syntax. Issues the minimum amount of queries necessary in order to get the data that you request.
+- 🔌 [Firebase UI for React][fb-ui-react] - React Wrapper for firebaseUI Web.
+- 🔌 [GeoFire for JavaScript][geofire] - Realtime location queries with Firebase.
+- 💡 [FirePad][firepad] - Collaborative Text Editor Powered by Firebase.
+- 🔌 [Ember Fire][ember-fire] - Official Ember data adapter for Firebase.
+- 🔌 [Firebase Dart][fb-dart] - Dart wrapper for Firebase.
+- 🔌 [PolymerFire][polymer-fire] - Polymer Web Components for Firebase.
+- 🔌 [VueFire][vue-fire] - Firebase bindings for Vue.js.
+- 🔌 [Angular Fire 2][ng-fire] - Official library for Firebase and Angular.
+- 🔌 [Re-base][rebase] - Relay inspired library for building React.js + Firebase applications.
+- 🔌 [React Redux Firebase][react-redux-fb] - Redux bindings for Firebase. Includes Higher Order Component for use with React.
+- 🔌 [GatsbyJS Firebase Data Source][gatsby-fire] - Query your Firebase data right into your statically generated pages with Gatsby.
+- 🔌 [Apollo Link Firebase][apollo-link-fb] - Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
+- 🔌 [BuckleScript Bindings for Firebase][bs-fb] - BuckleScript bindings for Firebase for use in ReasonML projects.
+- 💡 [Angular Firebase PWA][ng-firestarter] - Is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
+- 🔌 [FireSQL][firesql] - Query Firestore using SQL syntax. Issues the minimum amount of queries necessary in order to get the data that you request.
 - 📖 [Hosting Version History][hosting-version-hist] - Automatic deletion of older versions of your site deployments.
 - 🔌 [Firestorter][firestorter] - Use Firestore in React with zero effort, using MobX (also for react-native).
 
@@ -184,21 +184,21 @@ Who else should we be following!?
 <!-- Web -->
 
 [firebase-ui]: https://github.com/firebase/firebaseui-web
-[web-2]: https://github.com/firebase/firebaseui-web-react
-[web-3]: https://github.com/firebase/geofire-js
-[web-4]: https://github.com/FirebaseExtended/firepad
-[web-5]: https://github.com/firebase/emberFire
-[web-6]: https://github.com/FirebaseExtended/firebase-dart
-[web-7]: https://github.com/FirebaseExtended/polymerfire
-[web-8]: https://github.com/vuejs/vuefire
-[web-9]: https://github.com/angular/angularfire2
-[web-10]: https://github.com/tylermcginnis/re-base
-[web-11]: https://github.com/prescottprue/react-redux-firebase
-[web-12]: https://www.gatsbyjs.org/packages/gatsby-source-firebase/#gatsby-firebase-source
-[web-13]: https://github.com/Canner/apollo-link-firebase
-[web-14]: https://github.com/avohq/bs-firebase
-[web-15]: https://github.com/codediodeio/angular-firestarter
-[web-16]: https://github.com/jsayol/FireSQL
+[fb-ui-react]: https://github.com/firebase/firebaseui-web-react
+[geofire]: https://github.com/firebase/geofire-js
+[firepad]: https://github.com/FirebaseExtended/firepad
+[ember-fire]: https://github.com/firebase/emberFire
+[fb-dart]: https://github.com/FirebaseExtended/firebase-dart
+[polymer-fire]: https://github.com/FirebaseExtended/polymerfire
+[vue-fire]: https://github.com/vuejs/vuefire
+[ng-fire]: https://github.com/angular/angularfire2
+[rebase]: https://github.com/tylermcginnis/re-base
+[react-redux-fb]: https://github.com/prescottprue/react-redux-firebase
+[gatsby-fire]: https://www.gatsbyjs.org/packages/gatsby-source-firebase/#gatsby-firebase-source
+[apollo-link-fb]: https://github.com/Canner/apollo-link-firebase
+[bs-fb]: https://github.com/avohq/bs-firebase
+[ng-firestarter]: https://github.com/codediodeio/angular-firestarter
+[firesql]: https://github.com/jsayol/FireSQL
 [firestorter]: https://github.com/IjzerenHein/firestorter
 [hosting-version-hist]: https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions
 
