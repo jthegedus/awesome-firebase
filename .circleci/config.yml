@@ -18,6 +18,7 @@ jobs:
             - yarn-packages-v1-{{ checksum "yarn.lock" }}
       - run: yarn add awesome-lint
       - save_cache:
+          key: yarn-packages-{{ checksum "yarn.lock" }}
           paths:
             - ~/.cache/yarn
       - run: yarn awesome-lint
