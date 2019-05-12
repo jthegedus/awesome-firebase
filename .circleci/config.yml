@@ -13,7 +13,13 @@ jobs:
       - image: circleci/node:lts
     steps:
       - checkout
+      - restore_cache:
+          keys:
+            - yarn-packages-v1-{{ checksum "yarn.lock" }}
       - run: yarn add awesome-lint
+      - save_cache:
+          paths:
+            - ~/.cache/yarn
       - run: yarn awesome-lint
 
 workflows:
