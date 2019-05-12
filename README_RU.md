@@ -123,17 +123,17 @@
 
 ## Прочее
 
-- 🔌 [FireDrill][other-1] - Находите, изменяте, добавляйте, удаляйте, импортируйте, экспортиртируйте и создавайте отчеты на основе данных Firebase.
-- 💡 [Unity Solutions][other-2] - Используйте инструменты Firebase для включения общих функций в ваши игры.
-- 🔌 [Firebase AIR Native Extension][other-3] - Коллекция Firebase ANE предоставляет вам доступ к проекту Google Firebase в ваших проектах AdobeAir, поддерживаемых как на Android, так и на iOS, со 100% идентичным ActionScript API.
-- 🔌 [QtFirebase][other-4] - Попытка вывести Google Firebase C++ API на Qt+ QML.
-- 📝 [StackBlitz to Firebase Hosting Deployments][other-5] - StackBlitz (онлайн-редактор кода) для статического развертывания Firebase Hosting.
-- 🔧 [Flamelink][other-6] - CMS для Firebase. Поддерживает Firestore, RealtimeDatabase & Storage.
-- 🔧 [Canner CMS][other-7] - CMS для разработчиков, поддерживающих источники данных, такие как Firebase/Firestore, GraphQL и Restful API.
-- 📹 [Firebase Summit 2018][other-8] - Все доклады Firebase Summit 2018.
-- 📹 [Firebase @ Google Cloud Next '18][other-9] - Все доклады Firebase @ Google Cloud Next 2018.
-- 📹 [Firebase @ Google IO '18][other-10] - Все доклады Firebase @ Google IO 2018.
-- 📹 [#AskFirebase YouTube Playlist][other-11] - Официальный плейлист #AskFirebase на YouTube.
+- 🔌 [FireDrill][fire-drill] - Находите, изменяте, добавляйте, удаляйте, импортируйте, экспортиртируйте и создавайте отчеты на основе данных Firebase.
+- 💡 [Unity Solutions][unity-solns] - Используйте инструменты Firebase для включения общих функций в ваши игры.
+- 🔌 [Firebase AIR Native Extension][fb-ane] - Коллекция Firebase ANE предоставляет вам доступ к проекту Google Firebase в ваших проектах AdobeAir, поддерживаемых как на Android, так и на iOS, со 100% идентичным ActionScript API.
+- 🔌 [QtFirebase][qt-fb] - Попытка вывести Google Firebase C++ API на Qt+ QML.
+- 📝 [StackBlitz to Firebase Hosting Deployments][fb-stackblitz] - StackBlitz (онлайн-редактор кода) для статического развертывания Firebase Hosting.
+- 🔧 [Flamelink][flamelink] - CMS для Firebase. Поддерживает Firestore, RealtimeDatabase & Storage.
+- 🔧 [Canner CMS][canner] - CMS для разработчиков, поддерживающих источники данных, такие как Firebase/Firestore, GraphQL и Restful API.
+- 📹 [Firebase Summit 2018][fb-summit-18] - Все доклады Firebase Summit 2018.
+- 📹 [Firebase @ Google Cloud Next '18][fb-next-18] - Все доклады Firebase @ Google Cloud Next 2018.
+- 📹 [Firebase @ Google IO '18][fb-io-18] - Все доклады Firebase @ Google IO 2018.
+- 📹 [#AskFirebase YouTube Playlist][fb-ask-fb] - Официальный плейлист #AskFirebase на YouTube.
 
 <!-- END content -->
 
@@ -249,17 +249,17 @@
 
 <!-- Other -->
 
-[other-1]: https://github.com/scottlepp/fire-drill
-[other-2]: https://github.com/FirebaseExtended/unity-solutions
-[other-3]: https://github.com/myflashlab/Firebase-ANE
-[other-4]: https://github.com/Larpon/QtFirebase
-[other-5]: https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879
-[other-6]: https://flamelink.io/
-[other-7]: https://github.com/Canner/canner
-[other-8]: https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R
-[other-9]: https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL
-[other-10]: https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd
-[other-11]: https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA
+[fire-drill]: https://github.com/scottlepp/fire-drill
+[unity-solns]: https://github.com/FirebaseExtended/unity-solutions
+[fb-ane]: https://github.com/myflashlab/Firebase-ANE
+[qt-fb]: https://github.com/Larpon/QtFirebase
+[fb-stackblitz]: https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879
+[flamelink]: https://flamelink.io/
+[canner]: https://github.com/Canner/canner
+[fb-summit-18]: https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R
+[fb-next-18]: https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL
+[fb-io-18]: https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd
+[fb-ask-fb]: https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA
 
 <!-- Follow -->
 
