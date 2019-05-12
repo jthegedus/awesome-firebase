@@ -102,13 +102,13 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 
 ## Server-side (Cloud Functions, BigQuery etc)
 
-- 📖 [Firebase Admin Documentation][server-1] - Official Firebase Admin SDK Server Setup.
-- 💡 [Functions Samples][server-2] - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
-- 💡 [Express Server on Cloud Functions][server-3] - Host an Express server on Cloud Functions.
-- 📝 [GraphQL Server on Cloud Functions][server-4] - Host an Express server with GraphQL middleware on Cloud Functions.
-- 💡 [Compiled Code with Cloud Functions][server-5] - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
-- 📝 [BigQuery & Google Analytics][server-6] - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery.
-- 📹 [Official Cloud Function #Firecasts][server-7] - YouTube video series about understanding how Cloud Functions work.
+- 📖 [Firebase Admin Documentation][fb-admin-docs] - Official Firebase Admin SDK Server Setup.
+- 💡 [Functions Samples][fb-func-samples] - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
+- 💡 [Express Server on Cloud Functions][fb-func-express] - Host an Express server on Cloud Functions.
+- 📝 [GraphQL Server on Cloud Functions][fb-func-graphql] - Host an Express server with GraphQL middleware on Cloud Functions.
+- 💡 [Compiled Code with Cloud Functions][fb-func-compiled-code] - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
+- 📝 [BigQuery & Google Analytics][bq-fb-analytics] - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery.
+- 📹 [Official Cloud Function #Firecasts][fb-func-firecasts] - YouTube video series about understanding how Cloud Functions work.
 - 📝 [Firebase Hosting for Cloud Run Services][cloud-run-rewrites] - Dynamic content with Hosting Rewrites & Cloud Run Services.
 
 ## CLI & Editor
@@ -170,7 +170,6 @@ Who else should we be following!?
 <!-- Featured (new releases) -->
 
 [cron-cloud-functions]: https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html
-[cloud-run-rewrites]: https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
 [integrify]: https://github.com/anishkny/integrify
 [vscode-firebase-explorer]: https://github.com/jsayol/vscode-firebase-explorer
 [react-firebase-hooks]: https://github.com/CSFrequency/react-firebase-hooks
@@ -228,13 +227,14 @@ Who else should we be following!?
 
 <!-- Server-side (Cloud Functions, BigQuery etc) -->
 
-[server-1]: https://firebase.google.com/docs/admin/setup
-[server-2]: https://github.com/firebase/functions-samples
-[server-3]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express
-[server-4]: https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0
-[server-5]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code
-[server-6]: https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
-[server-7]: https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
+[fb-admin-docs]: https://firebase.google.com/docs/admin/setup
+[fb-func-samples]: https://github.com/firebase/functions-samples
+[fb-func-express]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express
+[fb-func-graphql]: https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0
+[fb-func-compiled-code]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code
+[bq-fb-analytics]: https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
+[fb-func-firecasts]: https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
+[cloud-run-rewrites]: https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
 
 <!-- CLI & Editor -->
 

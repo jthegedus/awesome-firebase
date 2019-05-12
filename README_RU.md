@@ -102,13 +102,13 @@
 
 ## Серверная часть (Cloud Functions, BigQuery и т.д.)
 
-- 📖 [Firebase Admin Documentation][server-1] - Официальная документация Firebase Admin SDK.
-- 💡 [Functions Samples][server-2] - Коллекция примеров приложений, демонстрирующих популярные варианты с использованием Cloud Functions для Firebase.
-- 💡 [Express Server on Cloud Functions][server-3] - Хостинг Express сервера на Cloud Functions.
-- 📝 [GraphQL Server on Cloud Functions][server-4] - Хостинг Express сервера с промежуточным слоем GraphQL на Cloud Functions.
-- 💡 [Compiled Code with Cloud Functions][server-5] - Скомпилируйте ваш Flow, TypeScript или ReasonML для среды выполнения Node, используя Babel, TypeScript Compiler или ParcelJS.
-- 📝 [BigQuery & Google Analytics][server-6] - Как создать закрытую воронку в Google Analytics для Firebase с помощью BigQuery.
-- 📹 [Official Cloud Function #Firecasts][server-7] - Серия видеороликов на YouTube о понимании работы облачных функций.
+- 📖 [Firebase Admin Documentation][fb-admin-docs] - Официальная документация Firebase Admin SDK.
+- 💡 [Functions Samples][fb-func-samples] - Коллекция примеров приложений, демонстрирующих популярные варианты с использованием Cloud Functions для Firebase.
+- 💡 [Express Server on Cloud Functions][fb-func-express] - Хостинг Express сервера на Cloud Functions.
+- 📝 [GraphQL Server on Cloud Functions][fb-func-graphql] - Хостинг Express сервера с промежуточным слоем GraphQL на Cloud Functions.
+- 💡 [Compiled Code with Cloud Functions][fb-func-compiled-code] - Скомпилируйте ваш Flow, TypeScript или ReasonML для среды выполнения Node, используя Babel, TypeScript Compiler или ParcelJS.
+- 📝 [BigQuery & Google Analytics][bq-fb-analytics] - Как создать закрытую воронку в Google Analytics для Firebase с помощью BigQuery.
+- 📹 [Official Cloud Function #Firecasts][fb-func-firecasts] - Серия видеороликов на YouTube о понимании работы облачных функций.
 - 📝 [Firebase Hosting for Cloud Run Services][cloud-run-rewrites] - Динамический контент на основе особенностей Firebase Hosting (rewrites) и Cloud Run.
 
 ## Интерфейс комадной строки и редактор
@@ -170,7 +170,6 @@
 <!-- Featured (new releases) -->
 
 [cron-cloud-functions]: https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html
-[cloud-run-rewrites]: https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
 [integrify]: https://github.com/anishkny/integrify
 [vscode-firebase-explorer]: https://github.com/jsayol/vscode-firebase-explorer
 [react-firebase-hooks]: https://github.com/CSFrequency/react-firebase-hooks
@@ -228,13 +227,14 @@
 
 <!-- Server-side (Cloud Functions, BigQuery etc) -->
 
-[server-1]: https://firebase.google.com/docs/admin/setup
-[server-2]: https://github.com/firebase/functions-samples
-[server-3]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express
-[server-4]: https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0
-[server-5]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code
-[server-6]: https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
-[server-7]: https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
+[fb-admin-docs]: https://firebase.google.com/docs/admin/setup
+[fb-func-samples]: https://github.com/firebase/functions-samples
+[fb-func-express]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express
+[fb-func-graphql]: https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0
+[fb-func-compiled-code]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code
+[bq-fb-analytics]: https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
+[fb-func-firecasts]: https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
+[cloud-run-rewrites]: https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
 
 <!-- CLI & Editor -->
 
