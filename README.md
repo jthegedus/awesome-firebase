@@ -42,7 +42,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 
 ## Featured (new releases)
 
-- 🔧 [Fireward][fireward] - Easy to use language for Firestore rules, similar to Firebase Bolt.
+- 📹 [Firebase @ Google IO '19][fb-io-19] - All Firebase talks @ Google IO 2019.
 - 📝 [Scheduled (Cron) Cloud Functions for Firebase][cron-cloud-functions] - Firebase-native Cron triggers for Firebase Cloud Functions.
 - 🔌 [Integrify][integrify] - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 - 🔧 [VSCode Firebase Explorer][vscode-firebase-explorer] - Explore and manage your Firebase projects.
@@ -120,6 +120,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 - 🔧 [Fuego][fuego] - Firestore client CLI supporting document add/update/query with filtering and pagination.
 - 🔧 [Firestore Rules Generator][firestore-rules-gen] - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
 - 🔧 [Firepit][firepit] - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
+- 🔧 [Fireward][fireward] - Easy to use language for Firestore rules, similar to Firebase Bolt.
 
 ## Other
 
@@ -259,6 +260,7 @@ Who else should we be following!?
 [fb-summit-18]: https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R
 [fb-next-18]: https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL
 [fb-io-18]: https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd
+[fb-io-19]: https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO
 [fb-ask-fb]: https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA
 
 <!-- Follow -->
