@@ -15,10 +15,10 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - yarn-packages-{{ checksum "yarn.lock" }}
+            - yarn-packages
       - run: yarn add awesome-lint
       - save_cache:
-          key: yarn-packages-{{ checksum "yarn.lock" }}
+          key: yarn-packages
           paths:
             - ~/.cache/yarn
       - run: yarn awesome-lint
