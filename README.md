@@ -51,6 +51,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 ## Official Firebase Docs & Quickstarts
 
 - 📖 [Firebase Documentation][fb-docs] - Official Firebase Documentation.
+- 🔧 [Firebase Status Dashboard][fb-status-dashboard] - This page provides status information on the services that are part of Firebase.
 - 💡 [Firebase Quickstarts][fb-quickstarts] - Official Firebase Quickstarts.
 - 💡 [Google Codelabs | Firebase][google-codelabs] - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
 
@@ -178,6 +179,7 @@ Who else should we be following!?
 <!-- Official Firebase Docs & Quickstarts -->
 
 [fb-docs]: https://firebase.google.com/docs
+[fb-status-dashboard]: https://status.firebase.google.com
 [fb-quickstarts]: https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=
 [google-codelabs]: https://codelabs.developers.google.com/?cat=Firebase
 
