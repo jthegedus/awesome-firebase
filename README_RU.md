@@ -51,6 +51,7 @@
 ## Официальная документация и быстрый старт
 
 - 📖 [Firebase Documentation][fb-docs] - Официальная документация по Firebase.
+- 🔧 [Firebase Status Dashboard][fb-status-dashboard] - Эта страница предоставляет информацию о состоянии сервисов, которые являются частью Firebase.
 - 💡 [Firebase Quickstarts][fb-quickstarts] - Официальные примеры для быстрого старта с Firebase.
 - 💡 [Google Codelabs | Firebase][google-codelabs] - Codelabs для разработчиков Google предоставляют практическое руководство по написанию кода.
 
@@ -178,6 +179,7 @@
 <!-- Official Firebase Docs & Quickstarts -->
 
 [fb-docs]: https://firebase.google.com/docs
+[fb-status-dashboard]: https://status.firebase.google.com
 [fb-quickstarts]: https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=
 [google-codelabs]: https://codelabs.developers.google.com/?cat=Firebase
 
