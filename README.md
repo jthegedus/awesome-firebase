@@ -75,6 +75,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 - 🔌 [FireSQL][firesql] - Query Firestore using SQL syntax. Issues the minimum amount of queries necessary in order to get the data that you request.
 - 📖 [Hosting Version History][hosting-version-hist] - Automatic deletion of older versions of your site deployments.
 - 🔌 [Firestorter][firestorter] - Use Firestore in React with zero effort, using MobX (also for react-native).
+- 🔌 [Nextbase][nextbase] - Boilerplate for React developers who want to quick start a project in Firebase.
 
 ## Mobile
 
@@ -203,6 +204,7 @@ Who else should we be following!?
 [firesql]: https://github.com/jsayol/FireSQL
 [firestorter]: https://github.com/IjzerenHein/firestorter
 [hosting-version-hist]: https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions
+[nextbase]: https://github.com/martyan/nextbase
 
 <!-- Mobile -->
 
