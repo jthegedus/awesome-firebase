@@ -42,8 +42,8 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 
 ## Featured (new releases)
 
+- 📝 [State of Firebase (mid 2019)][state-of-firebase-2019] - Cloud Next & Google I/O 2019 updates!
 - 📹 [Firebase @ Google IO '19][fb-io-19] - All Firebase talks @ Google IO 2019.
-- 📝 [Scheduled (Cron) Cloud Functions for Firebase][cron-cloud-functions] - Firebase-native Cron triggers for Firebase Cloud Functions.
 - 🔌 [Integrify][integrify] - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 - 🔧 [VSCode Firebase Explorer][vscode-firebase-explorer] - Explore and manage your Firebase projects.
 - 🔌 [React Firebase Hooks][react-firebase-hooks] - React Hooks for Firebase services.
@@ -111,6 +111,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 - 📝 [BigQuery & Google Analytics][bq-fb-analytics] - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery.
 - 📹 [Official Cloud Function #Firecasts][fb-func-firecasts] - YouTube video series about understanding how Cloud Functions work.
 - 📝 [Firebase Hosting for Cloud Run Services][cloud-run-rewrites] - Dynamic content with Hosting Rewrites & Cloud Run Services.
+- 📝 [Scheduled (Cron) Cloud Functions for Firebase][cron-cloud-functions] - Firebase-native Cron triggers for Firebase Cloud Functions.
 
 ## CLI & Editor
 
@@ -171,7 +172,7 @@ Who else should we be following!?
 
 <!-- Featured (new releases) -->
 
-[cron-cloud-functions]: https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html
+[state-of-firebase-2019]: https://codeburst.io/the-state-of-firebase-mid-2019-2b002c458d70
 [integrify]: https://github.com/anishkny/integrify
 [vscode-firebase-explorer]: https://github.com/jsayol/vscode-firebase-explorer
 [react-firebase-hooks]: https://github.com/CSFrequency/react-firebase-hooks
@@ -238,6 +239,7 @@ Who else should we be following!?
 [bq-fb-analytics]: https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
 [fb-func-firecasts]: https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
 [cloud-run-rewrites]: https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
+[cron-cloud-functions]: https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html
 
 <!-- CLI & Editor -->
 
