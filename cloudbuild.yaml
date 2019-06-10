@@ -1,0 +1,5 @@
+steps:
+- name: 'gcr.io/cloud-builders/git'
+  args: ['clone', 'https://github.com/jthegedus/awesome-firebase']
+- name: 'node'
+  args: ['npx', 'awesome-lint']
