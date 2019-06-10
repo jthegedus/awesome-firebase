@@ -75,7 +75,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 - 🔌 [FireSQL][firesql] - Query Firestore using SQL syntax. Issues the minimum amount of queries necessary in order to get the data that you request.
 - 📖 [Hosting Version History][hosting-version-hist] - Automatic deletion of older versions of your site deployments.
 - 🔌 [Firestorter][firestorter] - Use Firestore in React with zero effort, using MobX (also for react-native).
-- 🔌 [Nextbase][nextbase] - Boilerplate for React developers who want to quick start a project in Firebase.
+- 💡 [Nextbase][nextbase] - Boilerplate of Next.js, Redux & Firebase for developers who want a quick start project.
 
 ## Mobile
 
