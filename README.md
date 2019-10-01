@@ -138,6 +138,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 - 📹 [Firebase @ Google Cloud Next '18][fb-next-18] - All Firebase talks @ Google Cloud Next 2018.
 - 📹 [Firebase @ Google IO '18][fb-io-18] - All Firebase talks @ Google IO 2018.
 - 📹 [#AskFirebase YouTube Playlist][fb-ask-fb] - Official #AskFirebase playlist on YouTube.
+- 🔌 [Firestore Query Browser][firestore-query-browser] - WebApp to Query, (Batch-)Edit & Export documents with app & user switching.
 
 <!-- END content -->
 
@@ -268,6 +269,7 @@ Who else should we be following!?
 [fb-io-18]: https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd
 [fb-io-19]: https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO
 [fb-ask-fb]: https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA
+[firestore-query-browser]: https://firestore-query-browser.firebaseapp.com
 
 <!-- Follow -->
 
