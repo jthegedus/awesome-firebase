@@ -77,7 +77,6 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 - 🔌 [Firestorter][firestorter] - Use Firestore in React with zero effort, using MobX (also for react-native).
 - 💡 [Nextbase][nextbase] - Boilerplate of Next.js, Redux & Firebase for developers who want a quick start project.
 - 🔌 [React Firebase Hooks][react-firebase-hooks] - React Hooks for Firebase services.
--
 
 ## Mobile
 
@@ -143,7 +142,6 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 - 📹 [#AskFirebase YouTube Playlist][fb-ask-fb] - Official #AskFirebase playlist on YouTube.
 - 📝 [State of Firebase (mid 2019)][state-of-firebase-2019] - Cloud Next & Google I/O 2019 updates!
 - 📹 [Firebase @ Google IO '19][fb-io-19] - All Firebase talks @ Google IO 2019.
--
 
 <!-- END content -->
 
