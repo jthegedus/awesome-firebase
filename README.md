@@ -42,11 +42,11 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 
 ## Featured (new releases)
 
-- 📝 [State of Firebase (mid 2019)][state-of-firebase-2019] - Cloud Next & Google I/O 2019 updates!
-- 📹 [Firebase @ Google IO '19][fb-io-19] - All Firebase talks @ Google IO 2019.
-- 🔌 [Integrify][integrify] - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
+- 🔧 [Firebase Extensions][firebase-extensions] - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
+- 📹 [Firebase Summit '19][fb-summit-19] - All Firebase talks @ the Firebase Summit 2019.
+- 🔧 [Firebase App Distribution][firebase-app-distribution] - Distribute pre-release versions of your app to your trusted testers.
+- 🔌 [Firestore Query Browser][firestore-query-browser] - WebApp to Query, (Batch-)Edit & Export documents with app & user switching.
 - 🔧 [VSCode Firebase Explorer][vscode-firebase-explorer] - Explore and manage your Firebase projects.
-- 🔌 [React Firebase Hooks][react-firebase-hooks] - React Hooks for Firebase services.
 
 ## Official Firebase Docs & Quickstarts
 
@@ -76,6 +76,8 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 - 📖 [Hosting Version History][hosting-version-hist] - Automatic deletion of older versions of your site deployments.
 - 🔌 [Firestorter][firestorter] - Use Firestore in React with zero effort, using MobX (also for react-native).
 - 💡 [Nextbase][nextbase] - Boilerplate of Next.js, Redux & Firebase for developers who want a quick start project.
+- 🔌 [React Firebase Hooks][react-firebase-hooks] - React Hooks for Firebase services.
+-
 
 ## Mobile
 
@@ -113,6 +115,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 - 📹 [Official Cloud Function #Firecasts][fb-func-firecasts] - YouTube video series about understanding how Cloud Functions work.
 - 📝 [Firebase Hosting for Cloud Run Services][cloud-run-rewrites] - Dynamic content with Hosting Rewrites & Cloud Run Services.
 - 📝 [Scheduled (Cron) Cloud Functions for Firebase][cron-cloud-functions] - Firebase-native Cron triggers for Firebase Cloud Functions.
+- 🔌 [Integrify][integrify] - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 
 ## CLI & Editor
 
@@ -138,7 +141,9 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 - 📹 [Firebase @ Google Cloud Next '18][fb-next-18] - All Firebase talks @ Google Cloud Next 2018.
 - 📹 [Firebase @ Google IO '18][fb-io-18] - All Firebase talks @ Google IO 2018.
 - 📹 [#AskFirebase YouTube Playlist][fb-ask-fb] - Official #AskFirebase playlist on YouTube.
-- 🔌 [Firestore Query Browser][firestore-query-browser] - WebApp to Query, (Batch-)Edit & Export documents with app & user switching.
+- 📝 [State of Firebase (mid 2019)][state-of-firebase-2019] - Cloud Next & Google I/O 2019 updates!
+- 📹 [Firebase @ Google IO '19][fb-io-19] - All Firebase talks @ Google IO 2019.
+-
 
 <!-- END content -->
 
@@ -268,8 +273,11 @@ Who else should we be following!?
 [fb-next-18]: https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL
 [fb-io-18]: https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd
 [fb-io-19]: https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO
+[fb-summit-19]: https://youtu.be/wO70Pnv0yeo
 [fb-ask-fb]: https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA
 [firestore-query-browser]: https://firestore-query-browser.firebaseapp.com
+[firebase-extensions]: https://firebase.google.com/products/extensions
+[firebase-app-distribution]: https://firebase.google.com/products/app-distribution/
 
 <!-- Follow -->
 
