@@ -42,15 +42,16 @@
 
 ## Избранное (новые выпуски)
 
+- 🔧 [Firebase Extensions][firebase-extensions] - Firebase Extensions предоставляют расширенные функциональные возможности вашим приложениям без необходимости самостоятельно исследовать, писать или отлаживать код.
 - 📹 [Firebase @ Google IO '19][fb-io-19] - Все доклады Firebase @ Google IO 2019.
-- 📝 [Scheduled (Cron) Cloud Functions for Firebase][cron-cloud-functions] - Firebase-native триггеры Cron для облачных функций Firebase.
-- 🔌 [Integrify][integrify] - Обеспечение ссылочной целостности и целостности данных в Firestore с помощью предварительно настроенных триггеров Cloud Functions.
+- 🔧 [Firebase App Distribution][firebase-app-distribution] - Распространение предварительных версий вашего приложения среди доверенных тестировщиков.
+- [Firestore Query Browser][firestore-query-browser] - WebApp to Query, (Пакетное-) Редактирование и Экспорт документов с переключением приложений и пользователей.
 - 🔧 [VSCode Firebase Explorer][vscode-firebase-explorer] - Исследуйте и управляйте своими проектами Firebase.
-- 🔌 [React Firebase Hooks][react-firebase-hooks] - React Hooks для сервисов Firebase.
 
 ## Официальная документация и быстрый старт
 
 - 📖 [Firebase Documentation][fb-docs] - Официальная документация по Firebase.
+- 🔧 [Firebase Status Dashboard][fb-status-dashboard] - Эта страница предоставляет информацию о состоянии сервисов, которые являются частью Firebase.
 - 💡 [Firebase Quickstarts][fb-quickstarts] - Официальные примеры для быстрого старта с Firebase.
 - 💡 [Google Codelabs | Firebase][google-codelabs] - Codelabs для разработчиков Google предоставляют практическое руководство по написанию кода.
 
@@ -74,6 +75,8 @@
 - 🔌 [FireSQL][firesql] - Запросы к Firestore с использованием синтаксиса SQL. Выдает минимальное количество запросов, необходимое для получения запрашиваемых вами данных.
 - 📖 [Hosting Version History][hosting-version-hist] - Автоматическое удаление старых версий вашего сайта.
 - 🔌 [Firestorter][firestorter] - Используйте Firestore в React с нулевым усилием, используя MobX (также для react-native).
+- 💡 [Nextbase][nextbase] -  Шаблоны Next.js, Redux и Firebase для разработчиков, которым нужен быстрый старт проекта.
+- 🔌 [React Firebase Hooks][react-firebase-hooks] - React Hooks для сервисов Firebase.
 
 ## Для мобильных устройств
 
@@ -110,6 +113,8 @@
 - 📝 [BigQuery & Google Analytics][bq-fb-analytics] - Как создать закрытую воронку в Google Analytics для Firebase с помощью BigQuery.
 - 📹 [Official Cloud Function #Firecasts][fb-func-firecasts] - Серия видеороликов на YouTube о понимании работы облачных функций.
 - 📝 [Firebase Hosting for Cloud Run Services][cloud-run-rewrites] - Динамический контент на основе особенностей Firebase Hosting (rewrites) и Cloud Run.
+- 📝 [Scheduled (Cron) Cloud Functions for Firebase][cron-cloud-functions] - Firebase-native триггеры Cron для облачных функций Firebase.
+- 🔌 [Integrify][integrify] - Обеспечение ссылочной целостности и целостности данных в Firestore с помощью предварительно настроенных триггеров Cloud Functions.
 
 ## Интерфейс комадной строки и редактор
 
@@ -135,6 +140,8 @@
 - 📹 [Firebase @ Google Cloud Next '18][fb-next-18] - Все доклады Firebase @ Google Cloud Next 2018.
 - 📹 [Firebase @ Google IO '18][fb-io-18] - Все доклады Firebase @ Google IO 2018.
 - 📹 [#AskFirebase YouTube Playlist][fb-ask-fb] - Официальный плейлист #AskFirebase на YouTube.
+- 📝 [State of Firebase (mid 2019)][state-of-firebase-2019] - Cloud Next & Google I/O 2019 Обновления!
+- 📹 [Firebase @ Google IO '19][fb-io-19] - Все доклады Firebase @ Google IO 2019.
 
 <!-- END content -->
 
@@ -170,7 +177,7 @@
 
 <!-- Featured (new releases) -->
 
-[cron-cloud-functions]: https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html
+[state-of-firebase-2019]: https://codeburst.io/the-state-of-firebase-mid-2019-2b002c458d70
 [integrify]: https://github.com/anishkny/integrify
 [vscode-firebase-explorer]: https://github.com/jsayol/vscode-firebase-explorer
 [react-firebase-hooks]: https://github.com/CSFrequency/react-firebase-hooks
@@ -178,6 +185,7 @@
 <!-- Official Firebase Docs & Quickstarts -->
 
 [fb-docs]: https://firebase.google.com/docs
+[fb-status-dashboard]: https://status.firebase.google.com
 [fb-quickstarts]: https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=
 [google-codelabs]: https://codelabs.developers.google.com/?cat=Firebase
 
@@ -201,6 +209,7 @@
 [firesql]: https://github.com/jsayol/FireSQL
 [firestorter]: https://github.com/IjzerenHein/firestorter
 [hosting-version-hist]: https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions
+[nextbase]: https://github.com/martyan/nextbase
 
 <!-- Mobile -->
 
@@ -230,12 +239,13 @@
 
 [fb-admin-docs]: https://firebase.google.com/docs/admin/setup
 [fb-func-samples]: https://github.com/firebase/functions-samples
-[fb-func-express]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express
+[fb-func-express]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/functions-express
 [fb-func-graphql]: https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0
-[fb-func-compiled-code]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code
+[fb-func-compiled-code]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/functions-w-parcel
 [bq-fb-analytics]: https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
 [fb-func-firecasts]: https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
 [cloud-run-rewrites]: https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
+[cron-cloud-functions]: https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html
 
 <!-- CLI & Editor -->
 
@@ -261,7 +271,11 @@
 [fb-next-18]: https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL
 [fb-io-18]: https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd
 [fb-io-19]: https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO
+[fb-summit-19]: https://youtu.be/wO70Pnv0yeo
 [fb-ask-fb]: https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA
+[firestore-query-browser]: https://firestore-query-browser.firebaseapp.com
+[firebase-extensions]: https://firebase.google.com/products/extensions
+[firebase-app-distribution]: https://firebase.google.com/products/app-distribution/
 
 <!-- Follow -->
 
