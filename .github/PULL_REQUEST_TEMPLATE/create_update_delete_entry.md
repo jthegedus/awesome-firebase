@@ -14,12 +14,8 @@ assignees: ""
 - [ ] the item has the following format:
 
   ```
-  - :legend emoji: [item name][markdown ref link] - Description beginning with capital, ending in period.
-  ...
-  [markdown ref link]: https-link
+  - :legend emoji: [item name](https-link) - Description beginning with capital, ending in period.
   ```
-
-- [ ] 100% definitely using a [reference-style link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 **contributions**
 
