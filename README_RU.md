@@ -42,106 +42,106 @@
 
 ## Избранное (новые выпуски)
 
-- 🔧 [Firebase Extensions][firebase-extensions] - Firebase Extensions предоставляют расширенные функциональные возможности вашим приложениям без необходимости самостоятельно исследовать, писать или отлаживать код.
-- 📹 [Firebase @ Google IO '19][fb-io-19] - Все доклады Firebase @ Google IO 2019.
-- 🔧 [Firebase App Distribution][firebase-app-distribution] - Распространение предварительных версий вашего приложения среди доверенных тестировщиков.
-- [Firestore Query Browser][firestore-query-browser] - WebApp to Query, (Пакетное-) Редактирование и Экспорт документов с переключением приложений и пользователей.
-- 🔧 [VSCode Firebase Explorer][vscode-firebase-explorer] - Исследуйте и управляйте своими проектами Firebase.
+- 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions предоставляют расширенные функциональные возможности вашим приложениям без необходимости самостоятельно исследовать, писать или отлаживать код.
+- 📹 [Firebase Summit '19](https://youtu.be/wO70Pnv0yeo) - Все доклады Firebase Summit 2019.
+- 🔧 [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) - Распространение предварительных версий вашего приложения среди доверенных тестировщиков.
+- 🔌 [Firestore Query Browser](https://firestore-query-browser.firebaseapp.com) - WebApp to Query, (Пакетное-) Редактирование и Экспорт документов с переключением приложений и пользователей.
+- 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Исследуйте и управляйте своими проектами Firebase.
 
 ## Официальная документация и быстрый старт
 
-- 📖 [Firebase Documentation][fb-docs] - Официальная документация по Firebase.
-- 🔧 [Firebase Status Dashboard][fb-status-dashboard] - Эта страница предоставляет информацию о состоянии сервисов, которые являются частью Firebase.
-- 💡 [Firebase Quickstarts][fb-quickstarts] - Официальные примеры для быстрого старта с Firebase.
-- 💡 [Google Codelabs | Firebase][google-codelabs] - Codelabs для разработчиков Google предоставляют практическое руководство по написанию кода.
+- 📖 [Firebase Documentation](https://firebase.google.com/docs) - Официальная документация по Firebase.
+- 🔧 [Firebase Status Dashboard](https://status.firebase.google.com) - Эта страница предоставляет информацию о состоянии сервисов, которые являются частью Firebase.
+- 💡 [Firebase Quickstarts](https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=) - Официальные примеры для быстрого старта с Firebase.
+- 💡 [Google Codelabs | Firebase](https://codelabs.developers.google.com/?cat=Firebase) - Codelabs для разработчиков Google предоставляют практическое руководство по написанию кода.
 
 ## Веб
 
-- 🔌 [Firebase UI][firebase-ui] - FirebaseUI - это библиотека JavaScript с открытым исходным кодом для Web, которая предоставляет простые связи пользовательского интерфейса поверх SDK Firebase для сокрытия стандартного кода и применения лучших практик.
-- 🔌 [Firebase UI for React][fb-ui-react] - React обертка для firebaseUI Web.
-- 🔌 [GeoFire for JavaScript][geofire] - Запросы местоположения в реальном времени с Firebase.
-- 💡 [FirePad][firepad] - Многопользовательский текстовый редактор на Firebase.
-- 🔌 [Ember Fire][ember-fire] - Официально поддерживаемый адаптер для использования Firebase с Ember.
-- 🔌 [Firebase Dart][fb-dart] - Dart обертка для Firebase.
-- 🔌 [PolymerFire][polymer-fire] - Polymer веб-компоненты для Firebase.
-- 🔌 [VueFire][vue-fire] - Связывает Firebase и Vue.js.
-- 🔌 [Angular Fire 2][ng-fire] - Официальная библиотека для Firebase и Angular.
-- 🔌 [Re-base][rebase] - Библиотека вдохновленная Relay для создания React.js + Firebase приложений.
-- 🔌 [React Redux Firebase][react-redux-fb] - Redux связи для Firebase. Содержит компонент высшего порядка для использования с React.
-- 🔌 [GatsbyJS Firebase Data Source][gatsby-fire] - Получение ваших данных Firebase прямо на статически сгенерированные страницы с помощью Gatsby.
-- 🔌 [Apollo Link Firebase][apollo-link-fb] - Предоставляет локальный интерфейс GraphQL для RealtimeDB. БД синхронизируется локально с устройством, Apollo Link обеспечивает запросы в локальную БД.
-- 🔌 [BuckleScript Bindings for Firebase][bs-fb] - Привязки BuckleScript для Firebase для использования в проектах ReasonML.
-- 💡 [Angular Firebase PWA][ng-firestarter] - Angular PWA работает на Firebase. Это может послужить основой для изучения этого стека и развертывания более сложных функций.
-- 🔌 [FireSQL][firesql] - Запросы к Firestore с использованием синтаксиса SQL. Выдает минимальное количество запросов, необходимое для получения запрашиваемых вами данных.
-- 📖 [Hosting Version History][hosting-version-hist] - Автоматическое удаление старых версий вашего сайта.
-- 🔌 [Firestorter][firestorter] - Используйте Firestore в React с нулевым усилием, используя MobX (также для react-native).
-- 💡 [Nextbase][nextbase] -  Шаблоны Next.js, Redux и Firebase для разработчиков, которым нужен быстрый старт проекта.
-- 🔌 [React Firebase Hooks][react-firebase-hooks] - React Hooks для сервисов Firebase.
+- 🔌 [Firebase UI](https://github.com/firebase/firebaseui-web) - FirebaseUI - это библиотека JavaScript с открытым исходным кодом для Web, которая предоставляет простые связи пользовательского интерфейса поверх SDK Firebase для сокрытия стандартного кода и применения лучших практик.
+- 🔌 [Firebase UI for React](https://github.com/firebase/firebaseui-web-react) - React обертка для firebaseUI Web.
+- 🔌 [GeoFire for JavaScript](https://github.com/firebase/geofire-js) - Запросы местоположения в реальном времени с Firebase.
+- 💡 [FirePad](https://github.com/FirebaseExtended/firepad) - Многопользовательский текстовый редактор на Firebase.
+- 🔌 [Ember Fire](https://github.com/firebase/emberFire) - Официально поддерживаемый адаптер для использования Firebase с Ember.
+- 🔌 [Firebase Dart](https://github.com/FirebaseExtended/firebase-dart) - Dart обертка для Firebase.
+- 🔌 [PolymerFire](https://github.com/FirebaseExtended/polymerfire) - Polymer веб-компоненты для Firebase.
+- 🔌 [VueFire](https://github.com/vuejs/vuefire) - Связывает Firebase и Vue.js.
+- 🔌 [Angular Fire 2](https://github.com/angular/angularfire2) - Официальная библиотека для Firebase и Angular.
+- 🔌 [Re-base](https://github.com/tylermcginnis/re-base) - Библиотека вдохновленная Relay для создания React.js + Firebase приложений.
+- 🔌 [React Redux Firebase](https://github.com/prescottprue/react-redux-firebase) - Redux связи для Firebase. Содержит компонент высшего порядка для использования с React.
+- 🔌 [GatsbyJS Firebase Data Source](https://www.gatsbyjs.org/packages/) - Получение ваших данных Firebase прямо на статически сгенерированные страницы с помощью Gatsby.
+- 🔌 [Apollo Link Firebase](https://github.com/Canner/apollo-link-firebase) - Предоставляет локальный интерфейс GraphQL для RealtimeDB. БД синхронизируется локально с устройством, Apollo Link обеспечивает запросы в локальную БД.
+- 🔌 [BuckleScript Bindings for Firebase](https://github.com/avohq/bs-firebase) - Привязки BuckleScript для Firebase для использования в проектах ReasonML.
+- 💡 [Angular Firebase PWA](https://github.com/codediodeio/angular-firestarter) - Angular PWA работает на Firebase. Это может послужить основой для изучения этого стека и развертывания более сложных функций.
+- 🔌 [FireSQL](https://github.com/jsayol/FireSQL) - Запросы к Firestore с использованием синтаксиса SQL. Выдает минимальное количество запросов, необходимое для получения запрашиваемых вами данных.
+- 📖 [Hosting Version History](https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions) - Автоматическое удаление старых версий вашего сайта.
+- 🔌 [Firestorter](https://github.com/IjzerenHein/firestorter) - Используйте Firestore в React с нулевым усилием, используя MobX (также для react-native).
+- 💡 [Nextbase](https://github.com/martyan/nextbase) - Шаблоны Next.js, Redux и Firebase для разработчиков, которым нужен быстрый старт проекта.
+- 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks для сервисов Firebase.
 
 ## Для мобильных устройств
 
-- 📖 [Firebase Flutter Documentation][fb-flutter] - Официальная документация Firebase Flutter.
-- 🔌 [NativeScript plugin Firebase][fb-nativescript] - NativeScript плагин для Firebase.
-- 🔌 [FlutterFire][fb-flutter-fire] - Используйте Firebase сервисы в своем кросс-платформенном [Flutter][flutter] приложении.
-- 🔌 [React Native Firebase][rn-fb] - Проверенная многофункциональная модульная реализация Firebase для React Native. Поддерживает платформы iOS и Android.
-- 🔌 [React Native Firebase Cloud Messaging][rn-fb-fcm] -
+- 📖 [Firebase Flutter Documentation](https://firebase.google.com/docs/flutter/setup) - Официальная документация Firebase Flutter.
+- 🔌 [NativeScript plugin Firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) - NativeScript плагин для Firebase.
+- 🔌 [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - Используйте Firebase сервисы в своем кросс-платформенном [Flutter](https://flutter.io/) приложении.
+- 🔌 [React Native Firebase](https://github.com/invertase/react-native-firebase) - Проверенная многофункциональная модульная реализация Firebase для React Native. Поддерживает платформы iOS и Android.
+- 🔌 [React Native Firebase Cloud Messaging](https://github.com/evollu/react-native-fcm) -
   Модуль React Native для Firebase Cloud Messaging и локальных уведомлений.
-- 💡 [Expo Native Firebase][expo-fb] - Native Firebase Expo приложение (iOS, Android) демо для Firestore, Notifications, Analytics, Storage, Messaging, Database.
-- 💡 [Flutter Calendar App][flutter-cal] -
+- 💡 [Expo Native Firebase](https://github.com/EvanBacon/expo-native-firebase) - Native Firebase Expo приложение (iOS, Android) демо для Firestore, Notifications, Analytics, Storage, Messaging, Database.
+- 💡 [Flutter Calendar App](https://github.com/mattgraham1/FlutterCalendar) -
   Новое приложение Flutter, реализующее простое мобильное приложение календаря для хранения основных событий в облачной базе данных Firebase.
 
 ### Android
 
-- 🔌 [GeoFire for Java][geofire-java] - Запросы местоположения в реальном времени с Firebase.
-- 🔌 [Firebase UI][fb-ui-android] - Оптимизированные UI компоненты для Firebase.
-- 🔌 [FireXtensions][android-firextensions] - Неофициальные Kotlin расширения для Firebase Android SDK.
+- 🔌 [GeoFire for Java](https://github.com/firebase/geofire-java) - Запросы местоположения в реальном времени с Firebase.
+- 🔌 [Firebase UI](https://github.com/firebase/firebaseui-android) - Оптимизированные UI компоненты для Firebase.
+- 🔌 [FireXtensions](https://github.com/rosariopfernandes/firextensions) - Неофициальные Kotlin расширения для Firebase Android SDK.
 
 ### iOS
 
-- 🔌 [GeoFire for Objective-C][geofire-objc] - Запросы местоположения в реальном времени с Firebase.
-- 🔌 [Firebase UI][fb-ui-ios] - iOS UI связи для Firebase.
-- 💡 [MLKit - ARCore][mlkit-arcore] - Пример обнаружения объектов и обозначение их с помощью 3D-меток в дополненной реальности. Использует Firebase ML Kit, ARCore и Firebase RTDB.
-- 💡 [MLKit - ARKit][mlkit-arkit] - Пример обнаружения объектов с помощью Firebase ML Kit и обозначение их 3D-метками в дополненной реальности.
+- 🔌 [GeoFire for Objective-C](https://github.com/firebase/geofire-objc) - Запросы местоположения в реальном времени с Firebase.
+- 🔌 [Firebase UI](https://github.com/firebase/firebaseui-ios) - iOS UI связи для Firebase.
+- 💡 [MLKit - ARCore](https://github.com/FirebaseExtended/MLKit-ARCore) - Пример обнаружения объектов и обозначение их с помощью 3D-меток в дополненной реальности. Использует Firebase ML Kit, ARCore и Firebase RTDB.
+- 💡 [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) - Пример обнаружения объектов с помощью Firebase ML Kit и обозначение их 3D-метками в дополненной реальности.
 
 ## Серверная часть (Cloud Functions, BigQuery и т.д.)
 
-- 📖 [Firebase Admin Documentation][fb-admin-docs] - Официальная документация Firebase Admin SDK.
-- 💡 [Functions Samples][fb-func-samples] - Коллекция примеров приложений, демонстрирующих популярные варианты с использованием Cloud Functions для Firebase.
-- 💡 [Express Server on Cloud Functions][fb-func-express] - Хостинг Express сервера на Cloud Functions.
-- 📝 [GraphQL Server on Cloud Functions][fb-func-graphql] - Хостинг Express сервера с промежуточным слоем GraphQL на Cloud Functions.
-- 💡 [Compiled Code with Cloud Functions][fb-func-compiled-code] - Скомпилируйте ваш Flow, TypeScript или ReasonML для среды выполнения Node, используя Babel, TypeScript Compiler или ParcelJS.
-- 📝 [BigQuery & Google Analytics][bq-fb-analytics] - Как создать закрытую воронку в Google Analytics для Firebase с помощью BigQuery.
-- 📹 [Official Cloud Function #Firecasts][fb-func-firecasts] - Серия видеороликов на YouTube о понимании работы облачных функций.
-- 📝 [Firebase Hosting for Cloud Run Services][cloud-run-rewrites] - Динамический контент на основе особенностей Firebase Hosting (rewrites) и Cloud Run.
-- 📝 [Scheduled (Cron) Cloud Functions for Firebase][cron-cloud-functions] - Firebase-native триггеры Cron для облачных функций Firebase.
-- 🔌 [Integrify][integrify] - Обеспечение ссылочной целостности и целостности данных в Firestore с помощью предварительно настроенных триггеров Cloud Functions.
+- 📖 [Firebase Admin Documentation](https://firebase.google.com/docs/admin/setup) - Официальная документация Firebase Admin SDK.
+- 💡 [Functions Samples](https://github.com/firebase/functions-samples) - Коллекция примеров приложений, демонстрирующих популярные варианты с использованием Cloud Functions для Firebase.
+- 💡 [Express Server on Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/master/functions-express) - Хостинг Express сервера на Cloud Functions.
+- 📝 [GraphQL Server on Cloud Functions](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Хостинг Express сервера с промежуточным слоем GraphQL на Cloud Functions.
+- 💡 [Compiled Code with Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/master/functions-w-parcel) - Скомпилируйте ваш Flow, TypeScript или ReasonML для среды выполнения Node, используя Babel, TypeScript Compiler или ParcelJS.
+- 📝 [BigQuery & Google Analytics](https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1) - Как создать закрытую воронку в Google Analytics для Firebase с помощью BigQuery.
+- 📹 [Official Cloud Function #Firecasts](https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM) - Серия видеороликов на YouTube о понимании работы облачных функций.
+- 📝 [Firebase Hosting for Cloud Run Services](https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html) - Динамический контент на основе особенностей Firebase Hosting (rewrites) и Cloud Run.
+- 📝 [Scheduled (Cron) Cloud Functions for Firebase](https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html) - Firebase-native триггеры Cron для облачных функций Firebase.
+- 🔌 [Integrify](https://github.com/anishkny/integrify) - Обеспечение ссылочной целостности и целостности данных в Firestore с помощью предварительно настроенных триггеров Cloud Functions.
 
 ## Интерфейс комадной строки и редактор
 
-- 🔧 [Firebase Tools][fb-tools] - Инструменты командной строки Firebase.
-- 🔧 [Firebase CI][fb-ci] - Упрощенное взаимодействие с Firebase для непрерывной интеграции.
-- 🔧 [VSFire][vsfire] - Расширение VSCode для подсветки синтаксиса и дополнений кода для правил безопасности и индексов Firestore.
-- 🔧 [Firebase Firestore Snippets][fb-firestore-snippets] - Содержит фрагменты для Firebase и Firestore в редакторе VSCode.
-- 🔧 [Fuego][fuego] - Клиентский интерфейс командной строки Firestore с возможностью добавить/обновить/выбрать записи с фильтрацией и разбиением на страницы.
-- 🔧 [Firestore Rules Generator][firestore-rules-gen] - Официальный (но экспериментальный) генератор правил Firebase для Cloud Firestore основанный на формате Google's Protocol Buffer.
-- 🔧 [Firepit][firepit] - Firepit - это автономная, портативная версия Firebase CLI, которая не имеет зависимостей (включая Node.js).
-- 🔧 [Fireward][fireward] - Простой в использовании язык для правил Firestore, похожий на Firebase Bolt.
+- 🔧 [Firebase Tools](https://github.com/firebase/firebase-tools) - Инструменты командной строки Firebase.
+- 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Упрощенное взаимодействие с Firebase для непрерывной интеграции.
+- 🔧 [VSFire](https://github.com/toba/vsfire) - Расширение VSCode для подсветки синтаксиса и дополнений кода для правил безопасности и индексов Firestore.
+- 🔧 [Firebase Firestore Snippets](https://github.com/peterhdd/firebase-firestore-snippets) - Содержит фрагменты для Firebase и Firestore в редакторе VSCode.
+- 🔧 [Fuego](https://github.com/sgarciac/fuego) - Клиентский интерфейс командной строки Firestore с возможностью добавить/обновить/выбрать записи с фильтрацией и разбиением на страницы.
+- 🔧 [Firestore Rules Generator](https://github.com/FirebaseExtended/protobuf-rules-gen) - Официальный (но экспериментальный) генератор правил Firebase для Cloud Firestore основанный на формате Google's Protocol Buffer.
+- 🔧 [Firepit](https://github.com/abehaskins/firepit) - Firepit - это автономная, портативная версия Firebase CLI, которая не имеет зависимостей (включая Node.js).
+- 🔧 [Fireward](https://github.com/bijoutrouvaille/fireward) - Простой в использовании язык для правил Firestore, похожий на Firebase Bolt.
 
 ## Прочее
 
-- 🔌 [FireDrill][fire-drill] - Находите, изменяте, добавляйте, удаляйте, импортируйте, экспортиртируйте и создавайте отчеты на основе данных Firebase.
-- 💡 [Unity Solutions][unity-solns] - Используйте инструменты Firebase для включения общих функций в ваши игры.
-- 🔌 [Firebase AIR Native Extension][fb-ane] - Коллекция Firebase ANE предоставляет вам доступ к проекту Google Firebase в ваших проектах AdobeAir, поддерживаемых как на Android, так и на iOS, со 100% идентичным ActionScript API.
-- 🔌 [QtFirebase][qt-fb] - Попытка вывести Google Firebase C++ API на Qt+ QML.
-- 📝 [StackBlitz to Firebase Hosting Deployments][fb-stackblitz] - StackBlitz (онлайн-редактор кода) для статического развертывания Firebase Hosting.
-- 🔧 [Flamelink][flamelink] - CMS для Firebase. Поддерживает Firestore, RealtimeDatabase & Storage.
-- 🔧 [Canner CMS][canner] - CMS для разработчиков, поддерживающих источники данных, такие как Firebase/Firestore, GraphQL и Restful API.
-- 📹 [Firebase Summit 2018][fb-summit-18] - Все доклады Firebase Summit 2018.
-- 📹 [Firebase @ Google Cloud Next '18][fb-next-18] - Все доклады Firebase @ Google Cloud Next 2018.
-- 📹 [Firebase @ Google IO '18][fb-io-18] - Все доклады Firebase @ Google IO 2018.
-- 📹 [#AskFirebase YouTube Playlist][fb-ask-fb] - Официальный плейлист #AskFirebase на YouTube.
-- 📝 [State of Firebase (mid 2019)][state-of-firebase-2019] - Cloud Next & Google I/O 2019 Обновления!
-- 📹 [Firebase @ Google IO '19][fb-io-19] - Все доклады Firebase @ Google IO 2019.
+- 🔌 [FireDrill](https://github.com/scottlepp/fire-drill) - Находите, изменяте, добавляйте, удаляйте, импортируйте, экспортиртируйте и создавайте отчеты на основе данных Firebase.
+- 💡 [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) - Используйте инструменты Firebase для включения общих функций в ваши игры.
+- 🔌 [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) - Коллекция Firebase ANE предоставляет вам доступ к проекту Google Firebase в ваших проектах AdobeAir, поддерживаемых как на Android, так и на iOS, со 100% идентичным ActionScript API.
+- 🔌 [QtFirebase](https://github.com/Larpon/QtFirebase) - Попытка вывести Google Firebase C++ API на Qt+ QML.
+- 📝 [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - StackBlitz (онлайн-редактор кода) для статического развертывания Firebase Hosting.
+- 🔧 [Flamelink](https://flamelink.io/) - CMS для Firebase. Поддерживает Firestore, RealtimeDatabase & Storage.
+- 🔧 [Canner CMS](https://github.com/Canner/canner) - CMS для разработчиков, поддерживающих источники данных, такие как Firebase/Firestore, GraphQL и Restful API.
+- 📹 [Firebase Summit 2018](https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R) - Все доклады Firebase Summit 2018.
+- 📹 [Firebase @ Google Cloud Next '18](https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL) - Все доклады Firebase @ Google Cloud Next 2018.
+- 📹 [Firebase @ Google IO '18](https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd) - Все доклады Firebase @ Google IO 2018.
+- 📹 [#AskFirebase YouTube Playlist](https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA) - Официальный плейлист #AskFirebase на YouTube.
+- 📝 [State of Firebase (mid 2019)](https://codeburst.io/the-state-of-firebase-mid-2019-2b002c458d70) - Cloud Next & Google I/O 2019 Обновления!
+- 📹 [Firebase @ Google IO '19](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO) - Все доклады Firebase @ Google IO 2019.
 
 <!-- END content -->
 
@@ -149,12 +149,12 @@
 
 ### Официальные
 
-📹 [Firebase YouTube][fb-yt] 📝 [Firebase блог][fb-blog] 🐦 [@firebase][fb-twitter] 🐦 [@bestoffirebase][bof-twitter]
+📹 [Firebase YouTube](https://www.youtube.com/user/Firebase) 📝 [Firebase блог](https://firebase.googleblog.com/) 🐦 [@firebase](https://twitter.com/firebase) 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase)
 
 ### Сообщество
 
-- 📹 [Fireship - AngularFirebase][angular-firebase]
-- 📹 ru [@firebase_ru - русскоговорящее сообщество. Дружественный Telegram-чат][ru-telegram-chat]
+- 📹 [Fireship - AngularFirebase](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+- 📹 ru [@firebase_ru - русскоговорящее сообщество. Дружественный Telegram-чат](https://t.me/firebase_ru)
 
 За кем еще мы должны последовать!?
 
@@ -164,132 +164,8 @@
 
 ### Участники
 
-[Спасибо этим участникам][contributors]!
+[Спасибо этим участникам](https://github.com/jthegedus/awesome-firebase/graphs/contributors)!
 
 ## Лицензия
 
 [CC0 License][license]
-
-<!-- Links -->
-
-[firebase]: https://firebase.google.com
-[gcp-products]: https://cloud.google.com/products
-
-<!-- Featured (new releases) -->
-
-[state-of-firebase-2019]: https://codeburst.io/the-state-of-firebase-mid-2019-2b002c458d70
-[integrify]: https://github.com/anishkny/integrify
-[vscode-firebase-explorer]: https://github.com/jsayol/vscode-firebase-explorer
-[react-firebase-hooks]: https://github.com/CSFrequency/react-firebase-hooks
-
-<!-- Official Firebase Docs & Quickstarts -->
-
-[fb-docs]: https://firebase.google.com/docs
-[fb-status-dashboard]: https://status.firebase.google.com
-[fb-quickstarts]: https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=
-[google-codelabs]: https://codelabs.developers.google.com/?cat=Firebase
-
-<!-- Web -->
-
-[firebase-ui]: https://github.com/firebase/firebaseui-web
-[fb-ui-react]: https://github.com/firebase/firebaseui-web-react
-[geofire]: https://github.com/firebase/geofire-js
-[firepad]: https://github.com/FirebaseExtended/firepad
-[ember-fire]: https://github.com/firebase/emberFire
-[fb-dart]: https://github.com/FirebaseExtended/firebase-dart
-[polymer-fire]: https://github.com/FirebaseExtended/polymerfire
-[vue-fire]: https://github.com/vuejs/vuefire
-[ng-fire]: https://github.com/angular/angularfire2
-[rebase]: https://github.com/tylermcginnis/re-base
-[react-redux-fb]: https://github.com/prescottprue/react-redux-firebase
-[gatsby-fire]: https://www.gatsbyjs.org/packages/gatsby-source-firebase/#gatsby-firebase-source
-[apollo-link-fb]: https://github.com/Canner/apollo-link-firebase
-[bs-fb]: https://github.com/avohq/bs-firebase
-[ng-firestarter]: https://github.com/codediodeio/angular-firestarter
-[firesql]: https://github.com/jsayol/FireSQL
-[firestorter]: https://github.com/IjzerenHein/firestorter
-[hosting-version-hist]: https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions
-[nextbase]: https://github.com/martyan/nextbase
-
-<!-- Mobile -->
-
-[fb-flutter]: https://firebase.google.com/docs/flutter/setup
-[fb-nativescript]: https://github.com/EddyVerbruggen/nativescript-plugin-firebase
-[fb-flutter-fire]: https://github.com/flutter/plugins/blob/master/FlutterFire.md
-[flutter]: https://flutter.io/
-[rn-fb]: https://github.com/invertase/react-native-firebase
-[rn-fb-fcm]: https://github.com/evollu/react-native-fcm
-[expo-fb]: https://github.com/EvanBacon/expo-native-firebase
-[flutter-cal]: https://github.com/mattgraham1/FlutterCalendar
-
-<!-- Mobile: Android -->
-
-[geofire-java]: https://github.com/firebase/geofire-java
-[fb-ui-android]: https://github.com/firebase/firebaseui-android
-[android-firextensions]: https://github.com/rosariopfernandes/firextensions
-
-<!-- Movile: iOS -->
-
-[geofire-objc]: https://github.com/firebase/geofire-objc
-[fb-ui-ios]: https://github.com/firebase/firebaseui-ios
-[mlkit-arcore]: https://github.com/FirebaseExtended/MLKit-ARCore
-[mlkit-arkit]: https://github.com/FirebaseExtended/MLKit-ARKit
-
-<!-- Server-side (Cloud Functions, BigQuery etc) -->
-
-[fb-admin-docs]: https://firebase.google.com/docs/admin/setup
-[fb-func-samples]: https://github.com/firebase/functions-samples
-[fb-func-express]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/functions-express
-[fb-func-graphql]: https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0
-[fb-func-compiled-code]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/functions-w-parcel
-[bq-fb-analytics]: https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
-[fb-func-firecasts]: https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
-[cloud-run-rewrites]: https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
-[cron-cloud-functions]: https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html
-
-<!-- CLI & Editor -->
-
-[fb-tools]: https://github.com/firebase/firebase-tools
-[fb-ci]: https://github.com/prescottprue/firebase-ci
-[vsfire]: https://github.com/toba/vsfire
-[fb-firestore-snippets]: https://github.com/peterhdd/firebase-firestore-snippets
-[fuego]: https://github.com/sgarciac/fuego
-[firestore-rules-gen]: https://github.com/FirebaseExtended/protobuf-rules-gen
-[firepit]: https://github.com/abehaskins/firepit
-[fireward]: https://github.com/bijoutrouvaille/fireward
-
-<!-- Other -->
-
-[fire-drill]: https://github.com/scottlepp/fire-drill
-[unity-solns]: https://github.com/FirebaseExtended/unity-solutions
-[fb-ane]: https://github.com/myflashlab/Firebase-ANE
-[qt-fb]: https://github.com/Larpon/QtFirebase
-[fb-stackblitz]: https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879
-[flamelink]: https://flamelink.io/
-[canner]: https://github.com/Canner/canner
-[fb-summit-18]: https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R
-[fb-next-18]: https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL
-[fb-io-18]: https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd
-[fb-io-19]: https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO
-[fb-summit-19]: https://youtu.be/wO70Pnv0yeo
-[fb-ask-fb]: https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA
-[firestore-query-browser]: https://firestore-query-browser.firebaseapp.com
-[firebase-extensions]: https://firebase.google.com/products/extensions
-[firebase-app-distribution]: https://firebase.google.com/products/app-distribution/
-
-<!-- Follow -->
-
-[fb-yt]: https://www.youtube.com/user/Firebase
-[fb-blog]: https://firebase.googleblog.com/
-[fb-twitter]: https://twitter.com/firebase
-[bof-twitter]: https://twitter.com/bestoffirebase
-[angular-firebase]: https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
-[ru-telegram-chat]: https://t.me/firebase_ru
-
-<!-- Contributors -->
-
-[contributors]: https://github.com/jthegedus/awesome-firebase/graphs/contributors
-
-<!-- License -->
-
-[license]: https://github.com/jthegedus/awesome-firebase/blob/master/LICENSE
