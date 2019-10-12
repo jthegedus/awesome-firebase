@@ -43,8 +43,8 @@
 ## Избранное (новые выпуски)
 
 - 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions предоставляют расширенные функциональные возможности вашим приложениям без необходимости самостоятельно исследовать, писать или отлаживать код.
-- 📹 [Firebase Summit '19](https://youtu.be/wO70Pnv0yeo) - Все доклады Firebase Summit 2019.
 - 🔧 [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) - Распространение предварительных версий вашего приложения среди доверенных тестировщиков.
+- 📹 [Firebase Summit '19](https://www.youtube.com/watch?v=YKZ6rP4kwV8&list=PLl-K7zZEsYLk2OolaVXVyYrFErctrZXSX) - Все доклады Firebase Summit 2019.
 - 🔌 [Firestore Query Browser](https://firestore-query-browser.firebaseapp.com) - WebApp to Query, (Пакетное-) Редактирование и Экспорт документов с переключением приложений и пользователей.
 - 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Исследуйте и управляйте своими проектами Firebase.
 
@@ -149,7 +149,7 @@
 
 ### Официальные
 
-📹 [Firebase YouTube](https://www.youtube.com/user/Firebase) 📝 [Firebase блог](https://firebase.googleblog.com/) 🐦 [@firebase](https://twitter.com/firebase) 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase)
+📹 [Firebase YouTube](https://www.youtube.com/user/Firebase) 📝 [Firebase блог](https://firebase.googleblog.com/) 🐦 [@firebase](https://twitter.com/firebase) 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase) 👤 [Firebase Facebook](https://www.facebook.com/Firebase)
 
 ### Сообщество
 
