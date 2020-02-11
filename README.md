@@ -46,7 +46,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 - 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
 - 🔧 [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) - Distribute pre-release versions of your app to your trusted testers.
 - 📹 [Firebase Summit 2019](https://www.youtube.com/watch?v=YKZ6rP4kwV8&list=PLl-K7zZEsYLk2OolaVXVyYrFErctrZXSX) - All Firebase talks @ the Firebase Summit 2019.
-- 🔌 [React Fire](https://github.com/FirebaseExtended/reactfire) - Official Firebase React library with Hooks, Context Providers, and Components that make it easy to interact with Firebase.
+- [Svarog](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
 
 ## Official Firebase Docs & Quickstarts
 
@@ -57,6 +57,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 
 ## Web
 
+- 🔌 [React Fire](https://github.com/FirebaseExtended/reactfire) - Official Firebase React library with Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 - 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
 - 🔌 [Firebase UI](https://github.com/firebase/firebaseui-web) - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
 - 🔌 [Firebase UI for React](https://github.com/firebase/firebaseui-web-react) - React Wrapper for firebaseUI Web.
