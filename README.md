@@ -42,7 +42,7 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 
 ## Featured (new releases)
 
-- 🔧 [Remote Styles with Remote Config](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050) - Dynamic/Conditional loading of CSS stored in Remote Config. 
+- 🔧 [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Medium launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)].
 - 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
 - 🔧 [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) - Distribute pre-release versions of your app to your trusted testers.
 - 📹 [Firebase Summit 2019](https://www.youtube.com/watch?v=YKZ6rP4kwV8&list=PLl-K7zZEsYLk2OolaVXVyYrFErctrZXSX) - All Firebase talks @ the Firebase Summit 2019.
