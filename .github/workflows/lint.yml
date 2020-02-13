@@ -1,0 +1,9 @@
+on: [push]
+
+jobs:
+    awesome-lint:
+      name: "lint: awesome-lint"
+      runs-on: ubuntu-latest
+      steps:
+        - name: "lint: awesome-lint"
+          uses: jthegedus/github-action-awesome-lint@v0.1.0 # I trust me, so will happily use Tag versioning over commit_sha
