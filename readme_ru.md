@@ -168,4 +168,4 @@
 
 ## Лицензия
 
-[CC0 License](https://github.com/jthegedus/awesome-firebase/blob/master/LICENSE)
+[CC0 License](license)

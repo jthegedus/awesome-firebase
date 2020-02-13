@@ -172,4 +172,4 @@ Who else should we be following!?
 
 ## License
 
-[CC0 License](https://github.com/jthegedus/awesome-firebase/blob/master/LICENSE)
+[CC0 License](license)
