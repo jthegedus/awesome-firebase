@@ -42,7 +42,6 @@ Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [�
 
 ## Featured (new releases)
 
-
 - 🔧 [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 - 🔌 [Firecoil](https://github.com/rosariopfernandes/firecoil) - Load images from GCS in your Android app using the image loading library Coil.
 - 🔧 [Svarog](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
