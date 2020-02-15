@@ -17,7 +17,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com) docs, ta
 
 <!-- translations -->
 
-Translations: [🇬🇧 en](README.md) · [🇷🇺 ru](README_RU.md) <!-- · [🇪🇸 es](README_ES.md) · [🇮🇩 id](README_ID.md) · [🇯🇵 ja](README_JA.md) · [🇰🇷 ko](README_KO.md) · [🇵🇹 pt](README_PT.md) · [🇨🇳 zh](README_ZH.md) -->
+Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [🇪🇸 es](readme_es.md) · [🇮🇩 id](readme_id.md) · [🇯🇵 ja](readme_ja.md) · [🇰🇷 ko](readme_ko.md) · [🇵🇹 pt](readme_pt.md) · [🇨🇳 zh](readme_zh.md) -->
 
 [Firebase](https://firebase.google.com) is an app dev platform built on the [Google Cloud Platform](https://cloud.google.com/products) providing services and cross-platform SDKs!
 
