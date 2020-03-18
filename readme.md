@@ -42,6 +42,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 
 ## Featured (new releases)
 
+- [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or npm! Great for python, golang, c++ & java Firebase projects.
 - 🔧 [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 - 🔌 [Firecoil](https://github.com/rosariopfernandes/firecoil) - Load images from GCS in your Android app using the image loading library Coil.
 - 🔧 [Svarog](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
