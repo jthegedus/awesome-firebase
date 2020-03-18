@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- title -->
-
+<!--lint ignore no-dead-urls-->
 # Awesome Firebase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/jthegedus/awesome-firebase/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
@@ -42,9 +42,9 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 
 ## Featured (new releases)
 
+- 🔧 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
 - 🔧 [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 - 🔌 [Firecoil](https://github.com/rosariopfernandes/firecoil) - Load images from GCS in your Android app using the image loading library Coil.
-- 🔧 [Svarog](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
 - 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
 - 🔧 [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) - Distribute pre-release versions of your app to your trusted testers.
 
@@ -129,6 +129,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 - 🔧 [Firestore Rules Generator](https://github.com/FirebaseExtended/protobuf-rules-gen) - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
 - 🔧 [Firepit](https://github.com/abehaskins/firepit) - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
 - 🔧 [Fireward](https://github.com/bijoutrouvaille/fireward) - Easy to use language for Firestore rules, similar to Firebase Bolt.
+- 🔧 [Svarog](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
 
 ## Other
 
