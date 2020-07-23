@@ -43,12 +43,12 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 
 ## Featured (new releases)
 
+- 🔧 [Stripe Firebase Extensions](https://github.com/stripe/stripe-firebase-extensions/) - Official Stripe subscriptions and invoices extensions.
 - 🔌 [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
 - 🔧 [Firetable](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
 - 📖 [Firebase Tools UI](https://github.com/firebase/firebase-tools-ui) - Web UI for Firebase Emulator Suite.
 - 🔧 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
 - 🔧 [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
-- 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
 
 ## Official Firebase Docs & Quickstarts
 
@@ -57,6 +57,10 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 - 💡 [Firebase Quickstarts](https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=) - Official Firebase Quickstarts.
 - 💡 [Google Codelabs | Firebase](https://codelabs.developers.google.com/?cat=Firebase) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
 - 📖 [Firebase for Games](https://firebase.google.com/games) - New Firebase for Games landing page with links to Firebase/Google resources for game developers.
+
+## Firebase Extensions
+
+- 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
 
 ## Web
 
