@@ -29,6 +29,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 
 - [Featured (new releases)](#featured-new-releases)
 - [Official Firebase Docs & Quickstarts](#official-firebase-docs--quickstarts)
+- [Firebase Extensions](#firebase-extensions)
 - [Web](#web)
 - [Mobile](#mobile)
 - [Games](#games)
