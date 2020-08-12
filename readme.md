@@ -7,7 +7,7 @@
 
 <!-- subtitle -->
 
-The most **up to date** list of [Firebase](https://firebase.google.com) docs, talks, tools, examples & articles the internet has to offer.
+The most **up to date** list of Firebase docs, talks, tools, examples & articles the internet has to offer.
 
 <!-- image -->
 
@@ -44,9 +44,8 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 
 ## Featured (new releases)
 
+- 🔌 [Firestore Queue System](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
 - 🔧 [Stripe Firebase Extensions](https://github.com/stripe/stripe-firebase-extensions/) - Official Stripe subscriptions and invoices extensions.
-- 🔌 [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
-- 🔧 [Firetable](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
 - 📖 [Firebase Tools UI](https://github.com/firebase/firebase-tools-ui) - Web UI for Firebase Emulator Suite.
 - 🔧 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
 - 🔧 [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
@@ -87,6 +86,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 - 🔌 [Firestorter](https://github.com/IjzerenHein/firestorter) - Use Firestore in React with zero effort, using MobX (also for react-native).
 - 💡 [Nextbase](https://github.com/martyan/nextbase) - Boilerplate of Next.js, Redux & Firebase for developers who want a quick start project.
 - 🔧 [Typesaurus](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
+- 🔌 [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
 
 ## Mobile
 
@@ -145,6 +145,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 - 🔧 [Firepit](https://github.com/abehaskins/firepit) - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
 - 🔧 [Fireward](https://github.com/bijoutrouvaille/fireward) - Easy to use language for Firestore rules, similar to Firebase Bolt.
 - 🔧 [Svarog](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
+- 🔧 [Firetable](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
 
 ## Other
 
