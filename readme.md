@@ -7,7 +7,7 @@
 
 <!-- subtitle -->
 
-The most **up to date** list of [Firebase](https://firebase.google.com) docs, talks, tools, examples & articles the internet has to offer.
+The most **up to date** list of Firebase docs, talks, tools, examples & articles the internet has to offer.
 
 <!-- image -->
 
