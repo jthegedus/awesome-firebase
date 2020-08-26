@@ -92,7 +92,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 
 - 📖 [Firebase Flutter Documentation](https://firebase.google.com/docs/flutter/setup) - Official Firebase Flutter Setup.
 - 🔌 [NativeScript plugin Firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) - NativeScript plugin for Firebase.
-- 🔌 [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - Use Firebase services in your cross-platform [Flutter](https://flutter.io/) application.
+- 🔌 [FlutterFire](https://github.com/FirebaseExtended/flutterfire) - Collection of Firebase plugins for [Flutter](https://flutter.io/) apps.
 - 🔌 [React Native Firebase](https://github.com/invertase/react-native-firebase) - Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
 - 🔌 [React Native Firebase Cloud Messaging](https://github.com/evollu/react-native-fcm) -
   React Native module for Firebase Cloud Messaging and local notification.
