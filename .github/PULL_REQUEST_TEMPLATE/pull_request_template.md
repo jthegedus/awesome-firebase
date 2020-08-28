@@ -1,10 +1,12 @@
 ---
 name: Corrections, Additions, Updates or Removals
 about: PRs of all kinds are welcome to Awesome Firebase
-title: "[lang] "
+title: ""
 labels: ""
-assignees: ""
+assignees: "jthegedus"
 ---
+
+<!-- describe your changes here -->
 
 **awesome-firebase addition checklist**
 
@@ -17,21 +19,6 @@ assignees: ""
   - :legend emoji: [item name](https-link) - Description beginning with capital, ending in period.
   ```
 
-**contributions**
-
-- [ ] name added to, or already exists on, the contributors list (not required)
-  ```shell
-  # add yourself with
-  yarn contributors:add
-  # or
-  npm run contributors:add
-  ```
-
 **Additional context**
 
 <!-- Add any other context about the PR here. -->
-
-**PR checklist**
-
-- [ ] I have indicated the language this contribution is for
-- [ ] I have tagged the appropriate maintainer for this language
