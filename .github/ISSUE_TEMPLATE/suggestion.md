@@ -3,12 +3,12 @@ name: Suggestion
 about: Help us improve with suggestions
 title: ""
 labels: ""
-assignees: ""
+assignees: "jthegedus"
 ---
 
 **What is it that you wish to discuss?**
 
-<!-- descripe what you want here -->
+<!-- describe what you want here -->
 
 **Additional context**
 
