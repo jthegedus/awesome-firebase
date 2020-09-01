@@ -100,6 +100,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 - 💡 [Flutter Calendar App](https://github.com/mattgraham1/FlutterCalendar) -
   New Flutter application implementing a simple mobile calendar app for storing basic events into Firebase cloud database.
 - 🔧 [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) - Distribute pre-release versions of your app to your trusted testers.
+- 🔌 [Flamingo](https://github.com/hukusuke1007/flamingo) - A Firebase Firestore model framework for Dart.
 
 ### Android
 
