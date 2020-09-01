@@ -150,6 +150,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 
 ## Other
 
+- 🔧 [Flank](https://github.com/flank/flank/) - Massively parallel Android and iOS test runner for Firebase Test Lab.
 - 🔌 [Firestore Query Browser](https://firestore-query-browser.firebaseapp.com) - WebApp to Query, (Batch-)Edit & Export documents with app & user switching.
 - 🔌 [FireDrill](https://github.com/scottlepp/fire-drill) - Find, Edit, Add, Remove, Import, Export, and Report on your Firebase data.
 - 💡 [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) - Use Firebase tools to incorporate common features into your games.
