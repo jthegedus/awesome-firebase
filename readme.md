@@ -182,6 +182,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 ### Community
 
 - :fire: [Firebase Developers Discord](https://discord.gg/BN2cgc3) - an open community dedicated to Firebase and its services, where you can to socialize and help other web and app developers from around the world.
+-  🐦 [Firebase Developers Discord on Twitter @FirebaseDiscord](https://twitter.com/FirebaseDiscord)
 - 📹 [Fireship - AngularFirebase](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - 📹 ru [@firebase_ru - Telegram friendly chat](https://t.me/firebase_ru)
 
