@@ -28,7 +28,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
-- [Official Firebase Docs & Quickstarts](#official-firebase-docs--quickstarts)
+- [Official Docs & Quickstarts](#official-docs--quickstarts)
 - [Firebase Extensions](#firebase-extensions)
 - [Web](#web)
 - [Mobile](#mobile)
@@ -38,19 +38,19 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 - [Other](#other)
 - [Follow](#follow)
 
-**Legend**: 📝 blog posts · 💡 examples · 📖 docs · 🔌 libraries · 🔧 tools · 📹 talks/video
+**Legend**: 📝 blog posts · 💡 examples · 📖 docs · 🔌 libraries · 🔧 tools · 📹 talks/video · 🔊 podcasts
 
 <!-- START content -->
 
 ## Featured (new releases)
 
+- 🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - This is the place where we dive deep into Firebase products and learn new tips and tricks along the way.
 - 🔌 [Pyrebase](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
-- 🔌 [SvelteFire](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
 - 🔌 [Firestore Lite](https://github.com/samuelgozi/firebase-firestore-lite) - Lightweight Cloud Firestore library for the browser.
 - 📖 [Firebase Tools UI](https://github.com/firebase/firebase-tools-ui) - Web UI for Firebase Emulator Suite.
 - 🔧 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
 
-## Official Firebase Docs & Quickstarts
+## Official Docs & Quickstarts
 
 - 📖 [Firebase Documentation](https://firebase.google.com/docs) - Official Firebase Documentation.
 - 🔧 [Firebase Status Dashboard](https://status.firebase.google.com) - This page provides status information on the services that are part of Firebase.
@@ -65,6 +65,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 
 ## Web
 
+- 🔌 [SvelteFire](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
 - 🔌 [React Fire](https://github.com/FirebaseExtended/reactfire) - Official Firebase React library with Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 - 🔧 [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 - 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
