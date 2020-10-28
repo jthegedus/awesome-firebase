@@ -199,7 +199,3 @@ Who else should we be following!?
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/jthegedus/awesome-firebase/graphs/contributors)!
-
-## License
-
-[CC0 License](license)
