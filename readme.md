@@ -63,7 +63,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 - 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
 - 🔧 [Stripe Firebase Extensions](https://github.com/stripe/stripe-firebase-extensions/) - Official Stripe subscriptions and invoices extensions.
 
-## Web#
+## Web
 
 - 🔌 [Firestore Lite](https://github.com/samuelgozi/firebase-firestore-lite) - Lightweight Cloud Firestore library for the browser.
 - 🔌 [SvelteFire](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
