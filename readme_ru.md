@@ -3,12 +3,11 @@
 
 <!-- title -->
 <!--lint ignore no-dead-urls-->
-
 # Awesome Firebase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/jthegedus/awesome-firebase/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
 
-Самый актуальный список документов, докладов, инструментов, примеров &amp; статей о [Firebase](https://firebase.google.com), которые может предложить Интернет.
+Самый актуальный список документов, докладов, инструментов, примеров &amp; статей о Firebase, которые может предложить Интернет.
 
 <!-- image -->
 
@@ -30,24 +29,26 @@
 
 - [Избранное (новые выпуски)](#избранное-новые-выпуски)
 - [Официальная документация и быстрый старт](#официальная-документация-и-быстрый-старт)
+- [Расширения Firebase](#расширения-firebase)
 - [Веб](#веб)
 - [Для мобильных устройств](#для-мобильных-устройств)
+- [Игры](#игры)
 - [Серверная часть (Cloud Functions, BigQuery и т.д.)](#серверная-часть-cloud-functions-bigquery-и-тд)
 - [Интерфейс комадной строки и редактор](#Интерфейс-комадной-строки-и-редактор)
 - [Прочее](#прочее)
 - [Источники информации](#Источники-информации)
 
-**Обозначения**: 📝 сообщения в блогах · 💡 примеры · 📖 документы · 🔌 библиотеки · 🔧 инструменты · 📹 беседы/видео
+**Обозначения**: 📝 сообщения в блогах · 💡 примеры · 📖 документы · 🔌 библиотеки · 🔧 инструменты · 📹 беседы/видео · 🔊 подкасты
 
 <!-- START content -->
 
 ## Избранное (новые выпуски)
 
-- 🔧 [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/) - Динамическая/условная загрузка CSS, хранящихся в Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
-- 🔌 [Firecoil](https://github.com/rosariopfernandes/firecoil) - Загрузка изображения из GCS в приложение для Android, используя библиотеку Coil.
-- 🔧 [Svarog](https://github.com/dantothefuture/svarog) - Создание вспомогательных функций Cloud Firestore для проверки схемы с использованием схемы JSON.
-- 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions предоставляют расширенные функциональные возможности вашим приложениям без необходимости самостоятельно исследовать, писать или отлаживать код.
-- 🔧 [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) - Распространение предварительных версий вашего приложения среди доверенных тестировщиков.
+- 🔌 [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - Запросы и фильтрация на основе местоположения с использованием Firebase Firestore.
+- 📹 [Firebase Summit 2020](https://goo.gle/firebasesummit2020) - Все беседы с @ Firebase Summit 2020.
+- 🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - Место, где мы углубляемся в продукты Firebase и попутно узнаем новые советы и рекомендации.
+- 🔌 [Pyrebase](https://github.com/thisbejim/Pyrebase) - Простая обертка на python для Firebase API.
+- 🔧 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - [asdf-vm](https://asdf-vm.com/) плагин для `firebase-tools`. Управляйте Firebase через командную строку без Node.js `npm`! Полезно для `python`, `golang`, `c++` & `java` Firebase-проектов.
 
 ## Официальная документация и быстрый старт
 
@@ -55,10 +56,19 @@
 - 🔧 [Firebase Status Dashboard](https://status.firebase.google.com) - Эта страница предоставляет информацию о состоянии сервисов, которые являются частью Firebase.
 - 💡 [Firebase Quickstarts](https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=) - Официальные примеры для быстрого старта с Firebase.
 - 💡 [Google Codelabs | Firebase](https://codelabs.developers.google.com/?cat=Firebase) - Codelabs для разработчиков Google предоставляют практическое руководство по написанию кода.
+- 📖 [Firebase for Games](https://firebase.google.com/games) - Новая целевая официальная страница Firebase for Games со ссылками на ресурсы Firebase/Google для разработчиков игр.
+
+## Расширения Firebase
+
+- 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Расширения Firebase добавляют функциональные возможности ваших приложений без необходимости самостоятельно исследовать, писать или отлаживать код.
+- 🔧 [Stripe Firebase Extensions](https://github.com/stripe/stripe-firebase-extensions/) - Официальные подписки на Stripe и расширения для работы со счетами.
 
 ## Веб
 
+- 🔌 [Firestore Lite](https://github.com/samuelgozi/firebase-firestore-lite) - Легкая библиотека Firestore для браузера.
+- 🔌 [SvelteFire](https://github.com/codediodeio/sveltefire) - Кибернетически улучшенные приложения Firebase.
 - 🔌 [React Fire](https://github.com/FirebaseExtended/reactfire) - Официальная библиотека Firebase React с хуками, поставщиками контекста и компонентами, облегчающими взаимодействие с Firebase.
+- 🔧 [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/) - Динамическая/условная загрузка CSS, хранящегося в Remote Config. ([Вводная статья](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 - 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks для сервисов Firebase.
 - 🔌 [Firebase UI](https://github.com/firebase/firebaseui-web) - FirebaseUI - это библиотека JavaScript с открытым исходным кодом для Web, которая предоставляет простые связи пользовательского интерфейса поверх SDK Firebase для сокрытия стандартного кода и применения лучших практик.
 - 🔌 [Firebase UI for React](https://github.com/firebase/firebaseui-web-react) - React обертка для firebaseUI Web.
@@ -79,24 +89,29 @@
 - 📖 [Hosting Version History](https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions) - Автоматическое удаление старых версий вашего сайта.
 - 🔌 [Firestorter](https://github.com/IjzerenHein/firestorter) - Используйте Firestore в React с нулевым усилием, используя MobX (также для react-native).
 - 💡 [Nextbase](https://github.com/martyan/nextbase) - Шаблоны Next.js, Redux и Firebase для разработчиков, которым нужен быстрый старт проекта.
+- 🔧 [Typesaurus](https://github.com/kossnocorp/typesaurus) - Типобезопасный ODM с поддержкой TypeScript для Firestore.
+- 🔌 [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK для Firebase с поддержкой мультиплатформенных проектов (`ios`, `android` & `js`).
 
 ## Для мобильных устройств
 
 - 📖 [Firebase Flutter Documentation](https://firebase.google.com/docs/flutter/setup) - Официальная документация Firebase Flutter.
 - 🔌 [NativeScript plugin Firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) - NativeScript плагин для Firebase.
-- 🔌 [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - Используйте Firebase сервисы в своем кросс-платформенном [Flutter](https://flutter.io/) приложении.
+- 🔌 [FlutterFire](https://github.com/FirebaseExtended/flutterfire) - Коллекция Firebase плагинов для [Flutter](https://flutter.io/) приложений.
 - 🔌 [React Native Firebase](https://github.com/invertase/react-native-firebase) - Проверенная многофункциональная модульная реализация Firebase для React Native. Поддерживает платформы iOS и Android.
 - 🔌 [React Native Firebase Cloud Messaging](https://github.com/evollu/react-native-fcm) -
   Модуль React Native для Firebase Cloud Messaging и локальных уведомлений.
 - 💡 [Expo Native Firebase](https://github.com/EvanBacon/expo-native-firebase) - Native Firebase Expo приложение (iOS, Android) демо для Firestore, Notifications, Analytics, Storage, Messaging, Database.
 - 💡 [Flutter Calendar App](https://github.com/mattgraham1/FlutterCalendar) -
   Новое приложение Flutter, реализующее простое мобильное приложение календаря для хранения основных событий в облачной базе данных Firebase.
+- 🔧 [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) - Распространение предварительных версии вашего приложения среди доверенных тестировщиков.
+- 🔌 [Flamingo](https://github.com/hukusuke1007/flamingo) - Фреймворк Firebase Firestore для Dart.
 
 ### Android
 
 - 🔌 [GeoFire for Java](https://github.com/firebase/geofire-java) - Запросы местоположения в реальном времени с Firebase.
 - 🔌 [Firebase UI](https://github.com/firebase/firebaseui-android) - Оптимизированные UI компоненты для Firebase.
 - 🔌 [FireXtensions](https://github.com/rosariopfernandes/firextensions) - Неофициальные Kotlin расширения для Firebase Android SDK.
+- 🔌 [Firecoil](https://github.com/rosariopfernandes/firecoil) - Загрузка изображений из GCS в приложение для Android с помощью библиотеки Coil.
 
 ### iOS
 
@@ -104,6 +119,10 @@
 - 🔌 [Firebase UI](https://github.com/firebase/firebaseui-ios) - iOS UI связи для Firebase.
 - 💡 [MLKit - ARCore](https://github.com/FirebaseExtended/MLKit-ARCore) - Пример обнаружения объектов и обозначение их с помощью 3D-меток в дополненной реальности. Использует Firebase ML Kit, ARCore и Firebase RTDB.
 - 💡 [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) - Пример обнаружения объектов с помощью Firebase ML Kit и обозначение их 3D-метками в дополненной реальности.
+
+## Игры
+
+- 📖 [Firestore for C++ and Unity](https://firebase.google.com/docs/firestore) - C++ и Unity SDK для C++ и Unity (вместе с Firebase Unity SDK доступные через Unity Package Manager).
 
 ## Серверная часть (Cloud Functions, BigQuery и т.д.)
 
@@ -113,26 +132,33 @@
 - 📝 [GraphQL Server on Cloud Functions](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Хостинг Express сервера с промежуточным слоем GraphQL на Cloud Functions.
 - 💡 [Compiled Code with Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-w-parcel) - Скомпилируйте ваш Flow, TypeScript или ReasonML для среды выполнения Node, используя Babel, TypeScript Compiler или ParcelJS.
 - 📝 [BigQuery & Google Analytics](https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1) - Как создать закрытую воронку в Google Analytics для Firebase с помощью BigQuery.
+<!--lint ignore double-link-->
 - 📹 [Official Cloud Function #Firecasts](https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM) - Серия видеороликов на YouTube о понимании работы облачных функций.
 - 📝 [Firebase Hosting for Cloud Run Services](https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html) - Динамический контент на основе особенностей Firebase Hosting (rewrites) и Cloud Run.
 - 📝 [Scheduled (Cron) Cloud Functions for Firebase](https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html) - Firebase-native триггеры Cron для облачных функций Firebase.
 - 🔌 [Integrify](https://github.com/anishkny/integrify) - Обеспечение ссылочной целостности и целостности данных в Firestore с помощью предварительно настроенных триггеров Cloud Functions.
 - 🔌 [Free Product Analytics with Firebase + BigQuery + Rakam](https://rakam.io/blog/free-product-analytics-with-firebase---bigquery---rakam/) - Как выполнить поведенческий анализ и анализ сегментации данных событий Firebase через BigQuery Export и Rakam.
+- 🔌 [Firestore Queue System](https://github.com/sbarbat/firestore-queuer) - Простая система очередей с использованием Firestore и Cloud Functions.
 
 ## Интерфейс комадной строки и редактор
 
+- 📖 [Firebase Tools UI](https://github.com/firebase/firebase-tools-ui) - Веб-интерфейс для Firebase Emulator Suite.
 - 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Исследуйте и управляйте своими проектами Firebase.
 - 🔧 [Firebase Tools](https://github.com/firebase/firebase-tools) - Инструменты командной строки Firebase.
 - 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Упрощенное взаимодействие с Firebase для непрерывной интеграции.
-- 🔧 [VSFire](https://github.com/toba/vsfire) - Расширение VSCode для подсветки синтаксиса и дополнений кода для правил безопасности и индексов Firestore.
+- 🔧 [Firecode](https://github.com/ChFlick/firecode) - Расширение VSCode для правил безопасности.
 - 🔧 [Firebase Firestore Snippets](https://github.com/peterhdd/firebase-firestore-snippets) - Содержит фрагменты для Firebase и Firestore в редакторе VSCode.
 - 🔧 [Fuego](https://github.com/sgarciac/fuego) - Клиентский интерфейс командной строки Firestore с возможностью добавить/обновить/выбрать записи с фильтрацией и разбиением на страницы.
 - 🔧 [Firestore Rules Generator](https://github.com/FirebaseExtended/protobuf-rules-gen) - Официальный (но экспериментальный) генератор правил Firebase для Cloud Firestore основанный на формате Google's Protocol Buffer.
 - 🔧 [Firepit](https://github.com/abehaskins/firepit) - Firepit - это автономная, портативная версия Firebase CLI, которая не имеет зависимостей (включая Node.js).
 - 🔧 [Fireward](https://github.com/bijoutrouvaille/fireward) - Простой в использовании язык для правил Firestore, похожий на Firebase Bolt.
+- 🔧 [Svarog](https://github.com/dantothefuture/svarog) - Проверка схем Cloud Firestore с помощью JSON Schema сгенерированными вспомогательными функциями Security Rule.
+- 🔧 [Firetable](https://github.com/AntlerVC/firetable) - Подобный Excel/Google Таблицам интерфейс для Firebase/Firestore. Больше никаких админ-порталов!
+- 🔧 [VSFire](https://github.com/toba/vsfire) - Устарело ~Расширение VSCode для подсветки синтаксиса и дополнения кода с помощью правил и индексов безопасности Firestore.~
 
 ## Прочее
 
+- 🔧 [Flank](https://github.com/flank/flank/) - Средство выполнения многопараллельных тестов для Android и iOS для Firebase Test Lab.
 - 🔌 [Firestore Query Browser](https://firestore-query-browser.firebaseapp.com) - WebApp в Query, Batch- редактирование и экспорт документов с переключением приложений и пользователей.
 - 🔌 [FireDrill](https://github.com/scottlepp/fire-drill) - Находите, изменяте, добавляйте, удаляйте, импортируйте, экспортиртируйте и создавайте отчеты на основе данных Firebase.
 - 💡 [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) - Используйте инструменты Firebase для включения общих функций в ваши игры.
@@ -148,6 +174,7 @@
 - 📝 [State of Firebase (mid 2019)](https://codeburst.io/the-state-of-firebase-mid-2019-2b002c458d70) - Cloud Next & Google I/O 2019 Обновления!
 - 📹 [Firebase @ Google IO '19](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO) - Все доклады Firebase @ Google IO 2019.
 - 📹 [Firebase Summit 2019](https://www.youtube.com/watch?v=YKZ6rP4kwV8&list=PLl-K7zZEsYLk2OolaVXVyYrFErctrZXSX) - Все доклады Firebase @ Firebase Summit 2019.
+- 📹 [Firebase Live 2020](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnw0-bXz2f9zo6745VQ_2ep) - Firebase Live - это серия выпусков для разработчиков приложений, состоящая из бесед, советов и технических руководств, направленных на повышение их производительности, знаний и совместной работы.
 
 <!-- END content -->
 
@@ -159,6 +186,8 @@
 
 ### Сообщество
 
+- :fire: [Firebase Developers Discord](https://discord.gg/BN2cgc3) - открытое сообщество, посвященное Firebase и ее сервисам, где вы можете общаться и помогать другим разработчикам веб-приложений и приложений со всего мира.
+- 🐦 [Firebase Developers Discord on Twitter @FirebaseDiscord](https://twitter.com/FirebaseDiscord)
 - 📹 [Fireship - AngularFirebase](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - 📹 ru [@firebase_ru - русскоговорящее сообщество. Дружественный Telegram-чат](https://t.me/firebase_ru)
 
@@ -171,7 +200,3 @@
 ### Участники
 
 [Спасибо этим участникам](https://github.com/jthegedus/awesome-firebase/graphs/contributors)!
-
-## Лицензия
-
-[CC0 License](license)
