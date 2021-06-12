@@ -17,7 +17,7 @@
 
 <!-- translations -->
 
-переводы: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [🇪🇸 es](readme_es.md) · [🇮🇩 id](readme_id.md) · [🇯🇵 ja](readme_ja.md) · [🇰🇷 ko](readme_ko.md) · [🇵🇹 pt](readme_pt.md) · [🇨🇳 zh](readme_zh.md) -->
+переводы: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) · [🇰🇷 ko](readme_ko.md) <!-- · [🇪🇸 es](readme_es.md) · [🇮🇩 id](readme_id.md) · [🇯🇵 ja](readme_ja.md) · [🇵🇹 pt](readme_pt.md) · [🇨🇳 zh](readme_zh.md) -->
 
 [Firebase](https://firebase.google.com) - это платформа для разработчиков приложений, основанная на [Google Cloud Platform](https://cloud.google.com/products), предоставляющая сервисы и кроссплатформенные SDK!
 
