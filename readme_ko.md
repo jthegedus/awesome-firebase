@@ -19,7 +19,7 @@
 
 번역: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) · [🇰🇷 ko](readme_ko.md) <!-- · [🇪🇸 es](readme_es.md) · [🇮🇩 id](readme_id.md) · [🇯🇵 ja](readme_ja.md) · [🇵🇹 pt](readme_pt.md) · [🇨🇳 zh](readme_zh.md) -->
 
-[Firebase](https://firebase.google.com)는 [Google Cloud Platform](https://cloud.google.com/products 에서 제공하는 앱 개발 플랫폼으로, 서비스와 크로스 플랫폼 SDK를 제공합니다.
+[Firebase](https://firebase.google.com)는 [Google Cloud Platform](https://cloud.google.com/products) 에서 제공하는 앱 개발 플랫폼으로, 서비스와 크로스 플랫폼 SDK를 제공합니다.
 </div>
 
 <!-- toc -->
@@ -200,4 +200,4 @@
 
 ### 기여자들
 
-[이 기여자들에게 감사드립니다.](https://github.com/jthegedus/awesome-firebase/graphs/contributors)!
+[이 기여자들에게 감사드립니다](https://github.com/jthegedus/awesome-firebase/graphs/contributors)!
