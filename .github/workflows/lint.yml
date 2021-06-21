@@ -1,4 +1,3 @@
-name: Lint Awesome List
 on:
     pull_request:
     push:
@@ -7,23 +6,21 @@ on:
 
 jobs:
     awesome-lint:
-      name: "lint: awesome-lint"
+      strategy:
+        fail-fast: false
+        matrix:
+          files:
+            - "readme.md"
+            - "readme_ko.md"
+            - "readme_ru.md"
       runs-on: ubuntu-latest
       steps:
         - name: "checkout repo"
           uses: actions/checkout@v2.0.0
-          with:
-            fetch-depth: 0
-        - name: "awesome-lint: readme.md"
-          uses: jthegedus/github-action-awesome-lint@v0.1.0
-        - name: "awesome-lint: readme_ko.md"
+        - name: "linting: ${{ matrix.files }}"
           uses: jthegedus/github-action-awesome-lint@v0.1.0
           with:
-            args: "readme_ko.md"
-        - name: "awesome-lint: readme_ru.md"
-          uses: jthegedus/github-action-awesome-lint@v0.1.0
-          with:
-            args: "readme_ru.md"
+            args: ${{ matrix.files }}
     # awesome-bot:
     #   name: "lint: awesome-bot"
     #   runs-on: ubuntu-latest
