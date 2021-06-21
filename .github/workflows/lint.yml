@@ -21,13 +21,11 @@ jobs:
           uses: jthegedus/github-action-awesome-lint@v0.1.0
           with:
             args: ${{ matrix.files }}
-    # awesome-bot:
-    #   name: "lint: awesome-bot"
-    #   runs-on: ubuntu-latest
-    #   steps:
-    #     - name: "checkout repo"
-    #       uses: actions/checkout@v2.0.0
-    #       with:
-    #         fetch-depth: 0
+    awesome-bot:
+      name: "lint: awesome-bot"
+      runs-on: ubuntu-latest
+      steps:
+        - name: "checkout repo"
+          uses: actions/checkout@v2.0.0
     #     - name: "lint: awesome-bot"
     #       uses: jthegedus/github-action-awesome-bot@v0.1.0 # I trust me, so will happily use Tag versioning over commit_sha
