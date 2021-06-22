@@ -12,8 +12,8 @@ jobs:
         matrix:
           files:
             - "readme.md"
-            - "readme_ko.md"
-            - "readme_ru.md"
+            - "readme-ko.md"
+            - "readme-ru.md"
       runs-on: ubuntu-latest
       steps:
         - name: "checkout repo"
@@ -30,8 +30,8 @@ jobs:
         matrix:
           files:
             - "readme.md"
-            - "readme_ko.md"
-            - "readme_ru.md"
+            - "readme-ko.md"
+            - "readme-ru.md"
       runs-on: ubuntu-latest
       steps:
         - name: "checkout repo"

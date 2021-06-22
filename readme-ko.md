@@ -17,7 +17,7 @@
 
 <!-- translations -->
 
-번역: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) · [🇰🇷 ko](readme_ko.md) <!-- · [🇪🇸 es](readme_es.md) · [🇮🇩 id](readme_id.md) · [🇯🇵 ja](readme_ja.md) · [🇵🇹 pt](readme_pt.md) · [🇨🇳 zh](readme_zh.md) -->
+번역: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme-ru.md) · [🇰🇷 ko](readme-ko.md) <!-- · [🇪🇸 es](readme-es.md) · [🇮🇩 id](readme-id.md) · [🇯🇵 ja](readme-ja.md) · [🇵🇹 pt](readme-pt.md) · [🇨🇳 zh](readme-zh.md) -->
 
 [Firebase](https://firebase.google.com)는 [Google Cloud Platform](https://cloud.google.com/products) 에서 제공하는 앱 개발 플랫폼으로, 서비스와 크로스 플랫폼 SDK를 제공합니다.
 </div>
