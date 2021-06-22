@@ -27,6 +27,7 @@ jobs:
             path: ~/.asdf/
             key: ${{ runner.os }}-${{ hashFiles('**/.tool-versions') }}
         - name: asdf_install
+          if: steps.asdf-cache.outputs.cache-hit != 'true'
           uses: asdf-vm/actions/install@v1
         - name: "linting: ${{ matrix.files }}"
           run: npx -y awesome-lint ${{ matrix.files }}
@@ -51,6 +52,7 @@ jobs:
             path: ~/.asdf/
             key: ${{ runner.os }}-${{ hashFiles('**/.tool-versions') }}
         - name: asdf_install
+          if: steps.asdf-cache.outputs.cache-hit != 'true'
           uses: asdf-vm/actions/install@v1
         - name: "install awesome-bot"
           run: gem install awesome_bot
