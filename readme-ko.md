@@ -23,7 +23,8 @@
 </div>
 
 <!-- toc -->
-<!--lint ignore awesome-toc-->
+<!--lint disable awesome-toc-->
+<!--lint disable awesome-list-item-->
 ## 목차
 
 - [특집 (신간)](#featured-new-releases)
@@ -36,6 +37,7 @@
 - [CLI & 에디터](#cli--editor)
 - [기타](#other)
 - [팔로우](#follow)
+<!--lint enable awesome-list-item-->
 
 **범례**: 📝 블로그 포스트 · 💡 예제 · 📖 문서 · 🔌 라이브러리 · 🔧 도구 · 📹 강연/비디오 · 🔊 팟캐스트
 
