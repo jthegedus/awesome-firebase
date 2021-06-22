@@ -24,7 +24,7 @@
 </div>
 
 <!-- toc -->
-
+<!--lint ignore awesome-toc-->
 ## Содержание
 
 - [Избранное (новые выпуски)](#избранное-новые-выпуски)
@@ -187,7 +187,6 @@
 ### Сообщество
 
 - :fire: [Firebase Developers Discord](https://discord.gg/BN2cgc3) - открытое сообщество, посвященное Firebase и ее сервисам, где вы можете общаться и помогать другим разработчикам веб-приложений и приложений со всего мира.
-- 🐦 [Firebase Developers Discord on Twitter @FirebaseDiscord](https://twitter.com/FirebaseDiscord)
 - 📹 [Fireship - AngularFirebase](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - 📹 ru [@firebase_ru - русскоговорящее сообщество. Дружественный Telegram-чат](https://t.me/firebase_ru)
 
