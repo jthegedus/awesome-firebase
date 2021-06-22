@@ -20,14 +20,7 @@ jobs:
           uses: actions/checkout@v2.0.0
           with:
             fetch-depth: 0
-        - name: asdf cache
-          id: asdf-cache
-          uses: actions/cache@v2
-          with:
-            path: ~/.asdf/
-            key: ${{ runner.os }}-${{ hashFiles('**/.tool-versions') }}
         - name: asdf_install
-          if: steps.asdf-cache.outputs.cache-hit != 'true'
           uses: asdf-vm/actions/install@v1
         - name: "linting: ${{ matrix.files }}"
           run: npx -y awesome-lint ${{ matrix.files }}
@@ -45,15 +38,10 @@ jobs:
           uses: actions/checkout@v2.0.0
           with:
             fetch-depth: 0
-        - name: asdf cache
-          id: asdf-cache
-          uses: actions/cache@v2
+        - name: "setup ruby"
+          uses: actions/setup-ruby@v1
           with:
-            path: ~/.asdf/
-            key: ${{ runner.os }}-${{ hashFiles('**/.tool-versions') }}
-        - name: asdf_install
-          if: steps.asdf-cache.outputs.cache-hit != 'true'
-          uses: asdf-vm/actions/install@v1
+            ruby-version: 3.0.1
         - name: "install awesome-bot"
           run: gem install awesome_bot
         - name: "linting: ${{ matrix.files }}"
