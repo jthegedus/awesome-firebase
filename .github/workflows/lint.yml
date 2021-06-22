@@ -21,13 +21,20 @@ jobs:
           with:
             fetch-depth: 0
         - name: "linting: ${{ matrix.files }}"
-          uses: jthegedus/github-action-awesome-lint@v0.1.0
-          with:
-            args: ${{ matrix.files }}
+          run: npx -y awesome-lint ${{ matrix.files }}
     awesome-bot:
+      strategy:
+        fail-fast: false
+        matrix:
+          files:
+            - "readme.md"
+            - "readme_ko.md"
+            - "readme_ru.md"
       runs-on: ubuntu-latest
       steps:
         - name: "checkout repo"
           uses: actions/checkout@v2.0.0
-    #     - name: "lint: awesome-bot"
-    #       uses: jthegedus/github-action-awesome-bot@v0.1.0 # I trust me, so will happily use Tag versioning over commit_sha
+        - name: "install awesome-bot"
+          run: gem i awesome-bot
+        - name: "linting: ${{ matrix.files }}"
+          run: awesome-bot ${{ matrix.files }}
