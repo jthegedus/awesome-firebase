@@ -1,3 +1,4 @@
+<!--lint disable awesome-toc-->
 <!-- badges -->
 <div align="center">
 
@@ -23,7 +24,6 @@
 </div>
 
 <!-- toc -->
-<!--lint disable awesome-toc-->
 <!--lint disable awesome-list-item-->
 ## 목차
 
