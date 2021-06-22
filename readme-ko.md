@@ -1,3 +1,4 @@
+<!--lint disable awesome-toc-->
 <!-- badges -->
 <div align="center">
 
@@ -17,13 +18,13 @@
 
 <!-- translations -->
 
-번역: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) · [🇰🇷 ko](readme_ko.md) <!-- · [🇪🇸 es](readme_es.md) · [🇮🇩 id](readme_id.md) · [🇯🇵 ja](readme_ja.md) · [🇵🇹 pt](readme_pt.md) · [🇨🇳 zh](readme_zh.md) -->
+번역: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme-ru.md) · [🇰🇷 ko](readme-ko.md) <!-- · [🇪🇸 es](readme-es.md) · [🇮🇩 id](readme-id.md) · [🇯🇵 ja](readme-ja.md) · [🇵🇹 pt](readme-pt.md) · [🇨🇳 zh](readme-zh.md) -->
 
 [Firebase](https://firebase.google.com)는 [Google Cloud Platform](https://cloud.google.com/products) 에서 제공하는 앱 개발 플랫폼으로, 서비스와 크로스 플랫폼 SDK를 제공합니다.
 </div>
 
 <!-- toc -->
-
+<!--lint disable awesome-list-item-->
 ## 목차
 
 - [특집 (신간)](#featured-new-releases)
@@ -36,6 +37,7 @@
 - [CLI & 에디터](#cli--editor)
 - [기타](#other)
 - [팔로우](#follow)
+<!--lint enable awesome-list-item-->
 
 **범례**: 📝 블로그 포스트 · 💡 예제 · 📖 문서 · 🔌 라이브러리 · 🔧 도구 · 📹 강연/비디오 · 🔊 팟캐스트
 
@@ -53,7 +55,7 @@
 
 - 📖 [Firebase Documentation](https://firebase.google.com/docs) - 공식 Firebase 문서입니다.
 - 🔧 [Firebase Status Dashboard](https://status.firebase.google.com) - Firebase의 일부 서비스에 대한 상태 정보를 제공합니다.
-- 💡 [Firebase Quickstarts](https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=) - Firebase의 빠른 시작 예제를 배울 수 있는 공식 Github입니다. 
+- 💡 [Firebase Quickstarts](https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=) - Firebase의 빠른 시작 예제를 배울 수 있는 공식 GitHub입니다. 
 - 💡 [Google Codelabs | Firebase](https://codelabs.developers.google.com/?cat=Firebase) - Google Developers Codelabs는 가이드가 있는 튜토리얼과 실습 코딩 경험을 제공합니다.
 - 📖 [Firebase for Games](https://firebase.google.com/games) - 게임 개발자를 위한 Firebase/Google 리소스에 대한 링크가 포함된, 게임 개발을 위한 Firebase 랜딩 페이지입니다.
 
@@ -188,7 +190,6 @@
 ### 커뮤니티
 
 - :fire: [Firebase Developers Discord](https://discord.gg/BN2cgc3) - 전 세계의 다른 웹 및 앱 개발자와 어울리고, 도움을 줄 수있는 Firebase 및 Firebase 관련 서비스 전용 공개 커뮤니티입니다.
-- 🐦 [Firebase Developers Discord on Twitter @FirebaseDiscord](https://twitter.com/FirebaseDiscord)
 - 📹 [Fireship - AngularFirebase](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - 📹 ru [@firebase_ru - Telegram friendly chat](https://t.me/firebase_ru)
 
