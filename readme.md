@@ -17,7 +17,7 @@ The most **up to date** list of Firebase docs, talks, tools, examples & articles
 
 <!-- translations -->
 
-Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme-ru.md) · [🇰🇷 ko](readme-ko.md) <!-- · [🇪🇸 es](readme-es.md) · [🇮🇩 id](readme-id.md) · [🇯🇵 ja](readme-ja.md) · [🇵🇹 pt](readme-pt.md) · [🇨🇳 zh](readme-zh.md) -->
+Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷🇺 ru](readme-ru.md) <!-- · [🇪🇸 es](readme-es.md) · [🇮🇩 id](readme-id.md) · [🇯🇵 ja](readme-ja.md) · [🇵🇹 pt](readme-pt.md) · [🇨🇳 zh](readme-zh.md) -->
 
 [Firebase](https://firebase.google.com) is an app dev platform built on the [Google Cloud Platform](https://cloud.google.com/products) providing services and cross-platform SDKs!
 
