@@ -146,6 +146,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔌 [Free Product Analytics with Firebase + BigQuery + Rakam](https://rakam.io/blog/free-product-analytics-with-firebase---bigquery---rakam/) - How to do behavioral & segmentation analysis on Firebase event data via BigQuery Export and Rakam.
 - 🔌 [Firestore Queue System](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
 - 🔌 [Pyrebase](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
+- 🔌 [Firecode](https://github.com/kafkas/firecode) - A light, fast, and memory-efficient collection traversal library for Firestore and Node.js.
 
 ## CLI & Editor
 
