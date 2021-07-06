@@ -65,7 +65,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔧 [MessageBird Extensions](https://github.com/messagebird/firestore-send-msg) - Official MessageBird extension to send messages via the MessageBird Converstations API.
 - 🔧 [Algolia Extensions](https://github.com/algolia/firestore-algolia-search) - Official Algolia extension to enable full text search of Cloud Firestore with Algolia.
 - 🔧 [Mailchimp Extensions](https://github.com/mailchimp/Firebase) - Official Mailchimp extension to sync Firebase Authentication events to create member tags, merge fields, and member events with Mailchimp.
-- 🔧 [Firebase Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search) - Extension to add full-text search in Firestore, by syncing the data to [Typesense](https://github.com/typesense/typesense) - an OSS alternative to Algolia.
+- 🔧 [Typesense Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search) - Official Typesense extension to add full-text search in Firestore, by syncing the data to [Typesense](https://github.com/typesense/typesense), an OSS alternative to Algolia.
 
 ## Web
 
