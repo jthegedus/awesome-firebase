@@ -60,7 +60,8 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 ## Firebase Extensions
 
-- 🔧 [Firebase Extensions product](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
+- 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
+- 🔧 [Experimental Firebase Extensions](https://github.com/FirebaseExtended/experimental-extensions) -  laboratory for new extensions created by Firebase.
 - 🔧 [Stripe Extensions](https://github.com/stripe/stripe-firebase-extensions) - Official Stripe subscriptions and invoices extensions.
 - 🔧 [MessageBird Extensions](https://github.com/messagebird/firestore-send-msg) - Official MessageBird extension to send messages via the MessageBird Converstations API.
 - 🔧 [Algolia Extensions](https://github.com/algolia/firestore-algolia-search) - Official Algolia extension to enable full text search of Cloud Firestore with Algolia.
