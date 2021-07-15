@@ -1,7 +1,5 @@
 name: Suggestion
 description: Help us improve with suggestions
-title: ""
-labels: ""
 body:
   - type: markdown
     attributes:
