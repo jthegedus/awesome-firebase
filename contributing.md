@@ -45,7 +45,7 @@ If you wish to see this list in another language, please create a PR with transl
 
 For languages not in the above list.
 
-- Create a README suffixed with your [language code](https://www.w3schools.com/tags/ref_language_codes.asp). Eg: `README_KO.md` for Korean.
+- Create a README suffixed with your [language code](https://www.w3schools.com/tags/ref_language_codes.asp). Eg: `readme-ko.md` for Korean.
 - Add your [language code](https://www.w3schools.com/tags/ref_language_codes.asp) to the list at the top of the root english (README.md lines 12-20).
 
 ### Adding a non-English item to the English README
