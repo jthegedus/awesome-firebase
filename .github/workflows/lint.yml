@@ -17,7 +17,7 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - name: "checkout repo"
-          uses: actions/checkout@v2.0.0
+          uses: actions/checkout@v2
           with:
             fetch-depth: 0
         - name: asdf_install
