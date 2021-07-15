@@ -18,6 +18,6 @@ body:
     attributes:
       label: Describe your suggesiton
       description: How and why is your suggestion useful to the Firebase community?
-      placeholder: I wish to see ool <xyz> here becuase it is used for...
+      placeholder: I wish to see tool <xyz> here becuase it is used for...
     validations:
       required: true
