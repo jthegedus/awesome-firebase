@@ -1,3 +1,4 @@
+<!--lint disable awesome-toc-->
 <!-- badges -->
 <div align="center">
 
