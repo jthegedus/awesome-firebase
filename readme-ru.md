@@ -1,4 +1,3 @@
-<!--lint disable awesome-toc-->
 <!-- badges -->
 <div align="center">
 
@@ -18,14 +17,14 @@
 
 <!-- translations -->
 
-переводы: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme-ru.md) · [🇰🇷 ko](readme-ko.md) <!-- · [🇪🇸 es](readme-es.md) · [🇮🇩 id](readme-id.md) · [🇯🇵 ja](readme-ja.md) · [🇵🇹 pt](readme-pt.md) · [🇨🇳 zh](readme-zh.md) -->
+переводы: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷🇺 ru](readme-ru.md) <!-- · [🇪🇸 es](readme-es.md) · [🇮🇩 id](readme-id.md) · [🇯🇵 ja](readme-ja.md) · [🇵🇹 pt](readme-pt.md) · [🇨🇳 zh](readme-zh.md) -->
 
 [Firebase](https://firebase.google.com) - это платформа для разработчиков приложений, основанная на [Google Cloud Platform](https://cloud.google.com/products), предоставляющая сервисы и кроссплатформенные SDK!
 
 </div>
 
 <!-- toc -->
-<!--lint disable awesome-list-item-->
+
 ## Содержание
 
 - [Избранное (новые выпуски)](#избранное-новые-выпуски)
@@ -38,7 +37,6 @@
 - [Интерфейс комадной строки и редактор](#Интерфейс-комадной-строки-и-редактор)
 - [Прочее](#прочее)
 - [Источники информации](#Источники-информации)
-<!--lint enable awesome-list-item-->
 
 **Обозначения**: 📝 сообщения в блогах · 💡 примеры · 📖 документы · 🔌 библиотеки · 🔧 инструменты · 📹 беседы/видео · 🔊 подкасты
 
@@ -46,11 +44,12 @@
 
 ## Избранное (новые выпуски)
 
-- 🔌 [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - Запросы и фильтрация на основе местоположения с использованием Firebase Firestore.
-- 📹 [Firebase Summit 2020](https://goo.gle/firebasesummit2020) - Все беседы с @ Firebase Summit 2020.
-- 🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - Место, где мы углубляемся в продукты Firebase и попутно узнаем новые советы и рекомендации.
-- 🔌 [Pyrebase](https://github.com/thisbejim/Pyrebase) - Простая обертка на python для Firebase API.
-- 🔧 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - [asdf-vm](https://asdf-vm.com/) плагин для `firebase-tools`. Управляйте Firebase через командную строку без Node.js `npm`! Полезно для `python`, `golang`, `c++` & `java` Firebase-проектов.
+- 🔧 [Firecmacms] (https://firecms.co/docs/) - FireCMMS - это CMS с открытым исходным кодом без публичного представления и панель администратора, построенные разработчиками для разработчиков. Она генерирует CRUD на основе вашей конфигурации.
+- 📖 [Storage in Emulator Suite](https://firebase.google.com/docs/emulator-suite/connect_storage) - Эмулятор для Storage уже в действии!
+- 📖 [App Check](https://firebase.google.com/docs/app-check) - Защитите ресурсы на бэке от злоупотреблений, таких как биллинговое мошенничество или фишинг.
+- 📖 [Firestore Data Bundles](https://firebase.google.com/docs/firestore/bundles) - Пакеты данных, которые являются результатом статического запроса к кэшированным данным CDN для увеличения скорости загрузки первой страницы.
+- 📖 [Modular Web SDK (v9)](https://firebase.google.com/docs/web/learn-more#modular-version) - Импортируйте только то, что вам нужно, снизив размер SDK на 80%.
+- 📝 [App Distribution App Bundles](https://firebase.googleblog.com/2021/05/app-distribution-adds-support-to-android-app-bundles.html) - Поддержка Android App Bundles (AAB) официально поддерживается в распределении приложений.
 
 ## Официальная документация и быстрый старт
 
@@ -64,6 +63,11 @@
 
 - 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Расширения Firebase добавляют функциональные возможности ваших приложений без необходимости самостоятельно исследовать, писать или отлаживать код.
 - 🔧 [Stripe Firebase Extensions](https://github.com/stripe/stripe-firebase-extensions/) - Официальные подписки на Stripe и расширения для работы со счетами.
+- 🔧 [Stripe Extensions](https://github.com/stripe/stripe-firebase-extensions) - Официальные Stripe расширения подписок и счетов.
+- 🔧 [MessageBird Extensions](https://github.com/messagebird/firestore-send-msg) - Официальное расширение Messbird Build для отправки сообщений через MessageBird Converstations API.
+- 🔧 [Algolia Extensions](https://github.com/algolia/firestore-algolia-search) - Официальное расширение Algolia, чтобы включить полнотекстовый поиск Cloud Firestore с помощью Algolia.
+- 🔧 [Mailchimp Extensions](https://github.com/mailchimp/Firebase) - Официальное расширение MailChimp, чтобы синхронизировать события аутентификации FireBase для создания тегов, слияний и членских событий с MailChimp.
+- 🔧 [Typesense Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search) - Официальное расширение Typesense, чтобы добавить полнотекстовый поиск в FireStore, синхронизируя данные с [Typesense](https://github.com/typesense/typesense), OSS альтернатива Algolia.
 
 ## Веб
 
@@ -93,6 +97,7 @@
 - 💡 [Nextbase](https://github.com/martyan/nextbase) - Шаблоны Next.js, Redux и Firebase для разработчиков, которым нужен быстрый старт проекта.
 - 🔧 [Typesaurus](https://github.com/kossnocorp/typesaurus) - Типобезопасный ODM с поддержкой TypeScript для Firestore.
 - 🔌 [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK для Firebase с поддержкой мультиплатформенных проектов (`ios`, `android` & `js`).
+- 🔌 [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - Запросы и фильтрация на основе местоположения с использованием Firebase Firestore.
 
 ## Для мобильных устройств
 
@@ -141,6 +146,8 @@
 - 🔌 [Integrify](https://github.com/anishkny/integrify) - Обеспечение ссылочной целостности и целостности данных в Firestore с помощью предварительно настроенных триггеров Cloud Functions.
 - 🔌 [Free Product Analytics with Firebase + BigQuery + Rakam](https://rakam.io/blog/free-product-analytics-with-firebase---bigquery---rakam/) - Как выполнить поведенческий анализ и анализ сегментации данных событий Firebase через BigQuery Export и Rakam.
 - 🔌 [Firestore Queue System](https://github.com/sbarbat/firestore-queuer) - Простая система очередей с использованием Firestore и Cloud Functions.
+- 🔌 [Pyrebase](https://github.com/thisbejim/Pyrebase) - Простая обертка на python для Firebase API.
+- 🔌 [Firecode](https://github.com/kafkas/firecode) - Легкая, быстрая и экономичная библиотека для обхода коллекций для Firestore и Node.js.
 
 ## Интерфейс комадной строки и редактор
 
@@ -157,6 +164,9 @@
 - 🔧 [Svarog](https://github.com/dantothefuture/svarog) - Проверка схем Cloud Firestore с помощью JSON Schema сгенерированными вспомогательными функциями Security Rule.
 - 🔧 [Firetable](https://github.com/AntlerVC/firetable) - Подобный Excel/Google Таблицам интерфейс для Firebase/Firestore. Больше никаких админ-порталов!
 - 🔧 [VSFire](https://github.com/toba/vsfire) - Устарело ~Расширение VSCode для подсветки синтаксиса и дополнения кода с помощью правил и индексов безопасности Firestore.~
+- 📝 [Refi App](https://refiapp.io/) - Инструмент с графическим интерфейсом с открытым исходным кодом, облегчающий взаимодействие с Firestore.
+- 🔧 [Firefoo](https://firefoo.app) - Инструмент администратора Cloud FireStore с экспортом JSON/CSV и консолью для запросов через JavaScript.
+- 🔧 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - [asdf-vm](https://asdf-vm.com/) плагин для `firebase-tools`. Управляйте Firebase через командную строку без Node.js `npm`! Полезно для `python`, `golang`, `c++` & `java` Firebase-проектов.
 
 ## Прочее
 
@@ -177,6 +187,7 @@
 - 📹 [Firebase @ Google IO '19](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO) - Все доклады Firebase @ Google IO 2019.
 - 📹 [Firebase Summit 2019](https://www.youtube.com/watch?v=YKZ6rP4kwV8&list=PLl-K7zZEsYLk2OolaVXVyYrFErctrZXSX) - Все доклады Firebase @ Firebase Summit 2019.
 - 📹 [Firebase Live 2020](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnw0-bXz2f9zo6745VQ_2ep) - Firebase Live - это серия выпусков для разработчиков приложений, состоящая из бесед, советов и технических руководств, направленных на повышение их производительности, знаний и совместной работы.
+- 📹 [Firebase Summit 2020](https://goo.gle/firebasesummit2020) - Все беседы с @ Firebase Summit 2020.
 
 <!-- END content -->
 
@@ -184,7 +195,12 @@
 
 ### Официальные
 
-📹 [Firebase YouTube](https://www.youtube.com/user/Firebase) 📝 [Firebase блог](https://firebase.googleblog.com/) 🐦 [@firebase](https://twitter.com/firebase) 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase) 👤 [Firebase Facebook](https://www.facebook.com/Firebase)
+- 📹 [Firebase YouTube](https://www.youtube.com/user/Firebase)
+- 📝 [Firebase блог](https://firebase.googleblog.com/)
+- 🐦 [@firebase](https://twitter.com/firebase)
+- 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase)
+- 👤 [Firebase Facebook](https://www.facebook.com/Firebase)
+- 🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - Место, где мы углубляемся в продукты Firebase и попутно узнаем новые советы и рекомендации.
 
 ### Сообщество
 
