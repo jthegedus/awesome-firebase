@@ -200,7 +200,6 @@
 - 📹 [Firebase YouTube](https://www.youtube.com/user/Firebase)
 - 📝 [Firebase блог](https://firebase.googleblog.com/)
 - 🐦 [@firebase](https://twitter.com/firebase)
-- 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase)
 - 👤 [Firebase Facebook](https://www.facebook.com/Firebase)
 - 🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - Место, где мы углубляемся в продукты Firebase и попутно узнаем новые советы и рекомендации.
 
