@@ -169,7 +169,6 @@
 - 🔌 [QtFirebase](https://github.com/Larpon/QtFirebase) - Google의 Firebase C++ API를 Qt + QML로 전환하기 위한 노력으로 만들어진 라이브러리입니다.
 - 📝 [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - StackBliz(온라인 코드 편집기)에서 Firebase Hosting 정적 배포 하는 방법을 알려드립니다.
 - 🔧 [Flamelink](https://flamelink.io/) - Firebase 용 CMS입니다. Firestore와 Realtime Database & Storage를 지원합니다.
-- 🔧 [Canner CMS](https://github.com/Canner/canner) - Firebase / Firestore, GraphQL 및 Restful API와 같은 데이터 소스를 지원하는 개발자를 위한 CMS입니다.
 - 📹 [Firebase Summit 2018](https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R) - Firebase 기술 강연 @ Firebase Summit 2018
 - 📹 [Firebase @ Google Cloud Next '18](https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL) - Firebase 기술 강연 @ Google Cloud Next 2018.
 - 📹 [Firebase @ Google IO '18](https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd) - Firebase 기술 강연 @ Google IO 2018.

@@ -180,7 +180,6 @@
 - 🔌 [QtFirebase](https://github.com/Larpon/QtFirebase) - Попытка вывести Google Firebase C++ API на Qt+ QML.
 - 📝 [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - StackBlitz (онлайн-редактор кода) для статического развертывания Firebase Hosting.
 - 🔧 [Flamelink](https://flamelink.io/) - CMS для Firebase. Поддерживает Firestore, RealtimeDatabase & Storage.
-- 🔧 [Canner CMS](https://github.com/Canner/canner) - CMS для разработчиков, поддерживающих источники данных, такие как Firebase/Firestore, GraphQL и Restful API.
 - 📹 [Firebase Summit 2018](https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R) - Все доклады Firebase Summit 2018.
 - 📹 [Firebase @ Google Cloud Next '18](https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL) - Все доклады Firebase @ Google Cloud Next 2018.
 - 📹 [Firebase @ Google IO '18](https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd) - Все доклады Firebase @ Google IO 2018.
