@@ -185,7 +185,7 @@
 
 ### 공식
 
-📹 [Firebase YouTube](https://www.youtube.com/user/Firebase) 📝 [Firebase 블로그](https://firebase.googleblog.com/) 🐦 [@firebase](https://twitter.com/firebase) 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase) 👤 [Firebase Facebook](https://www.facebook.com/Firebase)
+📹 [Firebase YouTube](https://www.youtube.com/user/Firebase) 📝 [Firebase 블로그](https://firebase.googleblog.com/) 🐦 [@firebase](https://twitter.com/firebase) 👤 [Firebase Facebook](https://www.facebook.com/Firebase)
 
 ### 커뮤니티
 
