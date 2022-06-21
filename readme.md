@@ -204,7 +204,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 ### Community
 
 - :fire: [Firebase Developers Discord](https://discord.gg/BN2cgc3) - an open community dedicated to Firebase and its services, where you can to socialize and help other web and app developers from around the world.
-- 📹 [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) A cool youtuber, famous for his "X in 100 Seconds" videos, and for pitching Firebase.
+- 📹 [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) - A YouTube channel by Jeff Delaney, a Google Firebase expert and creator of the famous "X in 100 Seconds" videos.
 - 📹 ru [@firebase_ru - Telegram friendly chat](https://t.me/firebase_ru)
 
 Who else should we be following!?
