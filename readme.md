@@ -97,6 +97,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔌 [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
 - 🔌 [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - Location-based querying and filtering using Firebase Firestore.
 - 🔧 [FirelordJS](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web.
+- 🔧 [FireSageJS](https://github.com/tylim88/FireSageJS) - Extreme Type Safe For Realtime Database Web.
 
 ## Mobile
 
@@ -148,6 +149,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔌 [Firestore Queue System](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
 - 🔌 [Pyrebase](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
 - 🔌 [Firecode](https://github.com/kafkas/firecode) - A light, fast, and memory-efficient collection traversal library for Firestore and Node.js.
+- 🔧 [Firelord](https://github.com/tylim88/Firelord) - Extremely High Precision Typescript Wrapper for Firestore Admin.
 
 ## CLI & Editor
 
