@@ -149,7 +149,6 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔌 [Firestore Queue System](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
 - 🔌 [Pyrebase](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
 - 🔌 [Firecode](https://github.com/kafkas/firecode) - A light, fast, and memory-efficient collection traversal library for Firestore and Node.js.
-- 🔧 [Firelord](https://github.com/tylim88/Firelord) - Extremely High Precision Typescript Wrapper for Firestore Admin.
 
 ## CLI & Editor
 
