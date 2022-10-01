@@ -96,8 +96,9 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔧 [Typesaurus](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
 - 🔌 [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
 - 🔌 [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - Location-based querying and filtering using Firebase Firestore.
-- 🔧 [FirelordJS](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web.
+- 🔧 [FirelordJS](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web. ([Admin version](https://github.com/tylim88/Firelord))
 - 🔧 [FireSageJS](https://github.com/tylim88/FireSageJS) - Extreme Type Safe For Realtime Database Web.
+- 🔧 [FireSword](https://github.com/tylim88/FireSword) - Filter Firestore and RTDB unknown keys or keys with incorrect data types recursively, support all field values and special data types. (For web and admin)
 
 ## Mobile
 
