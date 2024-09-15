@@ -35,6 +35,7 @@ Translations: [馃嚞馃嚙 en](readme.md) 路 [馃嚢馃嚪 ko](readme-ko.md) 路 [馃嚪馃
 - [Games](#games)
 - [Server-side (Cloud Functions, BigQuery etc)](#server-side-cloud-functions-bigquery-etc)
 - [CLI & Editor](#cli--editor)
+- [Genkit](#genkit)
 - [Other](#other)
 - [Follow](#follow)
 
@@ -169,6 +170,10 @@ Translations: [馃嚞馃嚙 en](readme.md) 路 [馃嚢馃嚪 ko](readme-ko.md) 路 [馃嚪馃
 - 馃摑 [Refi App](https://refiapp.io/) - A GUI tool to make developers less painful when interacting with Firestore DB
 - 馃敡 [Firefoo](https://firefoo.app) - Cloud Firestore GUI Admin Tool with JSON/CSV Export and JavaScript Query Shell.
 - 馃敡 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
+ 
+## Genkit
+
+- 馃摉 [Firebase Awesome Genkit List](https://github.com/xavidop/awesome-firebase-genkit) - A detailed list of all things related to the Firebase Genkit Framework.
 
 ## Other
 
