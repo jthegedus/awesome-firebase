@@ -166,6 +166,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔧 [Svarog](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
 - 🔧 [Firetable](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
 - 🔧 [VSFire](https://github.com/toba/vsfire) - Deprecated ~VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.~
+- 🔧 [FireBlaze](https://fireblaze.app) - Web/PWA Firestore GUI Client with JSON Editing and Options to write complex queries directly.
 - 📝 [Refi App](https://refiapp.io/) - A GUI tool to make developers less painful when interacting with Firestore DB
 - 🔧 [Firefoo](https://firefoo.app) - Cloud Firestore GUI Admin Tool with JSON/CSV Export and JavaScript Query Shell.
 - 🔧 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
