@@ -172,6 +172,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 ## Other
 
+- 🔧 [Vedika API](https://vedika.io) - AI-powered Vedic astrology REST API.
 - 🔧 [FireCMS](https://firecms.co/docs/) - FireCMS is an open source headless CMS and admin panel built by developers for developers. It generates CRUD views based on your configuration.
 - 🔧 [Flank](https://github.com/flank/flank/) - Massively parallel Android and iOS test runner for Firebase Test Lab.
 - 🔌 [Firestore Query Browser](https://firestore-query-browser.firebaseapp.com) - WebApp to Query, (Batch-)Edit & Export documents with app & user switching.
