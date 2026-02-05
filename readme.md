@@ -44,6 +44,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 ## Featured (new releases)
 
+- 🔧 [Firestudio](https://github.com/FlowdeskApp/firestudio) - A free, open-source desktop application for managing Firebase - Firestore, Storage, and Authentication with a powerful GUI.
 - 🔧 [(Unofficial) Firebase Admin SDK for PHP](https://github.com/kreait/firebase-php) - The Firebase Admin PHP SDK enables access to Firebase services from privileged environments (such as servers or cloud) in PHP.
 - 📖 [App Check](https://firebase.google.com/docs/app-check) - Protect your backend resources from abuse, such as billing fraud or phishing.
 - 📖 [Firestore Data Bundles](https://firebase.google.com/docs/firestore/bundles) - Data Bundles are static query results for CDN caching to speed first page loads.

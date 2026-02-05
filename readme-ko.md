@@ -45,6 +45,7 @@
 
 ## 특집 (신간)
 
+- 🔧 [Firestudio](https://github.com/FlowdeskApp/firestudio) - Firebase를 관리하기 위한 무료 오픈소스 데스크톱 애플리케이션입니다. Firestore, Storage, Authentication을 강력한 GUI로 관리할 수 있습니다.
 - 🔌 [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - Firebase Firestore를 사용한 위치 기반 쿼리 및 필터링 라이브러리입니다.
 - 📹 [Firebase Summit 2020](https://goo.gle/firebasesummit2020) - Firebase 기술 강연 @ the Firebase Summit 2020.
 - 🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - Firebase 제품에 대해 깊게 탐구하고, 그 과정에서 새로운 팁과 요령을 배울 수 있는 곳입니다.
