@@ -121,6 +121,7 @@
 - 🔌 [Firebase UI](https://github.com/firebase/firebaseui-android) - Оптимизированные UI компоненты для Firebase.
 - 🔌 [FireXtensions](https://github.com/rosariopfernandes/firextensions) - Неофициальные Kotlin расширения для Firebase Android SDK.
 - 🔌 [Firecoil](https://github.com/rosariopfernandes/firecoil) - Загрузка изображений из GCS в приложение для Android с помощью библиотеки Coil.
+- 🔌 [FireFlow](https://github.com/Zhigaras/FireFlow) - Типобезопасная обертка над Firebase Realtime Database, основанная на Coroutines и Flow.
 
 ### iOS
 
