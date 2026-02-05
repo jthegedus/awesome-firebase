@@ -120,6 +120,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔌 [Firebase UI](https://github.com/firebase/firebaseui-android) - Optimized UI components for Firebase.
 - 🔌 [FireXtensions](https://github.com/rosariopfernandes/firextensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
 - 🔌 [Firecoil](https://github.com/rosariopfernandes/firecoil) - Load images from GCS in your Android app using the image loading library Coil.
+- 🔌 [FireFlow](https://github.com/Zhigaras/FireFlow) - A type-safe coroutine-powered wrapper for Firebase Realtime Database with built-in Kotlin Flow support.
 
 ### iOS
 

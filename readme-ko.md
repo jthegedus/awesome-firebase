@@ -113,6 +113,7 @@
 - 🔌 [Firebase UI](https://github.com/firebase/firebaseui-android) - Firebase에 최적화 된 UI 구성 요소 라이브러리입니다.
 - 🔌 [FireXtensions](https://github.com/rosariopfernandes/firextensions) - Firebase Android SDK를 위한 비공식 Kotlin 확장 프로그램입니다.
 - 🔌 [Firecoil](https://github.com/rosariopfernandes/firecoil) - 이미지 로딩 라이브러리 Coil을 사용하여 Android 앱의 GCS에서 이미지를 로드할 수 있는 라이브러리입니다.
+- 🔌 [FireFlow](https://github.com/Zhigaras/FireFlow) - 타입 안전성을 보장하고 코루틴 기반으로 작동하는 Firebase Realtime Database용 래퍼로, Kotlin Flow를 기본적으로 지원합니다.
 
 ### iOS
 
