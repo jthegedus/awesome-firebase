@@ -25,6 +25,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 <!-- toc -->
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Firebase workflow orchestration, automated backend management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
