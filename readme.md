@@ -191,6 +191,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 📹 [Firebase Live 2020](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnw0-bXz2f9zo6745VQ_2ep) - Firebase Live is a web series for app developers consisting of talks, tips, and technical tutorials aimed at increasing their productivity, knowledge, and collaboration.
 - 📹 [Firebase Summit 2020](https://goo.gle/firebasesummit2020) - All Firebase talks @ the Firebase Summit 2020.
 - 🔧 [Dynaboard](https://dynaboard.com) - Generate low-code web apps from Firebase using AI.
+- 🔧 [firebase-security-skill](https://github.com/Perufitlife/firebase-security-skill) - Open-source MIT auditor that probes anonymously to confirm Firestore/Realtime DB rule misconfigurations, public Storage buckets, and weak auth provider configs. I scanned 77 random Firebase projects and 22% leaked user data anonymously. Outputs an HTML report with copy-paste fix snippets. Hosted run on Apify (no install): [apify.com/renzomacar/firebase-security-auditor](https://apify.com/renzomacar/firebase-security-auditor).
 
 <!-- END content -->
 
