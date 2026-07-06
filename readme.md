@@ -3,6 +3,7 @@
 
 <!-- title -->
 <!--lint ignore no-dead-urls-->
+
 # Awesome Firebase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/jthegedus/awesome-firebase/workflows/lint/badge.svg)
 
 <!-- subtitle -->
@@ -60,7 +61,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 ## Firebase Extensions
 
 - 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
-- 🔧 [Experimental Firebase Extensions](https://github.com/FirebaseExtended/experimental-extensions) -  laboratory for new extensions created by Firebase.
+- 🔧 [Experimental Firebase Extensions](https://github.com/FirebaseExtended/experimental-extensions) - laboratory for new extensions created by Firebase.
 - 🔧 [Stripe Extensions](https://github.com/stripe/stripe-firebase-extensions) - Official Stripe subscriptions and invoices extensions.
 - 🔧 [MessageBird Extensions](https://github.com/messagebird/firestore-send-msg) - Official MessageBird extension to send messages via the MessageBird Converstations API.
 - 🔧 [Algolia Extensions](https://github.com/algolia/firestore-algolia-search) - Official Algolia extension to enable full text search of Cloud Firestore with Algolia.
@@ -157,7 +158,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 - 🔧 [Firebase Tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools.
 - 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
-- 🔧 [Firecode](https://github.com/ChFlick/firecode) -  VS Code Firestore Rules Extension.
+- 🔧 [Firecode](https://github.com/ChFlick/firecode) - VS Code Firestore Rules Extension.
 - 🔧 [Firebase Firestore Snippets](https://github.com/peterhdd/firebase-firestore-snippets) - Contains the snippet for both Firebase and Firestore in VS Code editor.
 - 🔧 [Fuego](https://github.com/sgarciac/fuego) - Firestore client CLI supporting document add/update/query with filtering and pagination.
 - 🔧 [Firestore Rules Generator](https://github.com/FirebaseExtended/protobuf-rules-gen) - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
@@ -169,6 +170,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 📝 [Refi App](https://refiapp.io/) - A GUI tool to make developers less painful when interacting with Firestore DB
 - 🔧 [Firefoo](https://firefoo.app) - Cloud Firestore GUI Admin Tool with JSON/CSV Export and JavaScript Query Shell.
 - 🔧 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
+- 🔧 [FireScan](https://github.com/JacobDavidAlcock/firescan) - Security testing tool for Firebase applications that scans Realtime Database, Firestore, Cloud Storage, and Cloud Functions to test security rules and permissions.
 
 ## Other
 
