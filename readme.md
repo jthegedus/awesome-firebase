@@ -168,6 +168,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔧 [VSFire](https://github.com/toba/vsfire) - Deprecated ~VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.~
 - 📝 [Refi App](https://refiapp.io/) - A GUI tool to make developers less painful when interacting with Firestore DB
 - 🔧 [Firefoo](https://firefoo.app) - Cloud Firestore GUI Admin Tool with JSON/CSV Export and JavaScript Query Shell.
+- 🔧 [Mongrel](https://www.visorcraft.com/mongrel) - Desktop workbench with Firestore support (browse, query, and document tools).
 - 🔧 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
 
 ## Other
