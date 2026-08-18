@@ -98,6 +98,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔌 [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - Location-based querying and filtering using Firebase Firestore.
 - 🔧 [FirelordJS](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web. ([Admin version](https://github.com/tylim88/Firelord))
 - 🔧 [FireSageJS](https://github.com/tylim88/FireSageJS) - Extreme Type Safe For Realtime Database Web.
+- 🔌 [Pushbrain](https://github.com/shivtchandra/pushbrain-js) - Bring-your-own-Firebase push notification strategy layer: campaigns, scheduling, AI-generated copy, and audience health on top of your existing FCM project.
 
 ## Mobile
 
@@ -113,6 +114,8 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
   New Flutter application implementing a simple mobile calendar app for storing basic events into Firebase cloud database.
 - 🔧 [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) - Distribute pre-release versions of your app to your trusted testers.
 - 🔌 [Flamingo](https://github.com/hukusuke1007/flamingo) - A Firebase Firestore model framework for Dart.
+- 🔌 [Pushbrain Flutter SDK](https://github.com/shivtchandra/pushbrain-flutter) - Drop-in Flutter push notifications on top of your own Firebase project, with real open-tracking.
+- 🔌 [Pushbrain React Native SDK](https://github.com/shivtchandra/pushbrain-react-native) - Drop-in React Native push notifications on top of your own Firebase project, with real open-tracking.
 
 ### Android
 
