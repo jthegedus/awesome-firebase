@@ -98,6 +98,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔌 [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - Location-based querying and filtering using Firebase Firestore.
 - 🔧 [FirelordJS](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web. ([Admin version](https://github.com/tylim88/Firelord))
 - 🔧 [FireSageJS](https://github.com/tylim88/FireSageJS) - Extreme Type Safe For Realtime Database Web.
+- 💡 [SyncMarket](https://flippr-dashboard-td.web.app) - Real-time marketplace view tracker and listing decay dashboard with Firebase cloud sync and local-first storage.
 
 ## Mobile
 
